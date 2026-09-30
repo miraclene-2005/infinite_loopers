@@ -1,0 +1,601 @@
+shelter_id,name,x,y,capacity,current_occupancy,status,zone,staff_count,supply_level
+S0001,Anna Nagar Community Hall,86,39,997,227,Available,Industrial,65,All
+S0002,T Nagar Community Hall,59,96,95,35,Available,Central,56,Water
+S0003,Adyar Community Hall,22,78,131,10,Available,Central,45,Water
+S0004,Velachery Community Hall,100,51,819,483,Limited,North,32,Water
+S0005,Tambaram Community Hall,69,12,1085,524,Available,South,96,Basic
+S0006,Guindy Community Hall,96,44,1139,763,Limited,Central,54,Basic
+S0007,Mylapore Community Hall,4,50,617,92,Available,North,64,Basic
+S0008,Porur Community Hall,1,67,1141,718,Available,East,94,Food
+S0009,Ambattur Community Hall,23,8,752,587,Limited,South,47,Basic
+S0010,Avadi Community Hall,35,40,566,236,Available,West,82,Water
+S0011,Perungudi Community Hall,88,93,1178,780,Limited,North,6,Medical
+S0012,Sholinganallur Community Hall,52,89,391,376,Full,North,6,Medical
+S0013,Thiruvanmiyur Community Hall,1,5,201,93,Available,Industrial,28,Basic
+S0014,Kodambakkam Community Hall,49,48,133,97,Limited,Central,53,Food
+S0015,Nungambakkam Community Hall,90,74,657,381,Available,Industrial,7,Basic
+S0016,Egmore Community Hall,47,44,1331,860,Available,North,84,Water
+S0017,Pallavaram Community Hall,76,68,579,240,Available,South,47,Basic
+S0018,Chromepet Community Hall,97,14,1318,405,Available,North,16,Medical
+S0019,Royapettah Community Hall,99,12,1113,912,Limited,West,63,Food
+S0020,Triplicane Community Hall,50,90,794,61,Available,North,63,Water
+S0021,Washermanpet Community Hall,6,11,382,171,Unavailable,East,99,Basic
+S0022,Tondiarpet Community Hall,27,71,184,3,Available,North,68,Medical
+S0023,Perambur Community Hall,70,92,400,213,Available,East,31,All
+S0024,Kolathur Community Hall,94,79,931,595,Available,Central,75,Food
+S0025,Madhavaram Community Hall,78,78,426,298,Available,Central,68,Water
+S0026,Poonamallee Community Hall,73,84,990,178,Available,South,86,Water
+S0027,Koyambedu Community Hall,61,0,1395,801,Limited,West,48,Medical
+S0028,Madipakkam Community Hall,25,66,380,230,Available,North,75,All
+S0029,Medavakkam Community Hall,7,64,898,440,Available,East,88,All
+S0030,Thoraipakkam Community Hall,7,61,374,79,Available,North,78,All
+S0031,Anna Nagar Relief Centre,46,79,1005,166,Available,Industrial,15,Food
+S0032,T Nagar Relief Centre,46,64,1214,778,Available,West,85,Basic
+S0033,Adyar Relief Centre,81,97,606,58,Available,Central,29,Medical
+S0034,Velachery Relief Centre,0,48,907,350,Available,West,13,Medical
+S0035,Tambaram Relief Centre,25,32,419,334,Limited,South,64,Basic
+S0036,Guindy Relief Centre,67,77,1018,668,Limited,Industrial,13,Medical
+S0037,Mylapore Relief Centre,69,54,282,104,Available,North,98,Medical
+S0038,Porur Relief Centre,66,77,705,562,Limited,West,99,Basic
+S0039,Ambattur Relief Centre,77,95,774,710,Full,Central,27,Basic
+S0040,Avadi Relief Centre,18,9,395,368,Full,North,53,Water
+S0041,Perungudi Relief Centre,53,24,1186,411,Available,Central,81,Water
+S0042,Sholinganallur Relief Centre,45,96,417,255,Limited,Industrial,85,Medical
+S0043,Thiruvanmiyur Relief Centre,51,28,881,606,Available,East,88,All
+S0044,Kodambakkam Relief Centre,69,75,1098,419,Unavailable,North,42,Food
+S0045,Nungambakkam Relief Centre,27,63,888,829,Full,West,97,All
+S0046,Egmore Relief Centre,24,1,777,454,Available,Central,93,Basic
+S0047,Pallavaram Relief Centre,33,95,173,25,Available,South,75,Water
+S0048,Chromepet Relief Centre,37,97,1142,603,Available,Central,12,Food
+S0049,Royapettah Relief Centre,39,0,715,66,Available,Industrial,22,Basic
+S0050,Triplicane Relief Centre,72,69,900,575,Available,North,91,All
+S0051,Washermanpet Relief Centre,25,87,267,113,Available,North,77,Basic
+S0052,Tondiarpet Relief Centre,8,12,179,169,Full,East,58,All
+S0053,Perambur Relief Centre,73,21,1478,175,Available,Industrial,6,Basic
+S0054,Kolathur Relief Centre,90,87,1203,758,Available,West,7,Food
+S0055,Madhavaram Relief Centre,1,75,1321,483,Available,North,13,Food
+S0056,Poonamallee Relief Centre,64,97,328,160,Available,East,90,Basic
+S0057,Koyambedu Relief Centre,3,90,204,12,Available,Industrial,59,Basic
+S0058,Madipakkam Relief Centre,65,31,333,64,Available,Industrial,10,Food
+S0059,Medavakkam Relief Centre,50,40,294,202,Limited,Industrial,80,All
+S0060,Thoraipakkam Relief Centre,89,82,619,508,Limited,North,87,Water
+S0061,Anna Nagar Public School,20,32,1430,55,Unavailable,North,81,Basic
+S0062,T Nagar Public School,75,8,410,361,Limited,Central,49,Basic
+S0063,Adyar Public School,54,74,241,112,Available,South,92,Medical
+S0064,Velachery Public School,9,69,326,81,Available,Industrial,91,All
+S0065,Tambaram Public School,29,72,1071,643,Limited,Central,9,All
+S0066,Guindy Public School,40,37,247,87,Available,South,90,Food
+S0067,Mylapore Public School,94,73,120,35,Available,East,73,All
+S0068,Porur Public School,24,24,1330,459,Available,West,19,Food
+S0069,Ambattur Public School,82,94,1257,7,Available,East,69,Water
+S0070,Avadi Public School,53,65,695,378,Available,Central,63,Medical
+S0071,Perungudi Public School,65,56,845,691,Limited,Industrial,29,All
+S0072,Sholinganallur Public School,88,95,1284,938,Limited,North,29,Medical
+S0073,Thiruvanmiyur Public School,21,22,1312,221,Available,West,88,All
+S0074,Kodambakkam Public School,38,100,1325,166,Available,Industrial,67,Medical
+S0075,Nungambakkam Public School,86,76,460,298,Available,West,47,Basic
+S0076,Egmore Public School,33,31,1327,389,Available,Industrial,53,Water
+S0077,Pallavaram Public School,91,91,174,137,Limited,South,98,Food
+S0078,Chromepet Public School,77,34,152,96,Available,Central,40,Basic
+S0079,Royapettah Public School,59,84,358,350,Full,East,11,All
+S0080,Triplicane Public School,24,9,459,165,Available,South,59,All
+S0081,Washermanpet Public School,53,27,833,576,Available,Central,40,Water
+S0082,Tondiarpet Public School,53,96,245,225,Full,East,35,Medical
+S0083,Perambur Public School,31,49,545,240,Available,East,76,Water
+S0084,Kolathur Public School,69,84,1463,1183,Limited,Central,27,Medical
+S0085,Madhavaram Public School,83,76,915,574,Available,East,50,Basic
+S0086,Poonamallee Public School,38,53,631,247,Available,South,9,All
+S0087,Koyambedu Public School,85,98,1398,39,Available,North,43,Water
+S0088,Madipakkam Public School,24,95,288,99,Available,West,39,Food
+S0089,Medavakkam Public School,72,63,508,349,Available,South,97,Water
+S0090,Thoraipakkam Public School,29,51,482,461,Full,East,61,All
+S0091,Anna Nagar Convention Centre,66,0,190,31,Available,Central,75,Water
+S0092,T Nagar Convention Centre,92,73,924,561,Available,South,91,Basic
+S0093,Adyar Convention Centre,34,48,1053,1031,Unavailable,Industrial,67,Medical
+S0094,Velachery Convention Centre,30,34,165,153,Full,East,36,Water
+S0095,Tambaram Convention Centre,63,54,792,385,Available,South,26,Food
+S0096,Guindy Convention Centre,69,53,683,238,Available,North,50,Basic
+S0097,Mylapore Convention Centre,78,99,246,166,Available,East,88,Water
+S0098,Porur Convention Centre,94,69,374,365,Full,West,85,Food
+S0099,Ambattur Convention Centre,2,69,771,520,Available,West,28,Medical
+S0100,Avadi Convention Centre,12,4,1351,404,Available,East,34,All
+S0101,Perungudi Convention Centre,13,63,384,279,Limited,North,55,Water
+S0102,Sholinganallur Convention Centre,45,10,1464,1385,Full,Central,42,Food
+S0103,Thiruvanmiyur Convention Centre,6,16,349,301,Limited,North,9,Water
+S0104,Kodambakkam Convention Centre,55,54,615,362,Limited,Central,86,Food
+S0105,Nungambakkam Convention Centre,18,62,336,271,Limited,South,66,All
+S0106,Egmore Convention Centre,63,68,1075,682,Available,East,44,Basic
+S0107,Pallavaram Convention Centre,65,42,1087,930,Limited,East,21,Medical
+S0108,Chromepet Convention Centre,96,66,245,87,Available,Central,97,Basic
+S0109,Royapettah Convention Centre,13,10,282,245,Unavailable,East,55,Basic
+S0110,Triplicane Convention Centre,3,63,332,157,Available,West,4,Water
+S0111,Washermanpet Convention Centre,74,44,72,35,Available,Central,24,Basic
+S0112,Tondiarpet Convention Centre,68,57,730,474,Available,South,49,Water
+S0113,Perambur Convention Centre,100,81,66,5,Available,South,93,Basic
+S0114,Kolathur Convention Centre,23,48,1197,1077,Full,East,18,Medical
+S0115,Madhavaram Convention Centre,63,97,259,219,Unavailable,East,33,All
+S0116,Poonamallee Convention Centre,45,49,236,22,Available,West,83,Water
+S0117,Koyambedu Convention Centre,84,45,417,354,Limited,North,87,Food
+S0118,Madipakkam Convention Centre,70,36,788,476,Available,North,68,Food
+S0119,Medavakkam Convention Centre,4,53,1071,1,Available,Central,8,All
+S0120,Thoraipakkam Convention Centre,19,30,1040,706,Limited,Central,22,Basic
+S0121,Anna Nagar Sports Complex,78,49,1118,511,Available,East,75,Food
+S0122,T Nagar Sports Complex,51,45,448,84,Available,East,26,All
+S0123,Adyar Sports Complex,44,86,661,191,Available,Industrial,41,Basic
+S0124,Velachery Sports Complex,79,93,1352,45,Available,West,62,Food
+S0125,Tambaram Sports Complex,74,59,76,52,Available,Central,57,Basic
+S0126,Guindy Sports Complex,35,45,1354,688,Available,North,88,All
+S0127,Mylapore Sports Complex,96,37,1285,610,Available,Industrial,73,Medical
+S0128,Porur Sports Complex,94,100,293,282,Full,East,41,All
+S0129,Ambattur Sports Complex,76,78,856,451,Available,South,95,All
+S0130,Avadi Sports Complex,98,83,649,618,Full,South,96,Medical
+S0131,Perungudi Sports Complex,14,39,1133,473,Available,East,65,Basic
+S0132,Sholinganallur Sports Complex,30,10,1269,887,Available,North,39,All
+S0133,Thiruvanmiyur Sports Complex,4,16,654,363,Available,South,67,Basic
+S0134,Kodambakkam Sports Complex,8,85,817,731,Limited,West,32,Basic
+S0135,Nungambakkam Sports Complex,7,28,1188,727,Limited,East,66,Food
+S0136,Egmore Sports Complex,85,25,1255,892,Limited,Industrial,98,All
+S0137,Pallavaram Sports Complex,47,6,116,19,Available,North,55,Food
+S0138,Chromepet Sports Complex,1,69,1385,1282,Full,West,76,Medical
+S0139,Royapettah Sports Complex,27,71,703,608,Limited,South,77,Food
+S0140,Triplicane Sports Complex,2,63,153,47,Available,East,12,Food
+S0141,Washermanpet Sports Complex,92,72,1400,60,Available,West,34,All
+S0142,Tondiarpet Sports Complex,3,61,652,602,Full,Industrial,30,Medical
+S0143,Perambur Sports Complex,62,97,272,10,Available,Industrial,6,Medical
+S0144,Kolathur Sports Complex,69,59,571,262,Available,East,19,All
+S0145,Madhavaram Sports Complex,68,80,232,26,Available,South,27,Food
+S0146,Poonamallee Sports Complex,70,22,194,56,Available,Industrial,98,All
+S0147,Koyambedu Sports Complex,46,14,569,393,Available,North,36,Water
+S0148,Madipakkam Sports Complex,83,81,835,59,Available,West,52,Food
+S0149,Medavakkam Sports Complex,37,16,1262,750,Limited,Central,50,Medical
+S0150,Thoraipakkam Sports Complex,99,27,327,296,Full,North,15,Basic
+S0151,Anna Nagar Municipal Hall,8,38,327,102,Available,North,82,Water
+S0152,T Nagar Municipal Hall,84,4,406,216,Available,North,20,Medical
+S0153,Adyar Municipal Hall,72,80,711,115,Unavailable,West,81,Basic
+S0154,Velachery Municipal Hall,11,6,483,179,Available,East,33,Medical
+S0155,Tambaram Municipal Hall,83,56,1025,199,Available,South,80,Basic
+S0156,Guindy Municipal Hall,36,25,1373,161,Available,Central,9,Medical
+S0157,Mylapore Municipal Hall,56,10,146,96,Available,Industrial,57,Medical
+S0158,Porur Municipal Hall,7,38,650,107,Available,Industrial,90,Food
+S0159,Ambattur Municipal Hall,15,97,1202,30,Available,North,66,Food
+S0160,Avadi Municipal Hall,42,71,1184,674,Unavailable,South,1,Water
+S0161,Perungudi Municipal Hall,4,61,924,60,Available,South,86,Basic
+S0162,Sholinganallur Municipal Hall,25,62,1290,258,Available,West,88,Medical
+S0163,Thiruvanmiyur Municipal Hall,59,20,915,146,Available,North,14,Water
+S0164,Kodambakkam Municipal Hall,40,32,524,372,Limited,West,10,All
+S0165,Nungambakkam Municipal Hall,48,13,1221,1022,Limited,East,2,Food
+S0166,Egmore Municipal Hall,31,99,872,304,Available,North,84,Food
+S0167,Pallavaram Municipal Hall,41,49,246,13,Available,East,16,Medical
+S0168,Chromepet Municipal Hall,80,26,831,621,Limited,North,45,Medical
+S0169,Royapettah Municipal Hall,79,54,606,515,Limited,East,95,Water
+S0170,Triplicane Municipal Hall,63,80,228,138,Limited,South,27,Food
+S0171,Washermanpet Municipal Hall,12,62,1238,826,Available,West,56,All
+S0172,Tondiarpet Municipal Hall,29,19,369,69,Unavailable,North,47,Basic
+S0173,Perambur Municipal Hall,100,98,194,56,Available,South,18,Basic
+S0174,Kolathur Municipal Hall,0,100,259,33,Available,South,40,Water
+S0175,Madhavaram Municipal Hall,87,70,1285,1276,Full,North,79,Basic
+S0176,Poonamallee Municipal Hall,92,99,468,250,Available,West,38,Food
+S0177,Koyambedu Municipal Hall,68,1,489,286,Available,Central,30,Basic
+S0178,Madipakkam Municipal Hall,94,86,713,709,Full,East,82,Medical
+S0179,Medavakkam Municipal Hall,85,22,682,415,Available,East,82,Food
+S0180,Thoraipakkam Municipal Hall,50,35,947,443,Available,East,91,Medical
+S0181,Anna Nagar Community Centre,69,28,362,54,Available,North,71,Basic
+S0182,T Nagar Community Centre,83,69,272,72,Available,North,71,All
+S0183,Adyar Community Centre,44,34,1057,831,Limited,West,27,Medical
+S0184,Velachery Community Centre,1,95,1394,973,Limited,Central,4,Food
+S0185,Tambaram Community Centre,10,16,1253,386,Available,South,37,Basic
+S0186,Guindy Community Centre,96,77,1045,777,Limited,East,73,Water
+S0187,Mylapore Community Centre,33,4,781,536,Limited,West,100,Basic
+S0188,Porur Community Centre,30,13,932,735,Limited,South,61,All
+S0189,Ambattur Community Centre,4,99,349,173,Available,Central,49,Water
+S0190,Avadi Community Centre,73,70,425,54,Available,East,57,All
+S0191,Perungudi Community Centre,75,21,129,83,Limited,Central,30,Water
+S0192,Sholinganallur Community Centre,67,3,485,420,Limited,Central,39,Water
+S0193,Thiruvanmiyur Community Centre,14,53,525,518,Full,West,54,Medical
+S0194,Kodambakkam Community Centre,37,65,313,141,Available,West,2,All
+S0195,Nungambakkam Community Centre,17,17,658,29,Available,East,89,Water
+S0196,Egmore Community Centre,68,61,234,37,Available,South,72,All
+S0197,Pallavaram Community Centre,100,65,934,307,Available,East,52,All
+S0198,Chromepet Community Centre,59,1,638,632,Full,West,86,Basic
+S0199,Royapettah Community Centre,3,61,1354,849,Limited,East,70,Medical
+S0200,Triplicane Community Centre,60,57,604,200,Available,Central,23,Food
+S0201,Washermanpet Community Centre,65,91,82,28,Available,West,99,Basic
+S0202,Tondiarpet Community Centre,66,79,87,55,Available,Central,44,Basic
+S0203,Perambur Community Centre,12,70,139,50,Available,Industrial,74,All
+S0204,Kolathur Community Centre,14,40,1424,1385,Full,East,56,Food
+S0205,Madhavaram Community Centre,16,13,511,335,Limited,West,39,Medical
+S0206,Poonamallee Community Centre,44,15,296,246,Limited,Industrial,99,Medical
+S0207,Koyambedu Community Centre,23,4,121,66,Limited,North,84,All
+S0208,Madipakkam Community Centre,88,77,126,31,Available,West,99,Basic
+S0209,Medavakkam Community Centre,9,39,363,156,Available,North,31,Basic
+S0210,Thoraipakkam Community Centre,36,83,1395,897,Available,West,58,Medical
+S0211,Anna Nagar Welfare Centre,34,84,611,394,Limited,East,65,Basic
+S0212,T Nagar Welfare Centre,61,94,92,54,Available,North,18,Food
+S0213,Adyar Welfare Centre,7,58,552,306,Available,North,58,Medical
+S0214,Velachery Welfare Centre,34,28,831,762,Full,West,50,Water
+S0215,Tambaram Welfare Centre,74,85,948,660,Unavailable,South,29,Water
+S0216,Guindy Welfare Centre,40,100,370,361,Full,West,69,Medical
+S0217,Mylapore Welfare Centre,78,2,444,300,Limited,East,47,Medical
+S0218,Porur Welfare Centre,12,86,384,82,Available,West,44,Water
+S0219,Ambattur Welfare Centre,12,38,1225,1126,Full,Industrial,44,Medical
+S0220,Avadi Welfare Centre,65,64,862,131,Available,South,36,Medical
+S0221,Perungudi Welfare Centre,25,18,968,781,Limited,East,83,Water
+S0222,Sholinganallur Welfare Centre,65,96,871,447,Available,Central,90,All
+S0223,Thiruvanmiyur Welfare Centre,58,75,444,269,Available,West,57,Food
+S0224,Kodambakkam Welfare Centre,56,80,1491,887,Available,Central,100,Water
+S0225,Nungambakkam Welfare Centre,91,38,1008,445,Available,Central,63,Water
+S0226,Egmore Welfare Centre,4,41,576,303,Available,East,3,All
+S0227,Pallavaram Welfare Centre,28,22,270,234,Limited,South,25,All
+S0228,Chromepet Welfare Centre,74,44,934,553,Available,East,7,Food
+S0229,Royapettah Welfare Centre,10,78,991,225,Available,North,92,Food
+S0230,Triplicane Welfare Centre,91,67,517,190,Available,North,51,Food
+S0231,Washermanpet Welfare Centre,4,14,1487,452,Available,North,16,Water
+S0232,Tondiarpet Welfare Centre,2,77,456,279,Available,West,99,Medical
+S0233,Perambur Welfare Centre,68,34,699,375,Available,East,68,Basic
+S0234,Kolathur Welfare Centre,42,23,1403,858,Limited,North,14,Medical
+S0235,Madhavaram Welfare Centre,64,30,1283,827,Limited,Industrial,65,All
+S0236,Poonamallee Welfare Centre,38,32,302,277,Full,East,82,Basic
+S0237,Koyambedu Welfare Centre,44,50,920,880,Full,South,92,Medical
+S0238,Madipakkam Welfare Centre,17,38,497,181,Available,South,83,Medical
+S0239,Medavakkam Welfare Centre,51,90,480,281,Available,Central,45,Food
+S0240,Thoraipakkam Welfare Centre,81,94,1476,68,Available,East,32,Medical
+S0241,Anna Nagar Relief Camp,46,98,1109,971,Unavailable,Central,63,All
+S0242,T Nagar Relief Camp,61,5,532,197,Available,South,68,Basic
+S0243,Adyar Relief Camp,100,78,595,140,Available,North,96,Basic
+S0244,Velachery Relief Camp,80,33,1155,641,Available,East,1,Medical
+S0245,Tambaram Relief Camp,7,89,967,372,Available,South,82,Basic
+S0246,Guindy Relief Camp,24,31,1080,673,Available,Central,24,Medical
+S0247,Mylapore Relief Camp,60,91,922,457,Available,North,31,All
+S0248,Porur Relief Camp,56,60,70,53,Limited,South,58,All
+S0249,Ambattur Relief Camp,73,10,395,138,Available,South,82,Basic
+S0250,Avadi Relief Camp,6,73,1255,411,Available,East,95,Water
+S0251,Perungudi Relief Camp,82,9,299,145,Available,Industrial,19,Medical
+S0252,Sholinganallur Relief Camp,3,22,671,392,Unavailable,Central,85,All
+S0253,Thiruvanmiyur Relief Camp,18,73,1381,383,Available,Industrial,93,Medical
+S0254,Kodambakkam Relief Camp,20,87,124,52,Available,Central,87,Medical
+S0255,Nungambakkam Relief Camp,88,35,1254,862,Available,West,35,Water
+S0256,Egmore Relief Camp,76,8,721,466,Limited,West,83,Water
+S0257,Pallavaram Relief Camp,23,31,346,190,Available,East,70,Food
+S0258,Chromepet Relief Camp,14,25,1055,634,Limited,North,66,Food
+S0259,Royapettah Relief Camp,94,97,1127,43,Available,West,11,Water
+S0260,Triplicane Relief Camp,6,36,240,199,Limited,West,26,Basic
+S0261,Washermanpet Relief Camp,22,12,381,44,Available,Central,50,All
+S0262,Tondiarpet Relief Camp,22,53,1406,279,Available,East,84,Food
+S0263,Perambur Relief Camp,52,26,60,47,Limited,West,100,Food
+S0264,Kolathur Relief Camp,36,77,1272,493,Available,South,5,Medical
+S0265,Madhavaram Relief Camp,23,41,904,86,Available,Industrial,82,Basic
+S0266,Poonamallee Relief Camp,95,54,1119,355,Available,South,98,Water
+S0267,Koyambedu Relief Camp,29,67,1465,401,Available,Central,79,Food
+S0268,Madipakkam Relief Camp,28,100,58,8,Available,Industrial,35,Water
+S0269,Medavakkam Relief Camp,90,77,1386,1140,Limited,Central,35,Medical
+S0270,Thoraipakkam Relief Camp,69,39,707,598,Limited,West,14,Medical
+S0271,Anna Nagar Recreation Centre,84,33,590,13,Available,Industrial,56,All
+S0272,T Nagar Recreation Centre,80,39,1267,1017,Unavailable,Central,60,Food
+S0273,Adyar Recreation Centre,95,45,559,479,Limited,East,91,Medical
+S0274,Velachery Recreation Centre,84,85,1478,815,Available,West,60,Food
+S0275,Tambaram Recreation Centre,1,14,99,97,Full,North,81,Basic
+S0276,Guindy Recreation Centre,37,75,286,234,Limited,South,87,Basic
+S0277,Mylapore Recreation Centre,43,32,1312,673,Available,North,81,Water
+S0278,Porur Recreation Centre,82,25,589,399,Limited,Central,73,All
+S0279,Ambattur Recreation Centre,56,0,1133,1124,Full,Central,98,Medical
+S0280,Avadi Recreation Centre,7,52,1069,716,Limited,Central,87,Medical
+S0281,Perungudi Recreation Centre,100,98,883,203,Available,East,97,All
+S0282,Sholinganallur Recreation Centre,92,32,172,60,Available,West,55,Water
+S0283,Thiruvanmiyur Recreation Centre,51,26,602,255,Available,West,52,Food
+S0284,Kodambakkam Recreation Centre,100,92,1025,738,Limited,South,81,Medical
+S0285,Nungambakkam Recreation Centre,62,28,317,290,Full,South,24,Basic
+S0286,Egmore Recreation Centre,99,80,769,162,Available,West,45,Food
+S0287,Pallavaram Recreation Centre,17,15,1076,1045,Full,West,69,Basic
+S0288,Chromepet Recreation Centre,65,45,854,292,Available,West,42,All
+S0289,Royapettah Recreation Centre,74,57,94,73,Limited,West,74,Water
+S0290,Triplicane Recreation Centre,89,33,1322,590,Available,South,63,Medical
+S0291,Washermanpet Recreation Centre,80,76,1272,1027,Limited,Central,36,Food
+S0292,Tondiarpet Recreation Centre,3,91,377,167,Available,Central,36,Water
+S0293,Perambur Recreation Centre,9,99,302,271,Limited,Central,95,Basic
+S0294,Kolathur Recreation Centre,29,73,401,106,Available,Central,64,Medical
+S0295,Madhavaram Recreation Centre,9,7,813,217,Available,Central,44,All
+S0296,Poonamallee Recreation Centre,8,8,829,502,Available,East,60,All
+S0297,Koyambedu Recreation Centre,79,83,552,455,Limited,East,49,All
+S0298,Madipakkam Recreation Centre,87,12,265,68,Available,East,28,All
+S0299,Medavakkam Recreation Centre,13,34,972,196,Available,Industrial,13,Basic
+S0300,Thoraipakkam Recreation Centre,3,23,1491,783,Available,West,16,Water
+S0301,Anna Nagar Multipurpose Hall,10,25,1295,712,Available,Central,36,Medical
+S0302,T Nagar Multipurpose Hall,55,97,643,336,Available,North,32,Water
+S0303,Adyar Multipurpose Hall,80,96,497,458,Full,North,18,Basic
+S0304,Velachery Multipurpose Hall,57,30,1424,292,Available,North,79,Basic
+S0305,Tambaram Multipurpose Hall,74,83,1499,556,Available,West,51,All
+S0306,Guindy Multipurpose Hall,44,66,72,12,Available,South,48,Food
+S0307,Mylapore Multipurpose Hall,32,80,674,27,Unavailable,South,2,All
+S0308,Porur Multipurpose Hall,28,28,151,147,Full,Central,81,All
+S0309,Ambattur Multipurpose Hall,39,91,1068,737,Available,Central,12,Basic
+S0310,Avadi Multipurpose Hall,4,30,742,474,Limited,Central,46,Water
+S0311,Perungudi Multipurpose Hall,63,17,361,341,Full,North,36,Food
+S0312,Sholinganallur Multipurpose Hall,93,28,966,588,Available,Central,59,Food
+S0313,Thiruvanmiyur Multipurpose Hall,26,51,147,50,Available,North,35,Food
+S0314,Kodambakkam Multipurpose Hall,81,61,294,273,Full,Central,16,Water
+S0315,Nungambakkam Multipurpose Hall,58,19,1042,945,Full,East,89,All
+S0316,Egmore Multipurpose Hall,48,57,253,87,Available,Industrial,3,Basic
+S0317,Pallavaram Multipurpose Hall,32,54,156,42,Available,South,95,Basic
+S0318,Chromepet Multipurpose Hall,85,25,1255,1092,Limited,South,72,Basic
+S0319,Royapettah Multipurpose Hall,19,65,1296,1050,Limited,East,83,Food
+S0320,Triplicane Multipurpose Hall,78,61,1073,189,Available,Industrial,1,Water
+S0321,Washermanpet Multipurpose Hall,74,8,742,297,Available,South,2,Basic
+S0322,Tondiarpet Multipurpose Hall,67,34,1258,769,Limited,Central,76,Water
+S0323,Perambur Multipurpose Hall,77,73,106,45,Available,East,89,Basic
+S0324,Kolathur Multipurpose Hall,17,61,773,690,Limited,East,79,Food
+S0325,Madhavaram Multipurpose Hall,49,10,461,51,Available,Industrial,26,All
+S0326,Poonamallee Multipurpose Hall,78,80,63,15,Available,Industrial,20,Basic
+S0327,Koyambedu Multipurpose Hall,20,18,1459,386,Available,Central,92,All
+S0328,Madipakkam Multipurpose Hall,44,82,164,81,Available,Industrial,52,Basic
+S0329,Medavakkam Multipurpose Hall,13,93,840,765,Full,Central,8,Food
+S0330,Thoraipakkam Multipurpose Hall,46,39,246,241,Full,Industrial,13,Water
+S0331,Anna Nagar Civic Centre,68,73,935,748,Limited,Industrial,47,Water
+S0332,T Nagar Civic Centre,38,46,981,919,Full,Industrial,15,Basic
+S0333,Adyar Civic Centre,49,85,62,16,Available,South,66,Food
+S0334,Velachery Civic Centre,41,96,170,116,Available,Industrial,67,Medical
+S0335,Tambaram Civic Centre,89,79,1228,24,Available,Central,86,Food
+S0336,Guindy Civic Centre,99,10,510,55,Available,Central,35,Water
+S0337,Mylapore Civic Centre,49,8,167,100,Available,Central,98,Medical
+S0338,Porur Civic Centre,91,28,90,11,Available,North,73,All
+S0339,Ambattur Civic Centre,42,36,1291,37,Available,Industrial,8,Food
+S0340,Avadi Civic Centre,48,39,1012,517,Available,Industrial,42,Basic
+S0341,Perungudi Civic Centre,91,72,1043,857,Limited,Industrial,91,Food
+S0342,Sholinganallur Civic Centre,34,11,781,526,Available,East,85,Food
+S0343,Thiruvanmiyur Civic Centre,36,1,300,189,Available,West,29,Food
+S0344,Kodambakkam Civic Centre,79,61,154,99,Limited,West,55,Medical
+S0345,Nungambakkam Civic Centre,87,58,1473,1270,Limited,West,49,All
+S0346,Egmore Civic Centre,22,14,187,134,Limited,West,43,Medical
+S0347,Pallavaram Civic Centre,84,23,758,117,Available,South,32,Water
+S0348,Chromepet Civic Centre,78,50,1285,893,Available,East,75,Water
+S0349,Royapettah Civic Centre,37,80,1385,1053,Limited,North,43,Basic
+S0350,Triplicane Civic Centre,8,100,256,256,Full,Industrial,42,Water
+S0351,Washermanpet Civic Centre,67,36,381,292,Limited,Industrial,21,Food
+S0352,Tondiarpet Civic Centre,6,0,940,662,Limited,East,56,Water
+S0353,Perambur Civic Centre,34,58,83,64,Unavailable,Central,24,Medical
+S0354,Kolathur Civic Centre,81,96,1136,18,Available,East,100,Water
+S0355,Madhavaram Civic Centre,76,85,602,582,Full,South,96,Water
+S0356,Poonamallee Civic Centre,57,48,1277,210,Unavailable,Central,3,Medical
+S0357,Koyambedu Civic Centre,51,89,781,375,Available,West,86,Food
+S0358,Madipakkam Civic Centre,48,18,207,68,Available,South,92,Water
+S0359,Medavakkam Civic Centre,11,69,252,15,Available,Industrial,76,All
+S0360,Thoraipakkam Civic Centre,26,90,766,318,Available,South,74,All
+S0361,Anna Nagar Disaster Relief Hub,51,48,1060,988,Unavailable,North,14,Food
+S0362,T Nagar Disaster Relief Hub,55,6,395,332,Unavailable,Central,38,All
+S0363,Adyar Disaster Relief Hub,55,74,1382,1092,Limited,Industrial,63,Water
+S0364,Velachery Disaster Relief Hub,100,97,1417,881,Limited,North,66,Basic
+S0365,Tambaram Disaster Relief Hub,38,57,258,69,Available,West,13,Food
+S0366,Guindy Disaster Relief Hub,6,85,1343,1165,Limited,Industrial,13,Food
+S0367,Mylapore Disaster Relief Hub,5,63,1073,309,Available,Industrial,63,All
+S0368,Porur Disaster Relief Hub,22,24,1002,489,Available,West,53,Food
+S0369,Ambattur Disaster Relief Hub,15,67,1021,500,Available,North,90,All
+S0370,Avadi Disaster Relief Hub,10,33,1057,663,Limited,East,56,Basic
+S0371,Perungudi Disaster Relief Hub,95,73,980,253,Available,West,75,All
+S0372,Sholinganallur Disaster Relief Hub,68,44,425,330,Limited,North,82,Water
+S0373,Thiruvanmiyur Disaster Relief Hub,76,31,863,686,Limited,South,31,Basic
+S0374,Kodambakkam Disaster Relief Hub,16,8,253,154,Available,Central,99,Medical
+S0375,Nungambakkam Disaster Relief Hub,19,95,207,40,Available,Industrial,26,Medical
+S0376,Egmore Disaster Relief Hub,2,49,1091,828,Unavailable,Central,75,Food
+S0377,Pallavaram Disaster Relief Hub,97,84,251,181,Limited,Central,100,Water
+S0378,Chromepet Disaster Relief Hub,41,56,520,323,Available,North,1,Medical
+S0379,Royapettah Disaster Relief Hub,96,53,1352,291,Available,North,82,Basic
+S0380,Triplicane Disaster Relief Hub,57,49,135,72,Available,South,37,All
+S0381,Washermanpet Disaster Relief Hub,52,97,835,554,Limited,Central,13,All
+S0382,Tondiarpet Disaster Relief Hub,22,53,519,349,Available,Central,29,Water
+S0383,Perambur Disaster Relief Hub,11,81,289,279,Full,West,31,Food
+S0384,Kolathur Disaster Relief Hub,76,50,1075,603,Available,East,97,Medical
+S0385,Madhavaram Disaster Relief Hub,26,69,841,229,Available,South,1,All
+S0386,Poonamallee Disaster Relief Hub,55,98,180,57,Available,East,3,All
+S0387,Koyambedu Disaster Relief Hub,59,63,1337,56,Available,North,97,Medical
+S0388,Madipakkam Disaster Relief Hub,5,4,884,829,Full,Industrial,47,All
+S0389,Medavakkam Disaster Relief Hub,48,62,420,409,Full,South,75,Basic
+S0390,Thoraipakkam Disaster Relief Hub,49,3,1102,245,Available,East,3,Medical
+S0391,Anna Nagar Assembly Hall,25,94,324,196,Available,Industrial,71,Food
+S0392,T Nagar Assembly Hall,75,79,175,103,Available,Central,89,Medical
+S0393,Adyar Assembly Hall,17,76,434,134,Available,North,85,Basic
+S0394,Velachery Assembly Hall,20,83,1184,266,Available,Central,84,All
+S0395,Tambaram Assembly Hall,49,51,1054,610,Available,East,38,Water
+S0396,Guindy Assembly Hall,36,40,784,10,Available,South,54,Medical
+S0397,Mylapore Assembly Hall,56,26,510,90,Available,Central,74,Basic
+S0398,Porur Assembly Hall,91,56,1104,259,Available,East,9,Medical
+S0399,Ambattur Assembly Hall,74,88,1281,810,Limited,West,95,Water
+S0400,Avadi Assembly Hall,48,10,1133,641,Limited,West,63,Medical
+S0401,Perungudi Assembly Hall,79,1,992,182,Available,Industrial,58,All
+S0402,Sholinganallur Assembly Hall,57,46,114,56,Available,Central,48,Food
+S0403,Thiruvanmiyur Assembly Hall,98,44,539,269,Available,Central,42,Basic
+S0404,Kodambakkam Assembly Hall,83,90,1253,1243,Full,Industrial,72,Water
+S0405,Nungambakkam Assembly Hall,68,26,527,29,Available,North,25,Basic
+S0406,Egmore Assembly Hall,28,93,1239,112,Available,East,51,Food
+S0407,Pallavaram Assembly Hall,82,57,1474,745,Available,North,98,Water
+S0408,Chromepet Assembly Hall,65,14,989,376,Available,North,15,Medical
+S0409,Royapettah Assembly Hall,30,1,1042,609,Limited,West,24,Medical
+S0410,Triplicane Assembly Hall,53,43,579,161,Unavailable,Industrial,53,Basic
+S0411,Washermanpet Assembly Hall,80,81,1256,830,Available,Central,77,Food
+S0412,Tondiarpet Assembly Hall,26,76,1336,326,Available,Central,43,Food
+S0413,Perambur Assembly Hall,0,51,941,319,Available,East,33,Food
+S0414,Kolathur Assembly Hall,46,94,197,132,Limited,East,29,Basic
+S0415,Madhavaram Assembly Hall,24,82,335,58,Available,East,30,Food
+S0416,Poonamallee Assembly Hall,14,66,569,501,Limited,East,53,All
+S0417,Koyambedu Assembly Hall,38,63,742,471,Available,North,93,Medical
+S0418,Madipakkam Assembly Hall,98,50,714,3,Available,West,90,Medical
+S0419,Medavakkam Assembly Hall,79,29,1023,959,Full,North,16,Food
+S0420,Thoraipakkam Assembly Hall,78,80,1288,1234,Full,West,41,Medical
+S0421,Anna Nagar Service Centre,91,74,783,59,Available,Central,10,Medical
+S0422,T Nagar Service Centre,26,42,815,785,Full,Industrial,68,Food
+S0423,Adyar Service Centre,10,21,1483,538,Available,North,100,All
+S0424,Velachery Service Centre,43,96,891,859,Full,East,4,Basic
+S0425,Tambaram Service Centre,90,40,240,98,Available,Industrial,61,Basic
+S0426,Guindy Service Centre,65,81,1490,166,Available,West,87,Medical
+S0427,Mylapore Service Centre,26,84,458,254,Available,West,84,Water
+S0428,Porur Service Centre,83,1,941,71,Available,North,69,Basic
+S0429,Ambattur Service Centre,75,28,317,75,Available,North,55,Basic
+S0430,Avadi Service Centre,88,53,1452,278,Unavailable,North,31,Food
+S0431,Perungudi Service Centre,23,8,807,759,Full,Industrial,95,All
+S0432,Sholinganallur Service Centre,90,27,59,48,Unavailable,West,37,Water
+S0433,Thiruvanmiyur Service Centre,41,80,1179,409,Unavailable,North,37,Basic
+S0434,Kodambakkam Service Centre,23,95,1000,596,Available,North,64,Water
+S0435,Nungambakkam Service Centre,83,97,61,48,Limited,East,28,All
+S0436,Egmore Service Centre,59,29,595,542,Full,West,61,Food
+S0437,Pallavaram Service Centre,1,31,944,557,Limited,East,58,Medical
+S0438,Chromepet Service Centre,11,53,392,306,Limited,Industrial,56,All
+S0439,Royapettah Service Centre,75,89,346,218,Unavailable,South,8,All
+S0440,Triplicane Service Centre,77,21,519,250,Available,South,72,Food
+S0441,Washermanpet Service Centre,1,80,1179,176,Available,South,94,Water
+S0442,Tondiarpet Service Centre,50,100,1065,994,Full,West,41,All
+S0443,Perambur Service Centre,9,55,1348,998,Limited,North,47,Water
+S0444,Kolathur Service Centre,25,23,269,80,Available,Central,25,Basic
+S0445,Madhavaram Service Centre,88,19,1008,702,Available,Central,100,Medical
+S0446,Poonamallee Service Centre,84,4,1305,1208,Full,South,60,Water
+S0447,Koyambedu Service Centre,43,46,952,629,Limited,East,9,Medical
+S0448,Madipakkam Service Centre,84,6,1102,963,Limited,East,49,Water
+S0449,Medavakkam Service Centre,63,80,304,17,Available,Industrial,56,Basic
+S0450,Thoraipakkam Service Centre,9,34,409,1,Available,Industrial,32,Basic
+S0451,Anna Nagar Youth Centre,78,36,772,629,Limited,North,19,Food
+S0452,T Nagar Youth Centre,43,42,844,512,Limited,West,1,Food
+S0453,Adyar Youth Centre,24,33,693,24,Available,North,56,All
+S0454,Velachery Youth Centre,20,4,471,56,Available,West,62,All
+S0455,Tambaram Youth Centre,74,8,179,111,Limited,East,4,All
+S0456,Guindy Youth Centre,94,64,178,53,Available,South,25,Medical
+S0457,Mylapore Youth Centre,65,47,1467,1427,Full,Industrial,5,All
+S0458,Porur Youth Centre,5,62,73,22,Available,West,8,Medical
+S0459,Ambattur Youth Centre,63,74,1348,1016,Limited,South,22,All
+S0460,Avadi Youth Centre,75,99,266,254,Full,Central,55,Water
+S0461,Perungudi Youth Centre,95,20,113,40,Available,West,62,Water
+S0462,Sholinganallur Youth Centre,63,3,1000,0,Available,South,48,Water
+S0463,Thiruvanmiyur Youth Centre,53,24,1464,948,Available,Industrial,66,Medical
+S0464,Kodambakkam Youth Centre,21,13,189,127,Limited,Central,82,Basic
+S0465,Nungambakkam Youth Centre,78,78,1079,272,Available,Industrial,25,Medical
+S0466,Egmore Youth Centre,41,16,1303,1277,Full,Central,17,Medical
+S0467,Pallavaram Youth Centre,13,36,117,95,Limited,South,84,Food
+S0468,Chromepet Youth Centre,46,2,246,135,Limited,Central,85,Basic
+S0469,Royapettah Youth Centre,72,67,1483,992,Available,Central,24,Basic
+S0470,Triplicane Youth Centre,24,50,1267,573,Available,West,3,Medical
+S0471,Washermanpet Youth Centre,30,29,774,139,Available,West,45,All
+S0472,Tondiarpet Youth Centre,16,63,1190,697,Available,South,24,Medical
+S0473,Perambur Youth Centre,57,0,654,564,Limited,Central,77,Water
+S0474,Kolathur Youth Centre,22,25,174,103,Available,Central,13,Medical
+S0475,Madhavaram Youth Centre,38,64,967,218,Available,Industrial,36,Water
+S0476,Poonamallee Youth Centre,11,20,1059,762,Limited,Central,27,Water
+S0477,Koyambedu Youth Centre,93,17,1372,155,Available,North,86,Water
+S0478,Madipakkam Youth Centre,24,7,1294,620,Available,Central,89,Water
+S0479,Medavakkam Youth Centre,20,20,800,273,Available,North,94,All
+S0480,Thoraipakkam Youth Centre,43,46,719,353,Available,East,21,Basic
+S0481,Anna Nagar Public Auditorium,13,77,241,30,Available,Industrial,22,Water
+S0482,T Nagar Public Auditorium,38,55,477,208,Available,South,34,Food
+S0483,Adyar Public Auditorium,45,85,651,174,Available,Industrial,27,Basic
+S0484,Velachery Public Auditorium,56,13,694,541,Limited,West,40,All
+S0485,Tambaram Public Auditorium,97,6,557,500,Limited,North,43,Medical
+S0486,Guindy Public Auditorium,19,82,136,89,Available,Industrial,59,Water
+S0487,Mylapore Public Auditorium,78,25,447,444,Full,Central,49,Food
+S0488,Porur Public Auditorium,50,59,119,74,Available,North,36,Medical
+S0489,Ambattur Public Auditorium,16,49,164,8,Available,Industrial,88,All
+S0490,Avadi Public Auditorium,10,71,1134,79,Available,Central,55,All
+S0491,Perungudi Public Auditorium,76,85,398,56,Available,Central,100,All
+S0492,Sholinganallur Public Auditorium,35,30,1451,25,Available,West,71,All
+S0493,Thiruvanmiyur Public Auditorium,91,13,752,347,Available,North,16,Basic
+S0494,Kodambakkam Public Auditorium,59,76,551,449,Limited,East,60,Medical
+S0495,Nungambakkam Public Auditorium,25,73,1039,751,Limited,Central,66,Basic
+S0496,Egmore Public Auditorium,22,29,538,521,Full,East,59,Food
+S0497,Pallavaram Public Auditorium,71,100,1051,44,Available,South,65,Food
+S0498,Chromepet Public Auditorium,14,49,472,48,Available,West,11,Medical
+S0499,Royapettah Public Auditorium,44,82,337,103,Available,Industrial,84,Water
+S0500,Triplicane Public Auditorium,34,37,1419,441,Available,West,76,Basic
+S0501,Washermanpet Public Auditorium,68,75,64,49,Limited,West,50,All
+S0502,Tondiarpet Public Auditorium,48,74,184,172,Full,Industrial,34,Food
+S0503,Perambur Public Auditorium,10,53,170,45,Available,West,81,Medical
+S0504,Kolathur Public Auditorium,4,58,1087,529,Available,Central,68,Water
+S0505,Madhavaram Public Auditorium,57,63,1328,1283,Full,Central,34,Basic
+S0506,Poonamallee Public Auditorium,6,22,255,153,Available,Industrial,22,Water
+S0507,Koyambedu Public Auditorium,58,64,259,151,Available,South,47,Medical
+S0508,Madipakkam Public Auditorium,44,21,922,724,Limited,North,15,Medical
+S0509,Medavakkam Public Auditorium,78,43,1400,80,Available,South,98,Water
+S0510,Thoraipakkam Public Auditorium,30,64,394,81,Available,North,92,Medical
+S0511,Anna Nagar Emergency Centre,79,15,187,9,Available,North,70,All
+S0512,T Nagar Emergency Centre,29,100,705,669,Full,South,16,Medical
+S0513,Adyar Emergency Centre,28,19,1435,761,Unavailable,North,93,Water
+S0514,Velachery Emergency Centre,21,63,327,216,Available,Industrial,92,Water
+S0515,Tambaram Emergency Centre,84,72,245,145,Available,East,81,Food
+S0516,Guindy Emergency Centre,68,95,1086,1048,Full,North,44,Food
+S0517,Mylapore Emergency Centre,38,28,82,82,Full,South,85,All
+S0518,Porur Emergency Centre,39,93,989,564,Available,Central,3,Medical
+S0519,Ambattur Emergency Centre,81,77,770,681,Limited,North,97,Basic
+S0520,Avadi Emergency Centre,68,32,691,383,Limited,Central,20,Basic
+S0521,Perungudi Emergency Centre,94,61,887,637,Limited,East,2,Basic
+S0522,Sholinganallur Emergency Centre,38,51,118,30,Available,Industrial,97,Basic
+S0523,Thiruvanmiyur Emergency Centre,28,59,648,13,Available,Industrial,78,Medical
+S0524,Kodambakkam Emergency Centre,74,39,665,528,Limited,North,4,All
+S0525,Nungambakkam Emergency Centre,4,44,500,89,Available,South,94,Medical
+S0526,Egmore Emergency Centre,90,19,1423,16,Available,North,37,Medical
+S0527,Pallavaram Emergency Centre,0,78,597,82,Available,West,41,Medical
+S0528,Chromepet Emergency Centre,44,25,844,292,Available,Industrial,3,All
+S0529,Royapettah Emergency Centre,100,99,1087,709,Available,South,5,Water
+S0530,Triplicane Emergency Centre,22,96,1343,133,Available,North,14,Water
+S0531,Washermanpet Emergency Centre,70,80,1078,245,Available,North,16,Food
+S0532,Tondiarpet Emergency Centre,42,99,478,17,Available,Industrial,22,Basic
+S0533,Perambur Emergency Centre,43,62,1242,253,Available,East,14,Medical
+S0534,Kolathur Emergency Centre,34,62,1309,412,Available,Central,64,Medical
+S0535,Madhavaram Emergency Centre,56,36,1372,300,Available,Central,77,Food
+S0536,Poonamallee Emergency Centre,93,15,514,387,Limited,East,9,Water
+S0537,Koyambedu Emergency Centre,56,23,105,68,Limited,Industrial,3,Food
+S0538,Madipakkam Emergency Centre,85,25,1484,344,Available,Industrial,20,All
+S0539,Medavakkam Emergency Centre,59,40,173,88,Available,East,76,Basic
+S0540,Thoraipakkam Emergency Centre,89,38,1303,438,Available,Central,66,All
+S0541,Anna Nagar Neighbourhood Hall,12,78,1317,869,Available,Industrial,90,Basic
+S0542,T Nagar Neighbourhood Hall,69,92,923,322,Available,West,27,Food
+S0543,Adyar Neighbourhood Hall,12,96,215,102,Unavailable,Central,47,Basic
+S0544,Velachery Neighbourhood Hall,3,92,1181,624,Available,South,8,All
+S0545,Tambaram Neighbourhood Hall,34,64,1092,679,Available,West,40,Food
+S0546,Guindy Neighbourhood Hall,26,67,807,70,Available,Central,4,Medical
+S0547,Mylapore Neighbourhood Hall,29,20,1041,744,Unavailable,Industrial,2,Medical
+S0548,Porur Neighbourhood Hall,0,57,332,125,Available,West,11,Medical
+S0549,Ambattur Neighbourhood Hall,80,26,1014,716,Limited,West,92,Food
+S0550,Avadi Neighbourhood Hall,53,100,326,73,Available,East,35,Water
+S0551,Perungudi Neighbourhood Hall,93,16,477,465,Full,West,17,Basic
+S0552,Sholinganallur Neighbourhood Hall,39,34,1420,1208,Limited,Central,4,Basic
+S0553,Thiruvanmiyur Neighbourhood Hall,2,38,759,137,Available,North,12,Water
+S0554,Kodambakkam Neighbourhood Hall,42,29,695,592,Limited,Central,77,Basic
+S0555,Nungambakkam Neighbourhood Hall,49,91,680,638,Full,North,6,Medical
+S0556,Egmore Neighbourhood Hall,45,19,671,568,Limited,North,79,Medical
+S0557,Pallavaram Neighbourhood Hall,65,61,1155,753,Limited,West,80,Basic
+S0558,Chromepet Neighbourhood Hall,4,40,726,257,Available,North,48,Medical
+S0559,Royapettah Neighbourhood Hall,34,65,1163,675,Available,North,98,Food
+S0560,Triplicane Neighbourhood Hall,94,25,971,30,Available,West,56,Water
+S0561,Washermanpet Neighbourhood Hall,31,26,316,193,Limited,West,43,All
+S0562,Tondiarpet Neighbourhood Hall,42,44,644,45,Available,Central,81,Basic
+S0563,Perambur Neighbourhood Hall,95,29,348,266,Unavailable,East,94,All
+S0564,Kolathur Neighbourhood Hall,43,56,1410,1376,Full,Industrial,19,Water
+S0565,Madhavaram Neighbourhood Hall,54,51,1116,639,Limited,North,68,Medical
+S0566,Poonamallee Neighbourhood Hall,80,65,456,314,Available,North,81,Medical
+S0567,Koyambedu Neighbourhood Hall,73,91,1303,754,Available,East,18,Food
+S0568,Madipakkam Neighbourhood Hall,98,75,314,112,Available,South,78,Basic
+S0569,Medavakkam Neighbourhood Hall,44,51,1178,665,Limited,Industrial,3,Medical
+S0570,Thoraipakkam Neighbourhood Hall,12,61,1065,544,Available,West,15,All
+S0571,Anna Nagar Training Centre,72,21,1182,34,Available,North,82,Water
+S0572,T Nagar Training Centre,94,39,546,212,Available,East,16,Medical
+S0573,Adyar Training Centre,60,55,970,764,Limited,Industrial,88,Food
+S0574,Velachery Training Centre,7,40,336,224,Available,West,36,All
+S0575,Tambaram Training Centre,94,13,1491,1215,Limited,Industrial,83,Basic
+S0576,Guindy Training Centre,55,14,790,47,Available,West,18,Medical
+S0577,Mylapore Training Centre,90,13,977,860,Limited,East,54,Medical
+S0578,Porur Training Centre,84,5,569,385,Available,East,70,All
+S0579,Ambattur Training Centre,87,69,905,471,Available,West,20,Basic
+S0580,Avadi Training Centre,53,79,724,250,Available,North,16,Food
+S0581,Perungudi Training Centre,84,8,771,271,Available,East,32,Medical
+S0582,Sholinganallur Training Centre,90,49,1026,762,Limited,South,87,Food
+S0583,Thiruvanmiyur Training Centre,44,15,565,146,Available,East,72,Food
+S0584,Kodambakkam Training Centre,87,0,1031,648,Limited,South,24,All
+S0585,Nungambakkam Training Centre,31,85,629,568,Full,North,73,Basic
+S0586,Egmore Training Centre,5,63,1406,672,Available,West,36,Medical
+S0587,Pallavaram Training Centre,64,12,1300,290,Available,South,29,Food
+S0588,Chromepet Training Centre,41,7,71,40,Limited,South,3,Water
+S0589,Royapettah Training Centre,31,23,78,31,Available,West,52,All
+S0590,Triplicane Training Centre,51,57,1261,124,Available,Industrial,35,All
+S0591,Washermanpet Training Centre,15,85,1415,645,Available,West,43,Basic
+S0592,Tondiarpet Training Centre,78,59,52,1,Available,East,12,All
+S0593,Perambur Training Centre,24,50,1365,477,Available,North,81,Food
+S0594,Kolathur Training Centre,60,10,602,337,Available,Industrial,20,Water
+S0595,Madhavaram Training Centre,41,31,1178,172,Available,North,61,Medical
+S0596,Poonamallee Training Centre,60,24,204,46,Available,North,76,Water
+S0597,Koyambedu Training Centre,22,12,656,363,Available,West,82,All
+S0598,Madipakkam Training Centre,61,2,760,742,Unavailable,Industrial,66,Food
+S0599,Medavakkam Training Centre,86,16,581,150,Available,North,40,All
+S0600,Thoraipakkam Training Centre,79,60,854,840,Full,West,66,Food

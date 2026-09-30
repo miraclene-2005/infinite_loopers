@@ -1,0 +1,501 @@
+hospital_id,name,x,y,beds,icu,emergency_capacity,status,zone,average_response_time
+H0001,Anand Hospital,80.250198,13.166921,40,6,5,Limited,South,4
+H0002,Vandana Hospital,80.299924,13.16215,243,15,46,Available,East,18
+H0003,Thanishq Nakshatra Hospital,80.299791,13.151587,213,41,37,Available,East,20
+H0004,Rajiv Gandhi Government General Hospital,80.277194,13.081417,159,26,45,Available,South,38
+H0005,Government Royapettah Hospital,80.26485,13.055285,712,119,162,Available,South,47
+H0006,Ezhil Care Hospital,80.271113,13.221626,44,5,4,Available,North,9
+H0007,Sunrise Health Nursing Home,80.241405,13.173462,236,31,59,Available,West,4
+H0008,Shree Critical Care Hospital,80.255027,13.165663,203,36,50,Full,South,4
+H0009,Sunrise General Nursing Home,80.233068,13.18251,142,31,28,Available,West,5
+H0010,Kamala Critical Care Hospital,80.256279,13.175413,141,19,32,Available,Central,1
+H0011,Prime General Hospital,80.278982,13.196985,260,25,86,Available,East,7
+H0012,Kalaimagal General Hospital,80.273934,13.213838,44,4,15,Available,North,8
+H0013,Shree Critical Care Medical Centre,80.238799,13.191092,215,42,38,Available,West,5
+H0014,Grace Heart & Diabetes Nursing Home,80.240847,13.167741,76,16,14,Limited,South,5
+H0015,Metro Life Hospital,80.248433,13.177428,46,3,7,Available,Central,1
+H0016,Siva Health Hospital,80.282828,13.184259,167,10,40,Full,East,8
+H0017,Siva Family Nursing Home,80.278365,13.195504,293,49,89,Full,East,6
+H0018,Ideal Health Medical Centre,80.24215,13.168874,226,17,38,Available,South,5
+H0019,Ganga Maternity Nursing Home,80.274154,13.210887,233,50,46,Available,North,7
+H0020,Prime Maternity Nursing Home,80.277945,13.205553,220,24,83,Available,North,8
+H0021,Nila Wellness Medical Centre,80.24734,13.16993,240,18,27,Limited,South,4
+H0022,Ezhil Trauma Hospital,80.275718,13.206205,163,38,38,Available,North,8
+H0023,Siva Health Nursing Home,80.248875,13.177435,55,4,17,Full,Central,1
+H0024,Oasis Life Nursing Home,80.262333,13.167131,255,27,37,Limited,South,4
+H0025,Arul Emergency Hospital,80.255074,13.173443,146,11,16,Limited,Central,2
+H0026,Bharathi Heart & Diabetes Hospital,80.249344,13.170545,160,11,22,Available,South,3
+H0027,Harmony Orthopaedic Nursing Home,80.223842,13.173094,123,6,0,Unavailable,West,12
+H0028,Thenral Heart & Diabetes Medical Centre,80.294545,13.205708,71,4,7,Available,East,14
+H0029,Grace Family Hospital,80.280103,13.197801,279,23,43,Available,East,7
+H0030,Kamala Community Hospital,80.238104,13.166203,238,14,26,Available,West,5
+H0031,Vasantham Heart & Diabetes Nursing Home,80.27351,13.189616,200,33,26,Full,East,5
+H0032,Unity Multispeciality Nursing Home,80.249078,13.17434,132,24,37,Available,Central,2
+H0033,Sakthi Emergency Medical Centre,80.273192,13.197506,250,32,43,Limited,East,6
+H0034,Kamala Wellness Medical Centre,80.25042,13.174677,172,19,46,Available,Central,2
+H0035,Unity Health Hospital,80.245857,13.168844,144,21,0,Unavailable,South,4
+H0036,Malar Critical Care Nursing Home,80.25177,13.170107,146,32,51,Available,South,3
+H0037,Sakthi General Medical Centre,80.257545,13.170538,83,18,8,Available,Central,2
+H0038,Shree Heart & Diabetes Nursing Home,80.283047,13.18279,45,2,0,Unavailable,East,8
+H0039,Green Cross Critical Care Medical Centre,80.227161,13.181617,175,15,50,Available,West,7
+H0040,Malar Family Medical Centre,80.250499,13.171899,268,26,39,Available,Central,3
+H0041,Kamala Emergency Hospital,80.274608,13.194208,37,3,12,Available,East,5
+H0042,Meenakshi Critical Care Nursing Home,80.261425,13.168177,260,42,92,Available,South,4
+H0043,Metro Trauma Medical Centre,80.252323,13.166019,251,33,44,Available,South,4
+H0044,Vinayaga Trauma Nursing Home,80.272778,13.19306,97,5,36,Available,East,4
+H0045,Sakthi Multispeciality Nursing Home,80.250229,13.16966,196,24,46,Available,South,4
+H0046,Kaveri Care Nursing Home,80.254475,13.194575,66,10,18,Full,Central,4
+H0047,Velan Health Hospital,80.274662,13.195764,232,16,91,Available,East,5
+H0048,Velan Orthopaedic Hospital,80.262968,13.168442,216,46,45,Available,South,4
+H0049,Star Emergency Hospital,80.275958,13.204146,119,7,40,Available,North,7
+H0050,Kamala Health Hospital,80.213859,13.176843,39,9,7,Available,West,12
+H0051,Sunrise Trauma Hospital,80.277528,13.207254,291,20,98,Limited,North,8
+H0052,Malar Emergency Hospital,80.239696,13.166022,144,31,40,Full,South,5
+H0053,Sri Heart & Diabetes Medical Centre,80.259349,13.167154,270,62,44,Full,South,3
+H0054,Sakthi Trauma Hospital,80.245978,13.175058,209,51,46,Available,Central,3
+H0055,Grace Orthopaedic Medical Centre,80.257643,13.193794,237,49,46,Available,Central,5
+H0056,Meenakshi Health Medical Centre,80.269981,13.184576,232,47,28,Available,East,4
+H0057,Vasantham Life Hospital,80.25025,13.169488,74,13,8,Available,South,4
+H0058,Metro Orthopaedic Nursing Home,80.270836,13.194074,121,24,24,Available,East,5
+H0059,Vinayaga Maternity Hospital,80.256387,13.168523,150,11,15,Limited,South,3
+H0060,Kaveri Maternity Medical Centre,80.260265,13.169143,159,24,23,Available,South,3
+H0061,Harmony Trauma Nursing Home,80.272229,13.211615,32,4,10,Available,North,7
+H0062,Kamala Trauma Hospital,80.238828,13.172435,173,38,54,Available,West,3
+H0063,Tamarai Family Nursing Home,80.212036,13.174852,63,8,20,Available,West,13
+H0064,Malar Life Medical Centre,80.292127,13.18465,228,28,44,Available,East,10
+H0065,Shree Life Nursing Home,80.255513,13.170234,211,37,77,Available,Central,3
+H0066,Sun Maternity Medical Centre,80.280034,13.199008,278,28,77,Limited,East,7
+H0067,Pearl Health Medical Centre,80.246998,13.167491,228,17,31,Available,South,4
+H0068,Lakshmi Narayan Multispeciality Nursing Home,80.276748,13.197846,122,17,17,Available,East,6
+H0069,Ideal Trauma Nursing Home,80.261091,13.171239,290,38,89,Available,Central,4
+H0070,Shree Orthopaedic Hospital,80.276464,13.20084,135,13,20,Limited,East,7
+H0071,Anbu Family Medical Centre,80.254355,13.195541,111,13,27,Available,Central,4
+H0072,Sakthi Family Medical Centre,80.269096,13.196104,273,33,108,Limited,North,4
+H0073,Nila Trauma Medical Centre,80.277303,13.202404,123,14,12,Full,East,7
+H0074,Pearl Emergency Medical Centre,80.271062,13.205914,41,5,4,Available,North,6
+H0075,Nila Maternity Hospital,80.245686,13.170076,151,28,60,Limited,South,4
+H0076,Ezhil Family Medical Centre,80.249914,13.168966,242,26,66,Available,South,4
+H0077,Vasantham Emergency Hospital,80.225392,13.174986,73,17,10,Full,West,9
+H0078,Bharathi Community Nursing Home,80.245085,13.177671,149,34,55,Available,Central,4
+H0079,Prime Maternity Hospital,80.254869,13.167105,56,8,20,Full,South,4
+H0080,Arul Emergency Medical Centre,80.247688,13.178605,212,24,55,Available,Central,4
+H0081,Siva Life Nursing Home,80.214186,13.176599,153,24,43,Available,West,12
+H0082,Mercy Orthopaedic Nursing Home,80.268924,13.161355,112,24,20,Available,South,6
+H0083,Thenral Maternity Medical Centre,80.262046,13.165141,83,14,9,Limited,South,4
+H0084,Oasis General Nursing Home,80.240268,13.174328,178,37,49,Available,West,2
+H0085,Malar Orthopaedic Medical Centre,80.284438,13.182248,207,32,39,Available,East,8
+H0086,Pearl Emergency Nursing Home,80.27464,13.195106,283,49,84,Limited,East,5
+H0087,Kalaimagal Wellness Nursing Home,80.250451,13.167252,142,15,49,Full,South,4
+H0088,Lakshmi Narayan Trauma Nursing Home,80.232825,13.182949,64,12,6,Available,West,5
+H0089,Vinayaga Orthopaedic Nursing Home,80.272727,13.207719,253,22,70,Available,North,6
+H0090,Anbu Multispeciality Hospital,80.258173,13.171496,196,37,33,Available,Central,2
+H0091,Tamarai Emergency Medical Centre,80.275883,13.200806,216,47,78,Limited,East,7
+H0092,Thenral Orthopaedic Medical Centre,80.237106,13.171288,47,3,8,Available,West,4
+H0093,Vinayaga Orthopaedic Medical Centre,80.278741,13.20193,107,18,30,Full,East,8
+H0094,Metro Life Medical Centre,80.276844,13.196262,234,16,62,Available,East,6
+H0095,Bharathi Trauma Nursing Home,80.271899,13.196528,253,49,55,Available,East,5
+H0096,Mercy Life Hospital,80.256152,13.174264,141,9,42,Available,Central,1
+H0097,Bharathi General Nursing Home,80.281021,13.201852,245,58,77,Available,East,8
+H0098,Anbu General Medical Centre,80.273525,13.197966,255,19,68,Limited,East,6
+H0099,Amutha Health Nursing Home,80.271476,13.197028,128,30,41,Available,East,5
+H0100,Balaji Orthopaedic Medical Centre,80.271147,13.210204,271,56,107,Available,North,6
+H0101,Saraswathi Emergency Nursing Home,80.273768,13.193032,100,16,0,Unavailable,East,5
+H0102,Tamarai Heart & Diabetes Nursing Home,80.259909,13.165302,87,17,0,Unavailable,South,4
+H0103,Sunrise Critical Care Medical Centre,80.262523,13.168134,211,44,21,Full,South,4
+H0104,Ideal Maternity Medical Centre,80.249264,13.171159,198,47,67,Available,South,3
+H0105,Ideal Care Nursing Home,80.230429,13.16523,59,5,15,Available,West,4
+H0106,Thenral Emergency Nursing Home,80.279639,13.204415,253,42,56,Full,East,8
+H0107,Kamala General Nursing Home,80.25191,13.17136,75,5,9,Available,Central,3
+H0108,Metro Community Hospital,80.221174,13.17046,245,42,89,Available,West,12
+H0109,Pearl Heart & Diabetes Medical Centre,80.275212,13.204851,22,1,4,Limited,North,8
+H0110,Siva Family Hospital,80.27222,13.196803,243,39,74,Available,East,5
+H0111,Kamala Maternity Hospital,80.277671,13.213236,240,39,34,Available,North,10
+H0112,Amutha Care Hospital,80.254043,13.172486,238,34,0,Unavailable,Central,2
+H0113,Green Cross Trauma Medical Centre,80.27158,13.196305,206,31,31,Limited,East,5
+H0114,Shree Community Hospital,80.257409,13.169976,152,30,24,Available,Central,2
+H0115,Ideal Wellness Nursing Home,80.256743,13.194672,217,45,77,Available,Central,5
+H0116,Ganga Multispeciality Nursing Home,80.273801,13.214537,97,14,36,Available,North,8
+H0117,Star Emergency Nursing Home,80.261132,13.172476,238,40,38,Available,Central,4
+H0118,Star Heart & Diabetes Medical Centre,80.248039,13.16763,175,41,42,Limited,South,4
+H0119,Metro Family Medical Centre,80.229755,13.164802,148,10,47,Limited,West,5
+H0120,Green Cross Life Nursing Home,80.223812,13.177106,161,11,58,Available,West,10
+H0121,Sri Health Hospital,80.216809,13.175562,179,12,38,Available,West,12
+H0122,Kalaimagal Community Hospital,80.273857,13.211303,30,5,7,Full,North,7
+H0123,Ezhil Health Medical Centre,80.23744,13.166571,59,7,19,Available,West,5
+H0124,Mercy Maternity Hospital,80.276825,13.196575,88,18,28,Available,East,6
+H0125,Unity Family Hospital,80.230351,13.164893,52,9,17,Available,West,5
+H0126,Bharathi Wellness Hospital,80.276337,13.199863,143,16,38,Limited,East,7
+H0127,Oasis Emergency Medical Centre,80.220261,13.173615,207,47,27,Available,West,11
+H0128,Mercy Multispeciality Hospital,80.275546,13.211618,203,41,75,Limited,North,8
+H0129,Saraswathi Trauma Medical Centre,80.228318,13.175593,151,15,54,Available,West,9
+H0130,Arul Maternity Hospital,80.274566,13.204184,259,31,87,Limited,North,7
+H0131,Malar Orthopaedic Nursing Home,80.238112,13.167192,178,20,23,Available,West,5
+H0132,Ezhil General Hospital,80.251834,13.171886,42,3,6,Available,Central,3
+H0133,Shree Critical Care Nursing Home,80.244999,13.167812,234,18,75,Available,South,5
+H0134,Prime Family Medical Centre,80.263374,13.169591,180,42,19,Available,South,4
+H0135,Pearl Critical Care Hospital,80.253084,13.168458,197,27,77,Available,South,3
+H0136,Shree General Hospital,80.251369,13.170226,178,22,37,Available,South,3
+H0137,Ideal Health Nursing Home,80.27692,13.194767,175,34,55,Available,East,6
+H0138,Mercy Care Hospital,80.271929,13.197532,45,7,16,Available,East,5
+H0139,Jothi Heart & Diabetes Hospital,80.247267,13.170506,176,41,38,Full,South,3
+H0140,Oasis Community Medical Centre,80.278326,13.199959,242,49,47,Available,East,8
+H0141,Jothi Care Nursing Home,80.221671,13.180717,105,15,29,Limited,West,12
+H0142,Jothi Community Nursing Home,80.234695,13.184959,188,23,0,Unavailable,West,6
+H0143,Shree General Medical Centre,80.248123,13.178234,28,6,6,Available,Central,4
+H0144,Sun Care Medical Centre,80.239636,13.167214,117,22,32,Limited,West,5
+H0145,Ganga Community Nursing Home,80.278137,13.204386,142,34,54,Full,East,8
+H0146,Saraswathi Trauma Nursing Home,80.259334,13.165349,295,21,70,Limited,South,4
+H0147,Vinayaga Heart & Diabetes Nursing Home,80.276746,13.203764,80,17,12,Available,North,8
+H0148,Unity Care Nursing Home,80.219271,13.174583,97,17,20,Available,West,11
+H0149,Velan Trauma Hospital,80.280272,13.203725,134,9,29,Available,East,8
+H0150,Jothi Family Hospital,80.245427,13.171863,297,49,41,Available,South,3
+H0151,Ezhil Family Hospital,80.276021,13.204977,258,48,0,Unavailable,North,8
+H0152,Pearl Heart & Diabetes Nursing Home,80.262028,13.163744,29,1,0,Unavailable,South,5
+H0153,Saraswathi Maternity Hospital,80.275001,13.200322,85,11,17,Available,East,6
+H0154,Jothi Life Nursing Home,80.263072,13.165799,250,53,96,Limited,South,5
+H0155,Siva Maternity Hospital,80.243098,13.16745,36,3,6,Available,South,5
+H0156,Oasis Care Medical Centre,80.27377,13.225847,259,36,33,Full,North,8
+H0157,Kaveri Life Hospital,80.256369,13.175319,98,13,31,Available,Central,1
+H0158,Saraswathi Orthopaedic Hospital,80.243339,13.169954,276,30,100,Full,South,4
+H0159,Green Cross Emergency Medical Centre,80.273324,13.192761,102,23,18,Limited,East,4
+H0160,Nila General Nursing Home,80.240381,13.168787,141,29,22,Available,West,5
+H0161,Mercy General Hospital,80.224653,13.173246,205,14,31,Available,West,10
+H0162,Vinayaga Community Hospital,80.231239,13.166448,55,13,14,Limited,West,4
+H0163,Harmony Critical Care Medical Centre,80.24003,13.171143,175,39,42,Available,West,5
+H0164,Siva Heart & Diabetes Hospital,80.273882,13.196974,161,17,28,Available,East,6
+H0165,Nila Maternity Medical Centre,80.248913,13.173501,239,51,27,Full,Central,3
+H0166,New Wellness Medical Centre,80.273623,13.208167,298,21,72,Available,North,7
+H0167,Balaji Family Hospital,80.21559,13.175252,206,51,79,Available,West,12
+H0168,Nila Emergency Hospital,80.261981,13.17059,134,24,39,Available,South,4
+H0169,Vasantham Health Hospital,80.270245,13.195222,133,23,33,Available,East,4
+H0170,Kalaimagal Maternity Nursing Home,80.270692,13.197289,137,9,0,Unavailable,North,5
+H0171,Prime Community Nursing Home,80.237084,13.185421,247,56,43,Available,West,6
+H0172,Mercy Critical Care Hospital,80.278587,13.203065,109,6,20,Available,East,8
+H0173,Vasantham Community Medical Centre,80.293395,13.186281,66,6,21,Available,East,11
+H0174,Anbu Health Medical Centre,80.279824,13.202816,113,8,0,Unavailable,East,8
+H0175,Green Cross Multispeciality Nursing Home,80.27913,13.208479,26,5,9,Available,North,8
+H0176,Kalaimagal Multispeciality Hospital,80.244134,13.167955,49,4,19,Full,South,4
+H0177,Metro Maternity Medical Centre,80.277534,13.196346,45,10,17,Limited,East,6
+H0178,Harmony Heart & Diabetes Medical Centre,80.21842,13.178135,236,42,91,Limited,West,12
+H0179,Nila Emergency Medical Centre,80.259264,13.169028,222,12,0,Unavailable,South,3
+H0180,Lakshmi Narayan Orthopaedic Nursing Home,80.251102,13.175217,215,10,30,Limited,Central,2
+H0181,Meenakshi Emergency Hospital,80.253025,13.175085,149,8,28,Full,Central,2
+H0182,Siva Orthopaedic Hospital,80.244026,13.169392,220,37,58,Available,South,4
+H0183,Lakshmi Narayan Life Medical Centre,80.243661,13.172395,65,13,8,Limited,West,3
+H0184,Grace Wellness Hospital,80.239124,13.169719,272,26,96,Available,West,4
+H0185,Tamarai Community Medical Centre,80.257431,13.169011,160,35,45,Available,South,3
+H0186,Sri Critical Care Nursing Home,80.278896,13.200207,282,17,74,Full,East,8
+H0187,Vinayaga Care Hospital,80.270277,13.196594,62,13,0,Unavailable,East,5
+H0188,Vinayaga Family Hospital,80.271347,13.194681,159,37,27,Limited,East,5
+H0189,Siva Wellness Hospital,80.249572,13.168737,214,43,31,Available,South,4
+H0190,Thenral General Medical Centre,80.277508,13.196999,158,29,56,Available,East,6
+H0191,Meenakshi Critical Care Medical Centre,80.217681,13.174743,144,31,39,Available,West,11
+H0192,Ideal Community Medical Centre,80.255865,13.174289,66,3,21,Available,Central,2
+H0193,Grace Health Hospital,80.223716,13.172332,126,11,23,Available,West,12
+H0194,Mercy Multispeciality Nursing Home,80.271504,13.194288,86,6,18,Available,East,4
+H0195,Prime Wellness Nursing Home,80.293485,13.186047,104,15,23,Available,East,11
+H0196,Tamarai Multispeciality Medical Centre,80.250541,13.176901,211,41,69,Limited,Central,1
+H0197,Ganga Maternity Medical Centre,80.273681,13.193762,196,34,65,Available,East,5
+H0198,Thenral Trauma Nursing Home,80.240444,13.172483,190,41,30,Full,West,3
+H0199,Balaji Life Hospital,80.228335,13.184442,121,9,46,Limited,West,7
+H0200,Pearl Orthopaedic Nursing Home,80.251032,13.169998,288,56,39,Available,South,3
+H0201,Kalaimagal Life Nursing Home,80.232316,13.192738,44,3,16,Available,West,8
+H0202,Lotus Heart & Diabetes Hospital,80.220284,13.17445,115,11,14,Available,West,11
+H0203,Lotus Orthopaedic Medical Centre,80.271337,13.204433,53,10,0,Unavailable,North,6
+H0204,New Critical Care Nursing Home,80.231541,13.192293,114,28,40,Available,West,8
+H0205,Kalaimagal Orthopaedic Nursing Home,80.2557,13.17124,289,49,44,Available,Central,2
+H0206,Metro Health Medical Centre,80.250072,13.167768,122,7,27,Full,South,4
+H0207,Bharathi Critical Care Hospital,80.277211,13.205919,274,47,0,Unavailable,North,8
+H0208,Kaveri Care Medical Centre,80.275276,13.200686,158,9,27,Available,East,7
+H0209,Kaveri Critical Care Nursing Home,80.24356,13.172584,215,48,67,Available,West,3
+H0210,Meenakshi Orthopaedic Nursing Home,80.250823,13.16826,148,28,52,Available,South,4
+H0211,Star Orthopaedic Medical Centre,80.277696,13.199339,94,7,34,Available,East,7
+H0212,Ezhil Critical Care Nursing Home,80.273533,13.198416,233,15,47,Available,East,6
+H0213,Sun Orthopaedic Medical Centre,80.24622,13.168643,291,25,75,Available,South,4
+H0214,Sakthi Orthopaedic Hospital,80.256868,13.171796,93,22,16,Full,Central,2
+H0215,Anbu Health Nursing Home,80.241515,13.166233,238,33,41,Available,South,5
+H0216,Vasantham Wellness Medical Centre,80.28387,13.183257,93,19,13,Limited,East,8
+H0217,Bharathi Critical Care Nursing Home,80.256064,13.170698,220,39,84,Available,Central,3
+H0218,Harmony Care Nursing Home,80.275912,13.208465,240,39,87,Limited,North,7
+H0219,Bharathi Community Hospital,80.262366,13.169022,145,11,48,Limited,South,4
+H0220,Amutha Family Nursing Home,80.276127,13.205699,226,54,57,Full,North,8
+H0221,Ganga Life Medical Centre,80.242714,13.170049,96,10,23,Full,West,4
+H0222,Lakshmi Narayan Heart & Diabetes Nursing Home,80.277682,13.197013,42,6,10,Available,East,6
+H0223,Lakshmi Narayan Wellness Hospital,80.23605,13.16626,46,8,12,Available,West,5
+H0224,Meenakshi Health Hospital,80.256063,13.164081,145,26,33,Available,South,4
+H0225,Sakthi Health Nursing Home,80.253663,13.168695,272,64,37,Available,South,3
+H0226,Kalaimagal Maternity Hospital,80.277184,13.195446,55,4,7,Full,East,6
+H0227,Tamarai General Hospital,80.254268,13.167901,147,22,56,Available,South,4
+H0228,Pearl Multispeciality Nursing Home,80.237902,13.166185,217,28,53,Limited,West,5
+H0229,Meenakshi Heart & Diabetes Medical Centre,80.232993,13.168906,76,11,29,Available,West,4
+H0230,Tamarai Critical Care Medical Centre,80.249456,13.175213,222,16,33,Available,Central,2
+H0231,Prime Family Hospital,80.246304,13.167924,105,8,27,Available,South,4
+H0232,Vinayaga Multispeciality Medical Centre,80.238657,13.190671,246,25,39,Limited,West,6
+H0233,Oasis General Hospital,80.215727,13.174435,182,20,32,Limited,West,12
+H0234,Ganga Trauma Medical Centre,80.251066,13.174896,173,23,18,Available,Central,2
+H0235,Prime General Medical Centre,80.27686,13.222454,69,11,9,Available,North,10
+H0236,Mercy Family Hospital,80.218418,13.175841,149,26,55,Limited,West,11
+H0237,Jothi Wellness Medical Centre,80.260553,13.16749,259,34,50,Available,South,4
+H0238,Mercy Orthopaedic Medical Centre,80.254583,13.167409,25,3,7,Full,South,4
+H0239,Grace Emergency Hospital,80.249024,13.168064,232,21,55,Available,South,4
+H0240,Meenakshi Emergency Nursing Home,80.23366,13.167308,157,26,34,Available,West,5
+H0241,Ezhil Trauma Nursing Home,80.217971,13.176487,221,25,57,Available,West,11
+H0242,Harmony General Medical Centre,80.277716,13.204151,205,11,32,Available,North,8
+H0243,Nila Family Hospital,80.275417,13.201274,140,18,55,Available,East,7
+H0244,Vasantham Orthopaedic Hospital,80.27194,13.197936,106,15,36,Available,East,5
+H0245,Velan Trauma Medical Centre,80.254731,13.166574,195,18,0,Unavailable,South,4
+H0246,Green Cross Emergency Nursing Home,80.243918,13.17236,59,9,14,Available,West,3
+H0247,Harmony Health Medical Centre,80.22775,13.183058,183,29,26,Available,West,7
+H0248,Harmony Health Nursing Home,80.233056,13.191951,46,8,17,Available,West,8
+H0249,Vasantham General Medical Centre,80.246587,13.17722,201,36,40,Available,Central,4
+H0250,Unity General Medical Centre,80.218091,13.177701,196,35,22,Available,West,12
+H0251,Unity Emergency Nursing Home,80.26118,13.164787,43,4,8,Available,South,4
+H0252,Balaji Wellness Hospital,80.25898,13.170625,232,48,78,Limited,Central,3
+H0253,Balaji Heart & Diabetes Nursing Home,80.249423,13.177029,136,21,39,Available,Central,1
+H0254,Bharathi Wellness Medical Centre,80.275189,13.204725,240,32,0,Unavailable,North,8
+H0255,Vinayaga Emergency Hospital,80.27616,13.205921,31,5,10,Available,North,8
+H0256,Kamala Critical Care Medical Centre,80.261868,13.162554,70,8,11,Full,South,4
+H0257,Kaveri Trauma Medical Centre,80.240094,13.170793,158,24,59,Available,West,5
+H0258,Amutha Wellness Medical Centre,80.235122,13.180831,72,14,16,Available,West,5
+H0259,Pearl Multispeciality Hospital,80.27712,13.196596,112,25,32,Limited,East,6
+H0260,Sakthi Critical Care Hospital,80.213834,13.176969,204,47,20,Limited,West,12
+H0261,Sri Family Nursing Home,80.241564,13.170692,60,9,23,Limited,West,4
+H0262,Mercy Care Nursing Home,80.270138,13.204742,209,32,38,Available,North,5
+H0263,Lotus Maternity Hospital,80.261114,13.172771,48,10,5,Limited,Central,4
+H0264,Kamala Maternity Nursing Home,80.238899,13.168685,69,7,16,Full,West,4
+H0265,Kamala Care Nursing Home,80.280611,13.201411,184,40,25,Limited,East,8
+H0266,Ezhil Life Nursing Home,80.255734,13.174672,242,36,35,Available,Central,1
+H0267,Grace Community Hospital,80.232141,13.185114,67,4,19,Limited,West,6
+H0268,Jothi Maternity Medical Centre,80.262667,13.163334,103,6,22,Limited,South,5
+H0269,Mercy Wellness Hospital,80.23531,13.166994,279,60,0,Unavailable,West,5
+H0270,Unity Multispeciality Medical Centre,80.292963,13.185305,297,18,58,Available,East,10
+H0271,New Heart & Diabetes Nursing Home,80.238201,13.168637,182,19,57,Available,West,5
+H0272,Sri Multispeciality Medical Centre,80.286435,13.184464,145,16,34,Limited,East,9
+H0273,Ganga Life Nursing Home,80.248393,13.167678,117,9,34,Available,South,4
+H0274,Prime Emergency Nursing Home,80.279775,13.195639,191,21,53,Limited,East,7
+H0275,Anbu Life Hospital,80.286684,13.183274,185,36,44,Available,East,8
+H0276,Metro General Nursing Home,80.250965,13.17403,102,5,39,Available,Central,2
+H0277,Meenakshi Maternity Nursing Home,80.229874,13.164583,26,5,5,Limited,West,5
+H0278,Kaveri Health Hospital,80.231372,13.16546,62,13,9,Available,West,5
+H0279,Star Health Nursing Home,80.230533,13.165716,288,35,87,Available,West,4
+H0280,Anbu Heart & Diabetes Nursing Home,80.251318,13.17318,137,11,48,Limited,Central,2
+H0281,Balaji General Medical Centre,80.240317,13.17119,155,26,17,Limited,West,5
+H0282,Bharathi Orthopaedic Hospital,80.25478,13.167917,150,11,35,Full,South,3
+H0283,Mercy Community Nursing Home,80.278721,13.194753,239,29,87,Available,East,6
+H0284,Shree Care Nursing Home,80.256918,13.168478,38,9,12,Available,South,3
+H0285,Vinayaga Maternity Medical Centre,80.257977,13.172883,43,10,0,Unavailable,Central,2
+H0286,Green Cross Care Hospital,80.248279,13.173413,97,19,25,Available,Central,3
+H0287,Pearl Health Nursing Home,80.237181,13.165737,156,17,46,Available,West,5
+H0288,Tamarai Maternity Nursing Home,80.235081,13.168225,207,38,39,Available,West,4
+H0289,Arul Critical Care Nursing Home,80.246933,13.168014,157,29,60,Available,South,4
+H0290,Amutha Community Medical Centre,80.278704,13.205437,143,18,30,Full,North,8
+H0291,Meenakshi Multispeciality Hospital,80.240733,13.168882,282,50,90,Limited,West,5
+H0292,Metro Care Nursing Home,80.273183,13.197221,65,3,14,Limited,East,6
+H0293,Ezhil Care Medical Centre,80.248418,13.177908,180,16,48,Available,Central,4
+H0294,Sri Trauma Nursing Home,80.240482,13.172487,171,26,54,Available,West,3
+H0295,Ganga General Hospital,80.250924,13.169056,152,12,38,Available,South,4
+H0296,Anbu Emergency Nursing Home,80.219984,13.175305,246,20,91,Available,West,11
+H0297,Lotus Emergency Nursing Home,80.2938,13.185303,94,20,21,Available,East,10
+H0298,Malar Heart & Diabetes Hospital,80.248205,13.173994,287,71,84,Available,Central,3
+H0299,Siva Maternity Medical Centre,80.224687,13.174842,112,18,22,Available,West,9
+H0300,Vinayaga Heart & Diabetes Hospital,80.261157,13.172039,172,37,38,Available,Central,4
+H0301,Prime Wellness Medical Centre,80.245185,13.170551,165,40,38,Limited,South,4
+H0302,Saraswathi Orthopaedic Nursing Home,80.27247,13.196797,257,20,35,Available,East,5
+H0303,Bharathi Family Medical Centre,80.28121,13.212293,142,19,18,Available,North,11
+H0304,Grace Trauma Nursing Home,80.251542,13.191754,99,12,29,Limited,Central,3
+H0305,Tamarai Critical Care Hospital,80.251198,13.171614,26,1,7,Limited,Central,3
+H0306,Ganga General Medical Centre,80.277273,13.196235,121,24,36,Limited,East,6
+H0307,Vasantham Family Medical Centre,80.234601,13.1798,251,34,26,Available,West,5
+H0308,Sunrise Family Hospital,80.234369,13.167617,22,3,4,Limited,West,5
+H0309,Sri Life Medical Centre,80.257847,13.165399,270,21,43,Available,South,4
+H0310,Ezhil Multispeciality Hospital,80.256964,13.167474,171,14,57,Available,South,3
+H0311,Anbu Orthopaedic Nursing Home,80.275228,13.203391,59,13,21,Available,North,7
+H0312,Oasis Community Hospital,80.258079,13.173339,104,6,18,Available,Central,2
+H0313,Thenral Maternity Hospital,80.272347,13.193509,175,16,52,Available,East,4
+H0314,Ganga Health Medical Centre,80.256822,13.172273,108,11,14,Available,Central,2
+H0315,Sri General Hospital,80.236064,13.18495,50,7,9,Limited,West,6
+H0316,Star Care Nursing Home,80.272942,13.208663,206,34,29,Available,North,7
+H0317,Shree Trauma Hospital,80.277634,13.203624,208,30,38,Available,East,8
+H0318,Oasis Critical Care Hospital,80.251458,13.172291,53,3,16,Available,Central,2
+H0319,Amutha Life Hospital,80.274095,13.212506,98,9,36,Available,North,8
+H0320,Amutha Maternity Nursing Home,80.247337,13.178187,88,19,14,Available,Central,4
+H0321,Lotus Emergency Hospital,80.236999,13.184311,204,36,53,Available,West,6
+H0322,New Multispeciality Medical Centre,80.238694,13.166123,224,40,69,Available,West,5
+H0323,Lotus Life Hospital,80.250142,13.174169,223,41,86,Limited,Central,2
+H0324,Velan Maternity Medical Centre,80.278583,13.19681,282,57,79,Full,East,7
+H0325,Vasantham Critical Care Hospital,80.279147,13.199156,235,14,41,Available,East,7
+H0326,New Emergency Nursing Home,80.234076,13.182109,109,13,31,Limited,West,5
+H0327,Shree Family Medical Centre,80.270267,13.196192,50,7,9,Full,East,5
+H0328,Lotus Multispeciality Nursing Home,80.257874,13.173292,192,22,0,Unavailable,Central,2
+H0329,Ideal General Hospital,80.276075,13.223269,276,60,60,Limited,North,10
+H0330,Malar Emergency Medical Centre,80.257496,13.171246,293,42,89,Full,Central,2
+H0331,Arul Wellness Hospital,80.275267,13.19647,84,17,8,Full,East,6
+H0332,Arul Maternity Nursing Home,80.251631,13.176248,86,18,18,Limited,Central,2
+H0333,Sunrise Life Medical Centre,80.262318,13.164383,30,4,10,Available,South,5
+H0334,Sun Community Medical Centre,80.284584,13.182199,59,13,16,Available,East,9
+H0335,Sakthi Wellness Medical Centre,80.271471,13.196778,175,29,40,Available,East,5
+H0336,Thenral Life Hospital,80.276012,13.201614,173,38,65,Available,East,7
+H0337,Star Multispeciality Medical Centre,80.256523,13.1639,123,14,43,Available,South,4
+H0338,Meenakshi Family Nursing Home,80.236859,13.179909,106,15,20,Available,West,5
+H0339,Siva Care Medical Centre,80.268425,13.196094,252,39,66,Available,North,4
+H0340,Harmony Life Hospital,80.250805,13.169949,148,10,36,Available,South,3
+H0341,Sun Emergency Hospital,80.251206,13.168492,246,31,71,Limited,South,4
+H0342,Vasantham Multispeciality Medical Centre,80.269635,13.200244,289,67,57,Available,North,5
+H0343,New Critical Care Hospital,80.275459,13.20618,108,19,18,Available,North,7
+H0344,Meenakshi Trauma Hospital,80.24435,13.172256,76,6,28,Limited,West,3
+H0345,Metro Family Hospital,80.252796,13.179418,286,33,107,Limited,Central,1
+H0346,Ganga Wellness Hospital,80.262621,13.169,197,17,0,Unavailable,South,4
+H0347,Kamala Community Nursing Home,80.274834,13.207948,101,5,39,Full,North,7
+H0348,Ideal Critical Care Medical Centre,80.246456,13.176331,194,45,62,Full,Central,3
+H0349,Prime Care Medical Centre,80.273878,13.196737,164,22,54,Available,East,6
+H0350,Arul Care Hospital,80.251222,13.173982,273,30,89,Available,Central,2
+H0351,Ezhil Heart & Diabetes Hospital,80.243166,13.173491,91,15,22,Available,West,3
+H0352,Prime Critical Care Hospital,80.27593,13.203934,297,15,70,Limited,North,7
+H0353,Tamarai Life Medical Centre,80.231248,13.167055,282,29,48,Full,West,4
+H0354,Lotus Trauma Hospital,80.250054,13.167899,70,13,20,Available,South,4
+H0355,Jothi Multispeciality Nursing Home,80.270861,13.208075,66,11,12,Available,North,6
+H0356,Kaveri Orthopaedic Medical Centre,80.27873,13.194345,169,41,29,Available,East,6
+H0357,Amutha Life Medical Centre,80.236588,13.182516,32,5,8,Available,West,5
+H0358,Thenral Care Nursing Home,80.286002,13.18285,103,14,22,Available,East,8
+H0359,Nila General Hospital,80.251341,13.177294,141,28,23,Available,Central,1
+H0360,Vasantham General Hospital,80.252175,13.171392,291,67,100,Full,Central,3
+H0361,Thenral General Hospital,80.222526,13.17517,297,57,106,Available,West,10
+H0362,Nila Wellness Nursing Home,80.278116,13.202012,62,15,9,Limited,East,8
+H0363,Shree Multispeciality Nursing Home,80.271794,13.193094,269,55,27,Limited,East,4
+H0364,Saraswathi Life Nursing Home,80.251139,13.169205,45,10,9,Available,South,3
+H0365,Lakshmi Narayan Wellness Medical Centre,80.272766,13.189233,229,16,77,Available,East,5
+H0366,Kalaimagal Family Nursing Home,80.255638,13.167316,256,50,90,Limited,South,3
+H0367,Sun Multispeciality Medical Centre,80.246554,13.177076,269,37,38,Available,Central,1
+H0368,Ezhil Maternity Hospital,80.255806,13.172261,82,13,27,Full,Central,2
+H0369,Meenakshi Emergency Medical Centre,80.256549,13.168971,270,48,36,Available,South,3
+H0370,Pearl Trauma Medical Centre,80.278615,13.203246,52,12,11,Limited,East,8
+H0371,Tamarai Maternity Hospital,80.27619,13.20613,165,40,65,Limited,North,8
+H0372,Green Cross Heart & Diabetes Nursing Home,80.270662,13.207059,151,16,23,Available,North,6
+H0373,Metro Life Nursing Home,80.285278,13.182845,108,21,15,Available,East,8
+H0374,Thenral Orthopaedic Hospital,80.260849,13.163475,26,5,0,Unavailable,South,4
+H0375,Grace Care Medical Centre,80.262007,13.169729,236,28,67,Available,South,4
+H0376,Mercy Maternity Nursing Home,80.221418,13.173444,113,8,42,Available,West,11
+H0377,Sunrise Critical Care Hospital,80.257113,13.170655,205,11,80,Available,Central,2
+H0378,Nila Care Medical Centre,80.259775,13.171118,134,27,16,Available,Central,3
+H0379,Meenakshi Wellness Nursing Home,80.255596,13.167567,124,18,17,Limited,South,3
+H0380,Grace Multispeciality Hospital,80.253506,13.165994,268,66,90,Limited,South,4
+H0381,Kaveri Maternity Nursing Home,80.242936,13.166893,46,6,8,Available,South,5
+H0382,Lakshmi Narayan Care Nursing Home,80.24819,13.169055,226,55,82,Limited,South,4
+H0383,Arul Life Medical Centre,80.256073,13.173303,229,30,68,Available,Central,2
+H0384,Anbu Health Hospital,80.249702,13.167852,126,26,16,Available,South,4
+H0385,Saraswathi Critical Care Medical Centre,80.27438,13.221919,93,6,32,Available,North,9
+H0386,Balaji Family Nursing Home,80.24616,13.173743,21,3,0,Unavailable,Central,3
+H0387,Saraswathi Wellness Medical Centre,80.269492,13.197083,282,59,64,Available,North,4
+H0388,Unity Life Nursing Home,80.23864,13.167294,285,66,75,Available,West,5
+H0389,Vasantham Heart & Diabetes Medical Centre,80.277941,13.195493,87,18,21,Available,East,6
+H0390,Lotus Emergency Medical Centre,80.271026,13.191241,28,1,8,Limited,East,5
+H0391,Mercy Life Nursing Home,80.250744,13.175764,54,6,15,Available,Central,2
+H0392,Meenakshi Care Hospital,80.240332,13.167293,38,2,15,Available,South,5
+H0393,Grace Community Nursing Home,80.253806,13.170342,252,18,100,Limited,Central,4
+H0394,Lakshmi Narayan General Hospital,80.241294,13.169983,269,49,68,Available,West,5
+H0395,Grace General Medical Centre,80.249477,13.174268,62,11,7,Available,Central,2
+H0396,Saraswathi Emergency Hospital,80.256979,13.167204,229,46,72,Available,South,3
+H0397,Bharathi Maternity Medical Centre,80.275352,13.207853,70,15,27,Available,North,7
+H0398,Lakshmi Narayan Care Hospital,80.24623,13.178587,122,24,23,Available,Central,4
+H0399,Siva Family Medical Centre,80.23601,13.180274,187,39,44,Full,West,5
+H0400,Meenakshi Multispeciality Medical Centre,80.279644,13.198188,221,13,50,Limited,East,7
+H0401,Unity Maternity Medical Centre,80.231227,13.167915,264,25,30,Limited,West,4
+H0402,Meenakshi Trauma Medical Centre,80.254596,13.168693,32,5,0,Unavailable,South,3
+H0403,Meenakshi General Hospital,80.250404,13.19152,75,16,15,Available,Central,3
+H0404,Ideal Life Hospital,80.25589,13.195144,98,4,32,Available,Central,5
+H0405,Lakshmi Narayan Life Hospital,80.227071,13.175354,106,16,37,Full,West,9
+H0406,Kaveri General Nursing Home,80.27033,13.19432,299,55,103,Available,East,4
+H0407,Bharathi Heart & Diabetes Medical Centre,80.220695,13.171642,237,13,53,Limited,West,11
+H0408,Mercy Wellness Nursing Home,80.219113,13.175763,109,14,21,Limited,West,11
+H0409,Sakthi Heart & Diabetes Hospital,80.275062,13.204018,292,66,94,Available,North,8
+H0410,Nila Health Medical Centre,80.254172,13.173825,159,29,54,Available,Central,2
+H0411,Green Cross General Medical Centre,80.248585,13.175092,160,15,39,Available,Central,2
+H0412,Pearl Maternity Medical Centre,80.240026,13.174314,141,31,51,Available,West,2
+H0413,Tamarai Heart & Diabetes Hospital,80.262289,13.168151,60,7,8,Available,South,4
+H0414,Star Health Hospital,80.23964,13.168746,281,62,102,Available,West,4
+H0415,Sri Health Medical Centre,80.275134,13.223094,23,2,2,Limited,North,10
+H0416,Harmony Critical Care Nursing Home,80.225765,13.173831,68,11,9,Full,West,10
+H0417,Metro Community Medical Centre,80.230255,13.166976,84,10,21,Limited,West,4
+H0418,Ganga Emergency Nursing Home,80.274696,13.224648,98,10,11,Available,North,10
+H0419,Tamarai Maternity Medical Centre,80.233523,13.183438,56,12,6,Available,West,5
+H0420,Nila Family Medical Centre,80.257655,13.192764,25,2,2,Available,Central,4
+H0421,Ideal Heart & Diabetes Nursing Home,80.236606,13.183024,209,13,48,Available,West,5
+H0422,Kaveri Heart & Diabetes Nursing Home,80.23169,13.166771,291,34,96,Full,West,4
+H0423,Kalaimagal Emergency Hospital,80.26308,13.167116,54,10,5,Available,South,4
+H0424,Kaveri Maternity Hospital,80.237546,13.166632,103,21,30,Available,West,5
+H0425,Harmony Emergency Hospital,80.281294,13.197827,161,40,55,Limited,East,7
+H0426,Meenakshi Care Nursing Home,80.239816,13.170733,279,30,41,Available,West,5
+H0427,Unity Emergency Hospital,80.244749,13.16789,214,28,30,Available,South,5
+H0428,Metro Heart & Diabetes Medical Centre,80.270313,13.197975,234,18,83,Available,North,5
+H0429,Star Community Hospital,80.245898,13.171014,182,30,63,Limited,South,4
+H0430,Anbu General Nursing Home,80.273392,13.211021,136,33,35,Limited,North,7
+H0431,Kaveri General Hospital,80.235421,13.184561,75,14,25,Available,West,6
+H0432,Unity Community Medical Centre,80.271582,13.208266,262,44,33,Full,North,6
+H0433,Sri Family Hospital,80.241751,13.168839,245,31,53,Full,South,5
+H0434,Pearl Family Medical Centre,80.293529,13.183909,27,6,8,Limited,East,10
+H0435,Ezhil Emergency Nursing Home,80.226588,13.175334,220,32,38,Available,West,9
+H0436,Jothi Wellness Nursing Home,80.23432,13.184007,43,3,14,Available,West,5
+H0437,Vasantham Maternity Nursing Home,80.275112,13.194781,226,27,56,Full,East,6
+H0438,Balaji Trauma Nursing Home,80.273662,13.194899,251,15,81,Available,East,5
+H0439,Oasis Wellness Hospital,80.255845,13.17399,56,5,13,Limited,Central,2
+H0440,Nila Health Hospital,80.261104,13.167506,141,7,29,Limited,South,4
+H0441,Thenral Life Nursing Home,80.255536,13.172513,54,7,8,Available,Central,2
+H0442,Lakshmi Narayan Maternity Nursing Home,80.277696,13.205591,178,31,28,Limited,North,8
+H0443,Ezhil Critical Care Hospital,80.231631,13.188202,279,33,90,Full,West,7
+H0444,Sun Heart & Diabetes Nursing Home,80.257201,13.172916,42,5,5,Limited,Central,2
+H0445,Lotus Care Medical Centre,80.27152,13.207948,131,31,16,Available,North,6
+H0446,Kamala Orthopaedic Nursing Home,80.257685,13.172877,292,58,44,Full,Central,2
+H0447,Lakshmi Narayan General Nursing Home,80.270052,13.203716,104,16,15,Available,North,5
+H0448,Tamarai Family Medical Centre,80.257152,13.170558,57,6,19,Limited,Central,2
+H0449,Oasis Life Hospital,80.25524,13.167872,156,35,34,Limited,South,3
+H0450,Sri General Medical Centre,80.256022,13.192839,162,15,64,Limited,Central,4
+H0451,Shree Heart & Diabetes Hospital,80.286021,13.182196,205,23,28,Available,East,8
+H0452,Nila Heart & Diabetes Medical Centre,80.24554,13.167873,107,24,31,Available,South,5
+H0453,Malar Health Medical Centre,80.249288,13.17328,287,44,67,Available,Central,3
+H0454,Sakthi Trauma Nursing Home,80.240162,13.166851,165,32,35,Available,South,5
+H0455,Kalaimagal Health Nursing Home,80.23547,13.180012,100,16,36,Available,West,4
+H0456,Sri Orthopaedic Medical Centre,80.242301,13.175004,288,52,113,Available,West,2
+H0457,Arul Family Hospital,80.226166,13.175316,278,30,100,Available,West,9
+H0458,Jothi Critical Care Nursing Home,80.272002,13.207856,159,15,25,Limited,North,6
+H0459,Harmony Multispeciality Nursing Home,80.248808,13.167733,26,2,4,Full,South,4
+H0460,Thenral Wellness Hospital,80.261977,13.163279,187,15,55,Available,South,5
+H0461,Malar Community Hospital,80.244051,13.168555,175,39,32,Limited,South,4
+H0462,Sunrise Life Hospital,80.251852,13.174616,61,6,19,Limited,Central,2
+H0463,Kaveri Community Medical Centre,80.256743,13.193715,197,31,53,Available,Central,4
+H0464,Grace Life Medical Centre,80.242498,13.167534,255,53,67,Available,South,5
+H0465,Amutha Orthopaedic Medical Centre,80.235618,13.194577,49,10,17,Limited,West,9
+H0466,Anbu Trauma Nursing Home,80.240892,13.174249,222,30,0,Unavailable,West,3
+H0467,Kaveri Trauma Hospital,80.242629,13.175678,59,8,6,Limited,West,2
+H0468,Pearl Orthopaedic Medical Centre,80.262482,13.16295,229,57,26,Full,South,5
+H0469,Tamarai Life Hospital,80.257805,13.169081,137,25,0,Unavailable,South,3
+H0470,Vinayaga Wellness Medical Centre,80.247177,13.171175,21,4,5,Available,South,3
+H0471,Anbu Critical Care Medical Centre,80.271743,13.212386,290,66,51,Limited,North,7
+H0472,Ezhil Wellness Hospital,80.2406,13.17205,66,13,14,Available,West,4
+H0473,New General Hospital,80.228939,13.183083,186,16,0,Unavailable,West,6
+H0474,Velan Emergency Hospital,80.240498,13.174246,70,11,24,Available,West,2
+H0475,Lakshmi Narayan Critical Care Medical Centre,80.245631,13.173078,281,19,75,Available,West,3
+H0476,Malar Multispeciality Hospital,80.272084,13.192795,226,40,48,Full,East,4
+H0477,Sunrise Care Nursing Home,80.250313,13.168985,245,59,44,Available,South,4
+H0478,Ideal Orthopaedic Hospital,80.27306,13.193777,140,21,35,Limited,East,5
+H0479,Harmony Critical Care Hospital,80.278607,13.194346,150,20,29,Available,East,6
+H0480,Nila General Medical Centre,80.239309,13.170238,197,11,0,Unavailable,West,5
+H0481,Jothi General Hospital,80.252541,13.177466,239,57,72,Full,Central,1
+H0482,Green Cross Critical Care Hospital,80.223443,13.177192,257,18,30,Available,West,10
+H0483,Jothi Life Medical Centre,80.217177,13.175554,24,1,2,Limited,West,11
+H0484,Vasantham Family Hospital,80.221829,13.175053,205,20,33,Available,West,10
+H0485,Metro Critical Care Hospital,80.279564,13.202918,50,3,18,Limited,East,8
+H0486,Amutha Critical Care Nursing Home,80.253602,13.174936,100,14,29,Limited,Central,2
+H0487,Malar Care Hospital,80.242924,13.174618,252,38,38,Limited,West,3
+H0488,Grace Trauma Medical Centre,80.263552,13.164321,90,10,33,Available,South,5
+H0489,Star Care Hospital,80.272796,13.219092,243,14,58,Available,North,8
+H0490,Lotus Trauma Medical Centre,80.255296,13.179801,149,10,36,Limited,Central,1
+H0491,Green Cross Community Hospital,80.264178,13.167878,85,10,32,Available,South,4
+H0492,Jothi Wellness Hospital,80.278423,13.198806,113,7,13,Available,East,7
+H0493,Ezhil Wellness Medical Centre,80.248752,13.176063,168,31,27,Available,Central,2
+H0494,Shree Multispeciality Medical Centre,80.280731,13.223303,234,21,64,Available,North,10
+H0495,Kaveri Health Medical Centre,80.273154,13.207638,189,20,29,Full,North,7
+H0496,Star Multispeciality Nursing Home,80.244031,13.169237,281,36,85,Available,South,4
+H0497,Thenral Heart & Diabetes Hospital,80.241111,13.171142,262,34,43,Available,West,4
+H0498,Malar General Medical Centre,80.251045,13.168126,230,11,29,Full,South,4
+H0499,Harmony Multispeciality Hospital,80.233572,13.183045,188,13,30,Available,West,5
+H0500,Harmony Care Hospital,80.278418,13.198638,101,22,22,Limited,East,7

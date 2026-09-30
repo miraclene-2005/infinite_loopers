@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Node / React
+node_modules/
+frontend-react/node_modules/
+frontend-react/dist/
+dist/
+.DS_Store
+
+# IDE / Gemini
+.gemini/
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local

@@ -1,0 +1,601 @@
+scenario_id,chemical,release_type,release_amount_kg,release_duration_min,wind_speed_kmh,wind_direction,downwind_direction,temperature_c,source_height_m,atmospheric_stability,yellow_zone_m,orange_zone_m,red_zone_m,recommended_response,dataset_split
+CS_0001,Hydrogen Sulfide,Storage tank leak,368.7,4.4,15.4,NW,Northwest,18.9,0,E,1093.2,677.8,328.0,Shelter/evacuate as directed,train
+CS_0002,Hydrogen Sulfide,Gas release,328.9,1.0,2.4,SE,Southeast,33.0,10,E,1538.1,953.6,461.4,Shelter/evacuate as directed,test
+CS_0003,Chlorine,Pressurized liquid release,267.1,9.2,11.4,SE,Southeast,22.3,1,D,1552.9,962.8,465.9,Shelter/evacuate as directed,train
+CS_0004,Sulfur Dioxide,Pressurized liquid release,491.8,27.6,12.2,NE,Northeast,36.5,2,D,3070.3,1903.6,921.1,Evacuate high-risk area,train
+CS_0005,Chlorine,Storage tank leak,406.1,27.0,8.3,W,West,17.4,2,D,3804.3,2358.7,1141.3,Evacuate high-risk area,validation
+CS_0006,Nitrogen Dioxide,Storage tank leak,94.9,26.1,10.4,SW,Southwest,19.6,2,B,1187.7,736.4,356.3,Shelter/evacuate as directed,train
+CS_0007,Hydrogen Sulfide,Gas release,485.1,36.3,19.6,NW,Northwest,38.5,5,F,4069.5,2523.1,1220.8,Evacuate high-risk area,train
+CS_0008,Hydrogen Sulfide,Gas release,169.4,22.0,10.3,SE,Southeast,21.8,5,D,1955.4,1212.4,586.6,Evacuate high-risk area,train
+CS_0009,Hydrogen Sulfide,Gas release,155.2,24.3,5.0,NW,Northwest,15.4,0,C,2320.0,1438.4,696.0,Evacuate high-risk area,train
+CS_0010,Sulfur Dioxide,Pipe leak,367.2,7.8,19.5,W,West,16.9,0,A,726.3,450.3,217.9,Monitor and restrict access,train
+CS_0011,Hydrogen Sulfide,Pressurized liquid release,41.1,38.6,8.5,E,East,23.1,2,C,1236.7,766.8,371.0,Shelter/evacuate as directed,train
+CS_0012,Chlorine,Pressurized liquid release,486.1,16.1,21.4,E,East,33.0,0,A,1552.8,962.8,465.9,Shelter/evacuate as directed,train
+CS_0013,Ammonia,Gas release,62.9,31.0,1.8,SW,Southwest,30.9,0,E,2913.3,1806.2,874.0,Evacuate high-risk area,validation
+CS_0014,Nitrogen Dioxide,Pressurized liquid release,109.5,52.9,23.6,NE,Northeast,30.0,2,E,1738.1,1077.6,521.4,Shelter/evacuate as directed,test
+CS_0015,Chlorine,Gas release,233.7,20.1,6.2,W,West,25.4,5,D,3131.9,1941.8,939.6,Evacuate high-risk area,test
+CS_0016,Chlorine,Pressurized liquid release,63.9,51.8,6.5,W,West,25.7,5,F,3130.5,1940.9,939.2,Evacuate high-risk area,train
+CS_0017,Sulfur Dioxide,Pressurized liquid release,118.8,20.1,3.9,NW,Northwest,23.4,10,A,1763.2,1093.2,529.0,Shelter/evacuate as directed,train
+CS_0018,Hydrogen Sulfide,Pressurized liquid release,486.2,18.8,24.1,N,North,21.3,1,A,1393.6,864.1,418.1,Shelter/evacuate as directed,train
+CS_0019,Sulfur Dioxide,Pipe leak,256.3,15.1,2.2,NE,Northeast,22.0,5,E,4242.6,2630.4,1272.8,Evacuate high-risk area,train
+CS_0020,Hydrogen Sulfide,Pressurized liquid release,280.9,15.3,15.2,SW,Southwest,17.0,0,E,1773.4,1099.5,532.0,Shelter/evacuate as directed,train
+CS_0021,Hydrogen Sulfide,Storage tank leak,205.4,31.0,20.6,NW,Northwest,35.0,0,E,2028.0,1257.4,608.4,Evacuate high-risk area,test
+CS_0022,Sulfur Dioxide,Pipe leak,342.0,39.1,1.4,SE,Southeast,27.8,0,A,6190.0,3837.8,1857.0,Immediate evacuation,test
+CS_0023,Chlorine,Pressurized liquid release,263.7,13.3,21.1,W,West,31.9,2,F,1766.6,1095.3,530.0,Shelter/evacuate as directed,train
+CS_0024,Ammonia,Gas release,333.4,15.3,20.6,NW,Northwest,28.9,1,F,1507.7,934.8,452.3,Shelter/evacuate as directed,train
+CS_0025,Hydrogen Sulfide,Pipe leak,442.5,51.0,5.5,SE,Southeast,22.0,2,F,7688.8,4767.0,2306.6,Immediate evacuation,train
+CS_0026,Chlorine,Pipe leak,51.2,1.5,4.9,SW,Southwest,37.5,1,A,333.4,206.7,100.0,Monitor and restrict access,train
+CS_0027,Sulfur Dioxide,Storage tank leak,149.1,59.7,8.3,SE,Southeast,27.1,0,A,2067.0,1281.5,620.1,Evacuate high-risk area,train
+CS_0028,Hydrogen Sulfide,Gas release,169.4,39.8,18.9,N,North,31.2,5,D,2034.4,1261.3,610.3,Evacuate high-risk area,validation
+CS_0029,Sulfur Dioxide,Pressurized liquid release,139.9,53.6,6.9,E,East,39.3,0,C,2725.5,1689.8,817.6,Evacuate high-risk area,validation
+CS_0030,Ammonia,Pressurized liquid release,326.1,30.5,17.1,SE,Southeast,36.6,0,C,1771.9,1098.6,531.6,Shelter/evacuate as directed,train
+CS_0031,Chlorine,Gas release,497.3,45.1,12.3,S,South,22.0,5,E,5399.3,3347.6,1619.8,Immediate evacuation,train
+CS_0032,Chlorine,Pipe leak,290.4,12.3,24.5,N,North,16.9,0,C,1117.4,692.8,335.2,Shelter/evacuate as directed,train
+CS_0033,Ammonia,Pipe leak,468.7,37.3,17.7,SW,Southwest,29.3,0,B,2017.0,1250.6,605.1,Evacuate high-risk area,validation
+CS_0034,Sulfur Dioxide,Gas release,168.0,33.6,21.4,NE,Northeast,18.4,2,B,1129.3,700.2,338.8,Shelter/evacuate as directed,train
+CS_0035,Sulfur Dioxide,Gas release,309.6,12.5,3.0,NW,Northwest,15.1,1,F,3564.8,2210.2,1069.4,Evacuate high-risk area,test
+CS_0036,Hydrogen Sulfide,Storage tank leak,23.5,20.4,14.9,NE,Northeast,26.0,2,F,694.7,430.7,208.4,Monitor and restrict access,validation
+CS_0037,Nitrogen Dioxide,Storage tank leak,431.6,32.7,7.0,S,South,16.0,0,A,2946.3,1826.7,883.9,Evacuate high-risk area,train
+CS_0038,Nitrogen Dioxide,Gas release,483.0,25.3,12.0,E,East,36.1,0,D,3131.0,1941.2,939.3,Evacuate high-risk area,train
+CS_0039,Nitrogen Dioxide,Storage tank leak,360.2,44.9,2.0,NE,Northeast,25.0,0,E,9449.6,5858.7,2834.9,Immediate evacuation,train
+CS_0040,Ammonia,Storage tank leak,419.6,10.2,17.7,NE,Northeast,25.2,0,F,1441.2,893.6,432.4,Shelter/evacuate as directed,train
+CS_0041,Chlorine,Pipe leak,147.2,37.1,23.9,W,West,33.4,1,C,1542.0,956.0,462.6,Shelter/evacuate as directed,test
+CS_0042,Hydrogen Sulfide,Pipe leak,87.7,6.6,3.9,SW,Southwest,23.5,0,F,1430.5,886.9,429.2,Shelter/evacuate as directed,validation
+CS_0043,Hydrogen Sulfide,Gas release,18.4,28.4,19.3,S,South,35.2,0,B,439.0,272.2,131.7,Monitor and restrict access,train
+CS_0044,Ammonia,Storage tank leak,444.5,30.6,7.3,NW,Northwest,15.4,10,E,4063.1,2519.1,1218.9,Evacuate high-risk area,validation
+CS_0045,Nitrogen Dioxide,Gas release,44.6,56.5,16.4,NW,Northwest,15.7,1,D,1115.2,691.4,334.6,Shelter/evacuate as directed,validation
+CS_0046,Ammonia,Pipe leak,73.0,49.4,20.5,NW,Northwest,35.5,1,B,890.2,551.9,267.1,Monitor and restrict access,train
+CS_0047,Sulfur Dioxide,Gas release,44.0,41.3,3.4,N,North,15.5,0,B,1537.3,953.1,461.2,Shelter/evacuate as directed,train
+CS_0048,Nitrogen Dioxide,Storage tank leak,21.4,42.1,20.5,S,South,22.0,0,C,554.2,343.6,166.3,Monitor and restrict access,validation
+CS_0049,Nitrogen Dioxide,Gas release,214.8,34.5,24.2,E,East,28.7,0,A,1224.6,759.2,367.4,Shelter/evacuate as directed,train
+CS_0050,Sulfur Dioxide,Pressurized liquid release,192.3,51.6,19.6,N,North,23.5,10,E,2453.3,1521.1,736.0,Evacuate high-risk area,train
+CS_0051,Chlorine,Gas release,195.1,18.6,13.8,E,East,27.4,0,A,1281.3,794.4,384.4,Shelter/evacuate as directed,train
+CS_0052,Hydrogen Sulfide,Gas release,453.6,57.1,3.2,E,East,23.0,10,B,8223.0,5098.3,2466.9,Immediate evacuation,validation
+CS_0053,Nitrogen Dioxide,Gas release,305.2,47.1,14.3,W,West,20.3,10,E,3741.4,2319.7,1122.4,Evacuate high-risk area,test
+CS_0054,Nitrogen Dioxide,Pressurized liquid release,38.2,21.7,14.2,NE,Northeast,26.0,5,D,767.3,475.7,230.2,Monitor and restrict access,train
+CS_0055,Chlorine,Pipe leak,312.9,5.3,3.4,NE,Northeast,17.1,2,C,2107.3,1306.5,632.2,Evacuate high-risk area,train
+CS_0056,Ammonia,Gas release,261.5,52.9,6.6,N,North,29.5,5,A,2828.9,1753.9,848.7,Evacuate high-risk area,train
+CS_0057,Nitrogen Dioxide,Pipe leak,194.4,26.0,3.0,NE,Northeast,34.4,1,C,3702.3,2295.4,1110.7,Evacuate high-risk area,train
+CS_0058,Sulfur Dioxide,Gas release,208.5,49.5,14.7,W,West,33.5,2,A,1777.2,1101.8,533.1,Shelter/evacuate as directed,train
+CS_0059,Sulfur Dioxide,Pipe leak,481.5,14.2,10.0,SW,Southwest,22.1,5,B,1933.9,1199.0,580.2,Shelter/evacuate as directed,test
+CS_0060,Hydrogen Sulfide,Storage tank leak,282.4,55.2,8.7,SE,Southeast,16.1,10,C,4127.2,2558.9,1238.2,Evacuate high-risk area,train
+CS_0061,Sulfur Dioxide,Storage tank leak,266.3,38.0,16.1,SW,Southwest,32.4,1,C,2036.1,1262.4,610.8,Evacuate high-risk area,train
+CS_0062,Chlorine,Storage tank leak,479.8,20.8,2.4,NE,Northeast,24.9,0,D,6808.4,4221.2,2042.5,Immediate evacuation,validation
+CS_0063,Hydrogen Sulfide,Pressurized liquid release,183.1,59.2,15.0,SW,Southwest,16.9,10,A,2130.7,1321.0,639.2,Evacuate high-risk area,test
+CS_0064,Chlorine,Pressurized liquid release,408.8,49.5,17.4,NE,Northeast,19.1,5,C,3431.5,2127.5,1029.4,Evacuate high-risk area,train
+CS_0065,Nitrogen Dioxide,Pipe leak,214.9,2.6,23.4,N,North,36.7,0,F,585.3,362.9,175.6,Monitor and restrict access,test
+CS_0066,Chlorine,Pressurized liquid release,492.8,49.9,10.0,N,North,33.7,0,E,6179.1,3831.1,1853.7,Immediate evacuation,validation
+CS_0067,Chlorine,Pressurized liquid release,213.3,49.0,7.6,W,West,16.4,5,E,4555.7,2824.5,1366.7,Evacuate high-risk area,train
+CS_0068,Sulfur Dioxide,Pipe leak,386.8,27.6,23.7,SW,Southwest,36.2,0,A,1399.9,868.0,420.0,Shelter/evacuate as directed,train
+CS_0069,Sulfur Dioxide,Gas release,111.5,16.9,22.1,W,West,33.9,0,B,673.3,417.5,202.0,Monitor and restrict access,train
+CS_0070,Ammonia,Pressurized liquid release,388.4,34.1,13.5,SW,Southwest,36.3,1,C,2332.5,1446.1,699.7,Evacuate high-risk area,train
+CS_0071,Chlorine,Pipe leak,245.2,48.5,11.1,W,West,34.6,1,F,4477.5,2776.0,1343.2,Evacuate high-risk area,train
+CS_0072,Hydrogen Sulfide,Storage tank leak,308.0,43.9,16.3,N,North,28.9,0,F,3474.0,2153.9,1042.2,Evacuate high-risk area,test
+CS_0073,Chlorine,Pipe leak,204.3,9.7,15.9,NW,Northwest,36.6,10,A,1060.5,657.5,318.2,Shelter/evacuate as directed,train
+CS_0074,Ammonia,Pipe leak,42.5,13.3,2.1,E,East,30.5,0,C,1170.6,725.8,351.2,Shelter/evacuate as directed,train
+CS_0075,Sulfur Dioxide,Pressurized liquid release,235.5,11.6,15.0,SE,Southeast,25.0,2,A,868.2,538.3,260.5,Monitor and restrict access,train
+CS_0076,Sulfur Dioxide,Storage tank leak,262.5,49.5,24.4,NE,Northeast,30.0,0,D,1998.9,1239.3,599.7,Evacuate high-risk area,train
+CS_0077,Ammonia,Gas release,53.5,22.5,3.9,SW,Southwest,26.5,0,B,1112.1,689.5,333.6,Shelter/evacuate as directed,train
+CS_0078,Nitrogen Dioxide,Pressurized liquid release,55.2,10.3,12.5,NW,Northwest,32.2,1,E,745.2,462.0,223.6,Monitor and restrict access,train
+CS_0079,Chlorine,Gas release,405.0,22.9,19.0,SW,Southwest,19.6,0,F,2764.5,1714.0,829.3,Evacuate high-risk area,train
+CS_0080,Ammonia,Pipe leak,270.3,8.9,18.3,E,East,16.6,0,F,1017.0,630.5,305.1,Shelter/evacuate as directed,train
+CS_0081,Sulfur Dioxide,Pressurized liquid release,62.5,16.9,11.7,S,South,28.3,0,D,816.2,506.0,244.9,Monitor and restrict access,test
+CS_0082,Ammonia,Pipe leak,421.9,21.2,3.1,N,North,28.4,0,D,4154.8,2576.0,1246.4,Evacuate high-risk area,train
+CS_0083,Ammonia,Pipe leak,254.2,45.0,3.1,N,North,28.4,1,D,4769.1,2956.8,1430.7,Evacuate high-risk area,train
+CS_0084,Sulfur Dioxide,Pressurized liquid release,175.3,30.4,22.6,SW,Southwest,30.2,0,E,1505.1,933.2,451.5,Shelter/evacuate as directed,train
+CS_0085,Chlorine,Gas release,59.9,12.0,4.7,SW,Southwest,21.1,0,F,1559.3,966.8,467.8,Shelter/evacuate as directed,train
+CS_0086,Chlorine,Gas release,267.0,24.5,10.8,SE,Southeast,39.6,0,C,2547.0,1579.1,764.1,Evacuate high-risk area,validation
+CS_0087,Hydrogen Sulfide,Gas release,487.8,43.4,12.8,E,East,33.1,5,B,3652.0,2264.2,1095.6,Evacuate high-risk area,train
+CS_0088,Sulfur Dioxide,Storage tank leak,110.5,44.4,24.2,SE,Southeast,32.8,0,A,924.1,572.9,277.2,Monitor and restrict access,test
+CS_0089,Ammonia,Pipe leak,52.8,36.0,13.1,SW,Southwest,38.3,0,B,807.2,500.4,242.1,Monitor and restrict access,train
+CS_0090,Ammonia,Pressurized liquid release,279.0,9.2,5.8,N,North,32.1,0,A,1224.6,759.2,367.4,Shelter/evacuate as directed,train
+CS_0091,Chlorine,Pipe leak,241.1,50.0,10.9,SE,Southeast,23.7,10,B,3315.6,2055.7,994.7,Evacuate high-risk area,train
+CS_0092,Nitrogen Dioxide,Pipe leak,469.8,34.9,5.3,NW,Northwest,16.7,2,E,5770.2,3577.5,1731.1,Immediate evacuation,test
+CS_0093,Sulfur Dioxide,Pipe leak,108.8,40.2,4.9,NE,Northeast,19.1,5,F,3206.7,1988.2,962.0,Evacuate high-risk area,train
+CS_0094,Hydrogen Sulfide,Pressurized liquid release,298.3,54.1,17.4,S,South,26.3,2,F,3735.3,2315.9,1120.6,Evacuate high-risk area,train
+CS_0095,Chlorine,Pipe leak,256.3,33.1,6.6,NW,Northwest,37.5,0,C,3674.0,2277.9,1102.2,Evacuate high-risk area,train
+CS_0096,Sulfur Dioxide,Pressurized liquid release,173.1,52.8,18.5,N,North,32.3,0,D,1946.9,1207.1,584.1,Evacuate high-risk area,validation
+CS_0097,Sulfur Dioxide,Pipe leak,84.3,3.0,8.5,SW,Southwest,21.2,2,B,384.8,238.6,115.4,Monitor and restrict access,train
+CS_0098,Ammonia,Pressurized liquid release,379.8,28.0,3.5,SE,Southeast,28.4,0,E,4819.8,2988.3,1445.9,Evacuate high-risk area,train
+CS_0099,Nitrogen Dioxide,Pressurized liquid release,210.4,34.4,19.5,NE,Northeast,15.3,1,C,1579.2,979.1,473.8,Shelter/evacuate as directed,validation
+CS_0100,Sulfur Dioxide,Pressurized liquid release,99.0,28.3,22.8,SW,Southwest,29.6,0,C,875.0,542.5,262.5,Monitor and restrict access,test
+CS_0101,Hydrogen Sulfide,Storage tank leak,78.2,36.0,3.4,SE,Southeast,21.4,2,D,2828.5,1753.7,848.6,Evacuate high-risk area,validation
+CS_0102,Hydrogen Sulfide,Pipe leak,21.3,5.1,16.6,E,East,34.3,0,E,294.1,182.3,88.2,Monitor and restrict access,train
+CS_0103,Chlorine,Storage tank leak,230.9,8.4,3.7,N,North,39.6,5,A,2062.0,1278.4,618.6,Evacuate high-risk area,test
+CS_0104,Sulfur Dioxide,Pipe leak,205.5,1.3,2.3,N,North,23.4,5,C,886.8,549.8,266.0,Monitor and restrict access,train
+CS_0105,Hydrogen Sulfide,Pressurized liquid release,460.7,27.7,9.3,E,East,23.7,2,C,3363.5,2085.4,1009.1,Evacuate high-risk area,train
+CS_0106,Hydrogen Sulfide,Storage tank leak,131.6,19.4,14.9,S,South,19.1,0,C,1127.2,698.9,338.2,Shelter/evacuate as directed,test
+CS_0107,Ammonia,Gas release,335.1,25.5,5.3,SE,Southeast,39.0,0,E,3693.9,2290.2,1108.2,Evacuate high-risk area,test
+CS_0108,Chlorine,Gas release,161.9,21.6,10.5,SW,Southwest,25.7,2,E,2252.5,1396.5,675.7,Evacuate high-risk area,validation
+CS_0109,Chlorine,Gas release,241.3,27.7,14.6,NE,Northeast,16.6,2,F,2715.1,1683.3,814.5,Evacuate high-risk area,train
+CS_0110,Hydrogen Sulfide,Pressurized liquid release,253.5,5.5,19.4,E,East,17.6,0,B,655.4,406.4,196.6,Monitor and restrict access,train
+CS_0111,Ammonia,Storage tank leak,268.0,52.2,20.2,NW,Northwest,39.5,5,A,1705.7,1057.5,511.7,Shelter/evacuate as directed,train
+CS_0112,Chlorine,Gas release,123.2,48.2,17.1,E,East,15.5,0,C,1712.0,1061.4,513.6,Shelter/evacuate as directed,train
+CS_0113,Chlorine,Pipe leak,363.2,48.6,20.3,NW,Northwest,39.7,1,D,3394.0,2104.3,1018.2,Evacuate high-risk area,train
+CS_0114,Hydrogen Sulfide,Pipe leak,110.4,6.0,8.0,W,West,37.4,0,E,1061.6,658.2,318.5,Shelter/evacuate as directed,train
+CS_0115,Sulfur Dioxide,Gas release,439.5,37.9,16.4,E,East,32.6,5,B,2482.6,1539.2,744.8,Evacuate high-risk area,train
+CS_0116,Ammonia,Pressurized liquid release,26.8,22.4,20.9,S,South,23.6,2,D,416.9,258.5,125.1,Monitor and restrict access,validation
+CS_0117,Sulfur Dioxide,Storage tank leak,384.2,53.8,4.4,NW,Northwest,36.7,1,A,4599.6,2851.7,1379.9,Evacuate high-risk area,train
+CS_0118,Ammonia,Gas release,141.7,9.2,14.0,E,East,30.8,0,F,919.4,570.0,275.8,Monitor and restrict access,train
+CS_0119,Hydrogen Sulfide,Gas release,451.3,32.3,17.6,NE,Northeast,32.1,5,D,3113.4,1930.3,934.0,Evacuate high-risk area,train
+CS_0120,Chlorine,Gas release,281.5,1.6,16.6,S,South,35.7,0,C,529.3,328.1,158.8,Monitor and restrict access,train
+CS_0121,Chlorine,Gas release,368.8,34.8,7.0,N,North,30.8,1,B,3902.5,2419.6,1170.8,Evacuate high-risk area,validation
+CS_0122,Nitrogen Dioxide,Pressurized liquid release,264.3,5.9,2.1,SE,Southeast,19.2,2,C,2313.1,1434.1,693.9,Evacuate high-risk area,test
+CS_0123,Ammonia,Gas release,420.2,37.0,11.5,SW,Southwest,37.9,2,B,2532.9,1570.4,759.9,Evacuate high-risk area,train
+CS_0124,Nitrogen Dioxide,Pressurized liquid release,142.3,50.9,14.0,E,East,19.1,5,E,2493.6,1546.1,748.1,Evacuate high-risk area,train
+CS_0125,Sulfur Dioxide,Pressurized liquid release,387.7,30.2,3.6,E,East,16.9,2,B,3934.6,2439.5,1180.4,Evacuate high-risk area,train
+CS_0126,Chlorine,Gas release,411.4,35.8,20.2,E,East,32.4,0,E,3343.7,2073.1,1003.1,Evacuate high-risk area,train
+CS_0127,Hydrogen Sulfide,Storage tank leak,481.4,6.1,20.0,NW,Northwest,32.3,1,C,1131.2,701.3,339.3,Shelter/evacuate as directed,train
+CS_0128,Nitrogen Dioxide,Pipe leak,364.8,39.2,16.3,E,East,39.5,5,B,2622.4,1625.9,786.7,Evacuate high-risk area,validation
+CS_0129,Chlorine,Storage tank leak,29.3,34.5,17.9,NE,Northeast,38.1,0,F,1029.7,638.4,308.9,Shelter/evacuate as directed,test
+CS_0130,Nitrogen Dioxide,Pipe leak,104.4,45.0,3.8,SE,Southeast,25.5,2,C,3081.5,1910.5,924.5,Evacuate high-risk area,train
+CS_0131,Ammonia,Pressurized liquid release,325.8,29.4,16.6,E,East,24.1,1,E,2086.8,1293.8,626.0,Evacuate high-risk area,test
+CS_0132,Sulfur Dioxide,Pressurized liquid release,365.1,47.7,2.6,N,North,22.9,1,E,7852.4,4868.5,2355.7,Immediate evacuation,train
+CS_0133,Ammonia,Pressurized liquid release,219.1,59.4,22.0,E,East,25.4,1,E,2126.8,1318.6,638.0,Evacuate high-risk area,train
+CS_0134,Nitrogen Dioxide,Pressurized liquid release,467.0,6.2,2.7,SW,Southwest,15.2,0,E,3272.5,2029.0,981.8,Evacuate high-risk area,validation
+CS_0135,Hydrogen Sulfide,Pipe leak,438.1,25.9,24.6,S,South,34.2,0,A,1613.7,1000.5,484.1,Shelter/evacuate as directed,validation
+CS_0136,Chlorine,Gas release,183.8,3.5,7.9,N,North,22.4,0,E,1063.6,659.4,319.1,Shelter/evacuate as directed,train
+CS_0137,Chlorine,Gas release,201.9,16.3,4.0,SE,Southeast,38.9,2,F,4063.4,2519.3,1219.0,Evacuate high-risk area,train
+CS_0138,Sulfur Dioxide,Storage tank leak,494.7,50.4,18.8,SW,Southwest,16.6,0,E,3332.8,2066.4,999.8,Evacuate high-risk area,train
+CS_0139,Sulfur Dioxide,Pressurized liquid release,123.0,47.0,5.2,SW,Southwest,20.5,0,E,3113.6,1930.4,934.1,Evacuate high-risk area,test
+CS_0140,Nitrogen Dioxide,Pipe leak,116.0,16.4,13.4,E,East,29.9,1,B,951.5,589.9,285.4,Monitor and restrict access,train
+CS_0141,Ammonia,Pipe leak,85.4,32.7,20.6,N,North,20.6,0,D,866.1,537.0,259.8,Monitor and restrict access,train
+CS_0142,Nitrogen Dioxide,Gas release,440.0,57.4,7.4,SE,Southeast,18.2,5,B,4658.7,2888.4,1397.6,Evacuate high-risk area,train
+CS_0143,Chlorine,Pressurized liquid release,466.5,1.3,18.6,E,East,22.0,0,E,671.6,416.4,201.5,Monitor and restrict access,validation
+CS_0144,Ammonia,Pressurized liquid release,481.4,4.6,3.6,S,South,37.4,10,F,2804.6,1738.9,841.4,Evacuate high-risk area,train
+CS_0145,Nitrogen Dioxide,Storage tank leak,289.9,44.3,16.9,NW,Northwest,28.6,5,C,2560.5,1587.5,768.1,Evacuate high-risk area,train
+CS_0146,Hydrogen Sulfide,Storage tank leak,435.0,41.1,18.0,W,West,35.9,2,C,3037.4,1883.2,911.2,Evacuate high-risk area,train
+CS_0147,Hydrogen Sulfide,Gas release,441.6,8.6,21.9,E,East,15.7,5,E,1482.9,919.4,444.9,Shelter/evacuate as directed,train
+CS_0148,Ammonia,Storage tank leak,417.7,37.4,13.2,N,North,15.2,0,A,1839.2,1140.3,551.7,Shelter/evacuate as directed,train
+CS_0149,Chlorine,Gas release,194.6,17.7,1.2,W,West,35.5,0,B,4920.6,3050.8,1476.2,Evacuate high-risk area,train
+CS_0150,Chlorine,Storage tank leak,177.5,56.3,16.2,NW,Northwest,38.3,0,D,2798.1,1734.8,839.4,Evacuate high-risk area,train
+CS_0151,Ammonia,Storage tank leak,91.5,4.4,19.5,NW,Northwest,32.7,1,C,332.6,206.2,99.8,Monitor and restrict access,train
+CS_0152,Ammonia,Storage tank leak,487.0,45.7,24.3,W,West,33.7,0,E,2715.2,1683.4,814.5,Evacuate high-risk area,train
+CS_0153,Sulfur Dioxide,Storage tank leak,192.2,10.4,20.7,NE,Northeast,21.3,0,E,921.4,571.3,276.4,Monitor and restrict access,train
+CS_0154,Hydrogen Sulfide,Pressurized liquid release,231.2,14.0,4.9,NE,Northeast,34.9,2,F,3287.0,2038.0,986.1,Evacuate high-risk area,train
+CS_0155,Hydrogen Sulfide,Pipe leak,143.9,56.7,23.8,NW,Northwest,18.8,0,E,1971.0,1222.0,591.3,Evacuate high-risk area,train
+CS_0156,Sulfur Dioxide,Storage tank leak,382.4,43.7,11.6,NE,Northeast,22.8,0,E,3586.0,2223.3,1075.8,Evacuate high-risk area,train
+CS_0157,Sulfur Dioxide,Gas release,329.3,58.1,9.8,SW,Southwest,36.6,1,A,2963.7,1837.5,889.1,Evacuate high-risk area,test
+CS_0158,Chlorine,Gas release,85.3,48.0,11.9,SE,Southeast,28.3,0,E,2251.5,1396.0,675.5,Evacuate high-risk area,train
+CS_0159,Hydrogen Sulfide,Storage tank leak,100.9,36.8,12.1,SE,Southeast,15.0,1,D,1641.6,1017.8,492.5,Shelter/evacuate as directed,train
+CS_0160,Chlorine,Gas release,250.9,48.1,2.5,E,East,29.5,0,E,8483.3,5259.7,2545.0,Immediate evacuation,validation
+CS_0161,Chlorine,Gas release,45.5,18.2,10.4,S,South,27.0,1,A,714.2,442.8,214.3,Monitor and restrict access,test
+CS_0162,Chlorine,Storage tank leak,454.8,7.1,18.4,SW,Southwest,33.7,0,F,1777.7,1102.2,533.3,Shelter/evacuate as directed,test
+CS_0163,Hydrogen Sulfide,Pipe leak,284.2,6.2,1.2,S,South,23.2,1,F,4560.2,2827.3,1368.0,Evacuate high-risk area,train
+CS_0164,Chlorine,Storage tank leak,185.3,41.9,8.7,W,West,39.4,0,B,2794.5,1732.6,838.4,Evacuate high-risk area,train
+CS_0165,Ammonia,Gas release,61.2,56.2,16.3,W,West,32.7,0,A,848.0,525.8,254.4,Monitor and restrict access,train
+CS_0166,Ammonia,Storage tank leak,474.2,29.6,16.0,E,East,34.6,1,D,2396.2,1485.7,718.9,Evacuate high-risk area,train
+CS_0167,Hydrogen Sulfide,Pipe leak,394.1,26.9,12.5,NE,Northeast,16.0,0,F,3290.4,2040.1,987.1,Evacuate high-risk area,test
+CS_0168,Hydrogen Sulfide,Gas release,88.2,20.9,21.9,NW,Northwest,20.5,10,E,1133.0,702.5,339.9,Shelter/evacuate as directed,train
+CS_0169,Nitrogen Dioxide,Pipe leak,254.1,59.8,14.3,N,North,33.0,0,C,2877.4,1784.0,863.2,Evacuate high-risk area,train
+CS_0170,Sulfur Dioxide,Gas release,207.6,50.6,6.3,N,North,25.5,0,F,4211.4,2611.1,1263.4,Evacuate high-risk area,validation
+CS_0171,Nitrogen Dioxide,Pipe leak,373.9,59.3,11.2,NW,Northwest,23.6,0,B,3392.8,2103.5,1017.8,Evacuate high-risk area,validation
+CS_0172,Chlorine,Pressurized liquid release,298.1,36.3,1.7,SE,Southeast,24.9,1,F,10000.0,6453.4,3122.6,Immediate evacuation,validation
+CS_0173,Ammonia,Storage tank leak,149.1,50.3,9.6,N,North,24.6,1,C,1966.1,1219.0,589.8,Evacuate high-risk area,train
+CS_0174,Ammonia,Pipe leak,455.4,11.7,5.3,S,South,20.9,10,F,3306.9,2050.3,992.1,Evacuate high-risk area,train
+CS_0175,Nitrogen Dioxide,Pressurized liquid release,57.7,40.1,10.7,W,West,29.8,1,F,1729.6,1072.4,518.9,Shelter/evacuate as directed,train
+CS_0176,Chlorine,Pressurized liquid release,485.0,46.6,7.2,NW,Northwest,31.4,0,D,6107.8,3786.8,1832.3,Immediate evacuation,train
+CS_0177,Nitrogen Dioxide,Gas release,125.0,27.5,22.2,SE,Southeast,26.1,0,F,1415.9,877.9,424.8,Shelter/evacuate as directed,train
+CS_0178,Chlorine,Pressurized liquid release,131.9,10.9,15.8,N,North,32.7,0,C,955.5,592.4,286.6,Monitor and restrict access,train
+CS_0179,Nitrogen Dioxide,Pressurized liquid release,271.4,52.0,19.8,SW,Southwest,32.6,0,D,2576.1,1597.2,772.8,Evacuate high-risk area,validation
+CS_0180,Sulfur Dioxide,Gas release,142.2,3.3,2.4,W,West,28.3,10,C,1261.2,782.0,378.4,Shelter/evacuate as directed,train
+CS_0181,Nitrogen Dioxide,Storage tank leak,164.9,59.2,13.2,NW,Northwest,16.0,0,C,2204.3,1366.7,661.3,Evacuate high-risk area,train
+CS_0182,Sulfur Dioxide,Gas release,168.3,31.8,24.4,W,West,29.5,0,D,1279.7,793.4,383.9,Shelter/evacuate as directed,train
+CS_0183,Hydrogen Sulfide,Gas release,75.0,10.6,4.4,S,South,38.5,2,A,1061.6,658.2,318.5,Shelter/evacuate as directed,train
+CS_0184,Nitrogen Dioxide,Pressurized liquid release,435.4,56.7,5.3,NE,Northeast,32.3,5,F,8605.8,5335.6,2581.8,Immediate evacuation,train
+CS_0185,Ammonia,Gas release,417.1,47.9,21.8,SE,Southeast,34.2,0,A,1780.1,1103.7,534.0,Shelter/evacuate as directed,train
+CS_0186,Chlorine,Gas release,332.9,39.8,10.5,NE,Northeast,31.3,0,F,4712.0,2921.5,1413.6,Evacuate high-risk area,train
+CS_0187,Chlorine,Storage tank leak,496.7,7.4,19.1,NE,Northeast,17.3,0,E,1592.7,987.5,477.8,Shelter/evacuate as directed,validation
+CS_0188,Hydrogen Sulfide,Pipe leak,405.8,49.3,19.3,NW,Northwest,34.9,0,F,3997.7,2478.6,1199.3,Evacuate high-risk area,test
+CS_0189,Chlorine,Pressurized liquid release,318.8,33.4,15.6,N,North,29.1,0,A,2081.7,1290.6,624.5,Evacuate high-risk area,train
+CS_0190,Chlorine,Pressurized liquid release,17.2,45.8,15.1,N,North,19.2,1,C,686.6,425.7,206.0,Monitor and restrict access,test
+CS_0191,Nitrogen Dioxide,Storage tank leak,264.4,23.4,12.5,NE,Northeast,15.6,0,E,2228.0,1381.3,668.4,Evacuate high-risk area,train
+CS_0192,Hydrogen Sulfide,Pressurized liquid release,203.2,31.8,14.2,S,South,33.7,2,C,2034.4,1261.4,610.3,Evacuate high-risk area,test
+CS_0193,Nitrogen Dioxide,Storage tank leak,129.3,21.7,23.2,NE,Northeast,16.5,10,F,1370.4,849.6,411.1,Shelter/evacuate as directed,train
+CS_0194,Nitrogen Dioxide,Pipe leak,266.3,35.3,17.1,NE,Northeast,38.2,1,D,2358.2,1462.1,707.5,Evacuate high-risk area,train
+CS_0195,Ammonia,Pressurized liquid release,488.6,51.7,20.8,W,West,28.1,0,E,3042.7,1886.4,912.8,Evacuate high-risk area,train
+CS_0196,Chlorine,Pipe leak,135.7,33.5,24.1,NW,Northwest,27.1,5,E,1781.6,1104.6,534.5,Shelter/evacuate as directed,train
+CS_0197,Ammonia,Gas release,11.3,47.8,16.3,W,West,27.9,1,B,372.4,230.9,111.7,Monitor and restrict access,train
+CS_0198,Ammonia,Pressurized liquid release,453.9,18.8,19.5,NW,Northwest,28.9,0,C,1481.0,918.2,444.3,Shelter/evacuate as directed,train
+CS_0199,Hydrogen Sulfide,Pressurized liquid release,337.1,35.6,3.3,W,West,30.6,1,A,4519.8,2802.3,1355.9,Evacuate high-risk area,train
+CS_0200,Sulfur Dioxide,Storage tank leak,241.7,14.6,13.8,W,West,19.5,0,C,1199.9,743.9,360.0,Shelter/evacuate as directed,train
+CS_0201,Ammonia,Gas release,319.7,36.2,2.4,NE,Northeast,18.5,0,C,4665.5,2892.6,1399.7,Evacuate high-risk area,validation
+CS_0202,Ammonia,Pressurized liquid release,361.6,7.1,17.6,NE,Northeast,39.8,0,F,1201.0,744.6,360.3,Shelter/evacuate as directed,test
+CS_0203,Ammonia,Storage tank leak,388.6,24.7,7.4,N,North,31.1,1,C,2615.9,1621.9,784.8,Evacuate high-risk area,train
+CS_0204,Chlorine,Pipe leak,226.8,38.8,21.0,NW,Northwest,31.7,0,F,2720.7,1686.8,816.2,Evacuate high-risk area,train
+CS_0205,Ammonia,Pipe leak,123.1,23.3,12.0,SW,Southwest,19.8,0,A,846.5,524.8,254.0,Monitor and restrict access,train
+CS_0206,Sulfur Dioxide,Pipe leak,238.0,11.3,2.4,W,West,29.1,10,A,2453.9,1521.4,736.2,Evacuate high-risk area,test
+CS_0207,Ammonia,Gas release,230.7,47.9,19.1,NW,Northwest,23.7,2,F,2279.0,1413.0,683.7,Evacuate high-risk area,validation
+CS_0208,Nitrogen Dioxide,Gas release,487.3,15.4,1.5,SW,Southwest,33.4,2,E,7977.2,4945.9,2393.2,Immediate evacuation,train
+CS_0209,Hydrogen Sulfide,Pipe leak,53.7,47.1,19.1,NE,Northeast,18.2,5,E,1312.8,813.9,393.8,Shelter/evacuate as directed,train
+CS_0210,Hydrogen Sulfide,Pressurized liquid release,138.9,33.7,9.6,E,East,17.2,10,C,2165.4,1342.5,649.6,Evacuate high-risk area,train
+CS_0211,Hydrogen Sulfide,Gas release,471.8,34.9,22.0,SE,Southeast,19.0,2,E,3002.8,1861.7,900.8,Evacuate high-risk area,train
+CS_0212,Hydrogen Sulfide,Gas release,466.0,52.8,3.8,SW,Southwest,35.4,0,F,10000.0,6209.4,3004.5,Immediate evacuation,train
+CS_0213,Sulfur Dioxide,Pipe leak,159.3,42.0,2.9,NE,Northeast,25.1,0,F,4944.0,3065.3,1483.2,Evacuate high-risk area,train
+CS_0214,Hydrogen Sulfide,Pipe leak,467.0,36.8,14.8,N,North,27.0,0,F,4071.9,2524.6,1221.6,Evacuate high-risk area,validation
+CS_0215,Nitrogen Dioxide,Pressurized liquid release,476.9,29.2,20.8,SE,Southeast,31.7,0,A,1837.4,1139.2,551.2,Shelter/evacuate as directed,test
+CS_0216,Hydrogen Sulfide,Gas release,390.6,52.7,3.9,S,South,29.9,10,D,8318.4,5157.4,2495.5,Immediate evacuation,validation
+CS_0217,Nitrogen Dioxide,Gas release,305.3,12.3,9.8,N,North,24.7,1,B,1523.5,944.5,457.0,Shelter/evacuate as directed,test
+CS_0218,Sulfur Dioxide,Pipe leak,313.6,5.4,8.1,SE,Southeast,25.8,0,F,1493.5,926.0,448.0,Shelter/evacuate as directed,validation
+CS_0219,Sulfur Dioxide,Gas release,348.9,14.7,15.8,SE,Southeast,30.8,0,D,1566.7,971.4,470.0,Shelter/evacuate as directed,train
+CS_0220,Nitrogen Dioxide,Pipe leak,268.3,27.5,11.2,S,South,18.3,5,C,2263.4,1403.3,679.0,Evacuate high-risk area,train
+CS_0221,Sulfur Dioxide,Pressurized liquid release,415.5,25.6,18.6,E,East,34.2,0,E,2389.6,1481.5,716.9,Evacuate high-risk area,train
+CS_0222,Nitrogen Dioxide,Pipe leak,77.2,15.2,13.8,S,South,20.4,0,E,946.7,587.0,284.0,Monitor and restrict access,validation
+CS_0223,Ammonia,Gas release,30.9,30.5,9.9,NW,Northwest,21.6,1,E,837.0,518.9,251.1,Monitor and restrict access,train
+CS_0224,Ammonia,Gas release,433.7,37.2,6.8,S,South,31.3,5,F,5001.0,3100.6,1500.3,Immediate evacuation,train
+CS_0225,Ammonia,Pipe leak,447.1,41.6,23.9,SE,Southeast,34.7,0,E,2514.8,1559.2,754.4,Evacuate high-risk area,validation
+CS_0226,Chlorine,Storage tank leak,28.8,39.9,22.6,E,East,26.5,1,F,937.7,581.4,281.3,Monitor and restrict access,train
+CS_0227,Chlorine,Pipe leak,42.7,31.2,13.4,S,South,18.8,2,E,1188.4,736.8,356.5,Shelter/evacuate as directed,validation
+CS_0228,Chlorine,Pipe leak,332.9,31.0,20.3,NW,Northwest,17.6,0,B,1894.7,1174.7,568.4,Shelter/evacuate as directed,train
+CS_0229,Hydrogen Sulfide,Pressurized liquid release,389.6,6.8,16.9,SW,Southwest,19.6,0,F,1441.3,893.6,432.4,Shelter/evacuate as directed,train
+CS_0230,Ammonia,Gas release,50.3,37.9,24.2,NE,Northeast,22.4,2,B,566.9,351.5,170.1,Monitor and restrict access,train
+CS_0231,Sulfur Dioxide,Gas release,311.4,3.5,19.6,NE,Northeast,31.1,1,B,544.5,337.6,163.4,Monitor and restrict access,validation
+CS_0232,Nitrogen Dioxide,Gas release,242.4,31.7,3.7,NW,Northwest,27.2,10,D,4925.3,3053.7,1477.6,Evacuate high-risk area,train
+CS_0233,Ammonia,Gas release,175.8,26.5,23.3,SE,Southeast,20.6,0,B,868.9,538.7,260.7,Monitor and restrict access,validation
+CS_0234,Chlorine,Gas release,144.2,1.8,23.3,S,South,31.9,1,C,338.0,209.6,101.4,Monitor and restrict access,train
+CS_0235,Ammonia,Storage tank leak,432.1,45.5,21.3,S,South,38.0,0,F,2995.9,1857.4,898.8,Evacuate high-risk area,train
+CS_0236,Hydrogen Sulfide,Gas release,166.8,43.9,19.1,NE,Northeast,21.7,1,E,2147.3,1331.3,644.2,Evacuate high-risk area,train
+CS_0237,Nitrogen Dioxide,Pipe leak,410.7,44.2,6.1,E,East,27.6,5,E,6242.5,3870.4,1872.8,Immediate evacuation,validation
+CS_0238,Nitrogen Dioxide,Pipe leak,309.9,35.1,3.5,N,North,18.8,0,E,5676.6,3519.5,1703.0,Immediate evacuation,train
+CS_0239,Ammonia,Pipe leak,407.8,12.4,18.8,NW,Northwest,37.0,0,B,1092.3,677.2,327.7,Shelter/evacuate as directed,train
+CS_0240,Ammonia,Gas release,282.0,22.0,18.6,S,South,30.4,0,A,1054.4,653.7,316.3,Shelter/evacuate as directed,train
+CS_0241,Hydrogen Sulfide,Pressurized liquid release,425.5,45.2,21.2,S,South,35.8,0,A,2280.4,1413.8,684.1,Evacuate high-risk area,validation
+CS_0242,Hydrogen Sulfide,Pressurized liquid release,83.0,22.7,8.3,S,South,36.9,10,D,1784.0,1106.1,535.2,Shelter/evacuate as directed,test
+CS_0243,Hydrogen Sulfide,Pipe leak,116.4,11.5,4.3,NE,Northeast,31.6,0,F,2156.3,1336.9,646.9,Evacuate high-risk area,validation
+CS_0244,Hydrogen Sulfide,Gas release,200.0,43.7,10.7,S,South,36.9,1,B,2467.5,1529.8,740.2,Evacuate high-risk area,test
+CS_0245,Hydrogen Sulfide,Pipe leak,305.7,49.7,17.2,N,North,35.1,0,F,3693.9,2290.2,1108.2,Evacuate high-risk area,train
+CS_0246,Sulfur Dioxide,Gas release,173.8,31.5,19.8,NW,Northwest,32.7,2,E,1699.1,1053.5,509.7,Shelter/evacuate as directed,train
+CS_0247,Hydrogen Sulfide,Gas release,370.4,48.3,6.7,W,West,24.3,0,C,4569.1,2832.9,1370.7,Evacuate high-risk area,train
+CS_0248,Chlorine,Storage tank leak,324.9,8.0,11.1,SW,Southwest,30.9,2,F,2086.7,1293.7,626.0,Evacuate high-risk area,train
+CS_0249,Hydrogen Sulfide,Pressurized liquid release,290.2,20.7,15.1,S,South,19.6,0,C,1722.0,1067.7,516.6,Shelter/evacuate as directed,train
+CS_0250,Chlorine,Pipe leak,297.4,4.3,17.7,E,East,38.2,2,F,1200.2,744.1,360.1,Shelter/evacuate as directed,train
+CS_0251,Ammonia,Storage tank leak,422.5,29.5,5.5,SW,Southwest,35.1,1,B,3189.1,1977.2,956.7,Evacuate high-risk area,train
+CS_0252,Hydrogen Sulfide,Gas release,452.9,4.4,22.8,SW,Southwest,34.5,0,D,951.7,590.1,285.5,Monitor and restrict access,test
+CS_0253,Hydrogen Sulfide,Gas release,378.2,4.4,16.8,SW,Southwest,38.9,0,F,1259.3,780.8,377.8,Shelter/evacuate as directed,test
+CS_0254,Hydrogen Sulfide,Gas release,145.1,26.3,19.9,N,North,39.4,0,E,1630.9,1011.1,489.3,Shelter/evacuate as directed,train
+CS_0255,Hydrogen Sulfide,Gas release,428.0,21.4,2.1,NE,Northeast,30.5,1,A,4947.4,3067.4,1484.2,Evacuate high-risk area,validation
+CS_0256,Sulfur Dioxide,Pressurized liquid release,450.9,34.0,1.5,W,West,31.6,10,E,10000.0,7000.0,3441.9,Immediate evacuation,train
+CS_0257,Ammonia,Storage tank leak,396.0,9.6,16.0,W,West,27.4,10,B,1127.1,698.8,338.1,Shelter/evacuate as directed,validation
+CS_0258,Nitrogen Dioxide,Pipe leak,237.3,7.7,24.3,NE,Northeast,30.2,0,E,934.9,579.6,280.5,Monitor and restrict access,train
+CS_0259,Hydrogen Sulfide,Pressurized liquid release,53.5,14.4,17.4,SE,Southeast,28.6,10,B,625.4,387.7,187.6,Monitor and restrict access,validation
+CS_0260,Sulfur Dioxide,Gas release,356.8,29.6,14.0,S,South,17.0,1,E,2556.7,1585.1,767.0,Evacuate high-risk area,train
+CS_0261,Ammonia,Pipe leak,115.9,45.2,3.3,SE,Southeast,36.5,1,F,3959.8,2455.0,1187.9,Evacuate high-risk area,validation
+CS_0262,Hydrogen Sulfide,Pressurized liquid release,489.3,52.5,20.1,NE,Northeast,27.4,0,D,3515.9,2179.9,1054.8,Evacuate high-risk area,train
+CS_0263,Hydrogen Sulfide,Pressurized liquid release,110.4,15.1,22.1,N,North,37.0,5,B,794.5,492.6,238.4,Monitor and restrict access,train
+CS_0264,Hydrogen Sulfide,Pipe leak,23.3,32.8,2.6,SE,Southeast,26.6,5,C,1648.5,1022.1,494.5,Shelter/evacuate as directed,train
+CS_0265,Hydrogen Sulfide,Pressurized liquid release,204.7,12.0,3.2,NW,Northwest,26.0,0,D,2706.0,1677.7,811.8,Evacuate high-risk area,train
+CS_0266,Hydrogen Sulfide,Pipe leak,145.5,53.9,8.5,NE,Northeast,31.1,0,B,2512.9,1558.0,753.9,Evacuate high-risk area,train
+CS_0267,Hydrogen Sulfide,Pipe leak,398.7,17.3,8.6,NW,Northwest,36.4,5,F,3807.2,2360.5,1142.2,Evacuate high-risk area,train
+CS_0268,Chlorine,Pipe leak,26.4,19.5,9.7,SW,Southwest,33.3,5,F,1048.9,650.3,314.7,Shelter/evacuate as directed,validation
+CS_0269,Sulfur Dioxide,Storage tank leak,403.8,59.1,13.1,S,South,39.2,0,F,4702.8,2915.7,1410.8,Evacuate high-risk area,train
+CS_0270,Nitrogen Dioxide,Pressurized liquid release,498.6,41.5,24.5,E,East,31.4,0,A,2060.7,1277.6,618.2,Evacuate high-risk area,test
+CS_0271,Hydrogen Sulfide,Pipe leak,446.2,51.6,2.9,SE,Southeast,33.3,0,F,10000.0,6807.1,3293.8,Immediate evacuation,test
+CS_0272,Ammonia,Gas release,382.2,19.5,24.7,NW,Northwest,37.5,2,B,1194.4,740.5,358.3,Shelter/evacuate as directed,train
+CS_0273,Sulfur Dioxide,Storage tank leak,267.5,43.4,6.9,E,East,17.8,0,D,3341.6,2071.8,1002.5,Evacuate high-risk area,train
+CS_0274,Ammonia,Pressurized liquid release,230.7,21.8,19.0,S,South,31.3,1,D,1295.5,803.2,388.7,Shelter/evacuate as directed,test
+CS_0275,Sulfur Dioxide,Storage tank leak,134.4,19.6,1.7,NW,Northwest,33.5,0,D,3468.0,2150.1,1040.4,Evacuate high-risk area,train
+CS_0276,Chlorine,Pipe leak,496.0,52.1,2.7,W,West,16.9,0,F,10000.0,7000.0,3621.4,Immediate evacuation,train
+CS_0277,Nitrogen Dioxide,Gas release,158.9,46.2,16.7,E,East,38.5,5,D,2236.6,1386.7,671.0,Evacuate high-risk area,test
+CS_0278,Nitrogen Dioxide,Storage tank leak,328.9,24.0,22.0,SW,Southwest,15.0,0,F,2036.4,1262.6,610.9,Evacuate high-risk area,train
+CS_0279,Hydrogen Sulfide,Pressurized liquid release,73.1,2.1,10.9,NW,Northwest,35.1,1,F,473.4,293.5,142.0,Monitor and restrict access,train
+CS_0280,Ammonia,Storage tank leak,72.5,42.3,18.0,SE,Southeast,39.3,5,D,1143.5,709.0,343.1,Shelter/evacuate as directed,train
+CS_0281,Nitrogen Dioxide,Storage tank leak,366.1,52.5,8.3,SW,Southwest,35.7,0,F,5737.1,3557.0,1721.1,Immediate evacuation,train
+CS_0282,Nitrogen Dioxide,Pressurized liquid release,57.3,18.8,6.8,E,East,15.3,1,E,1277.3,792.0,383.2,Shelter/evacuate as directed,train
+CS_0283,Sulfur Dioxide,Gas release,367.8,52.8,15.4,S,South,16.6,5,F,3762.4,2332.7,1128.7,Evacuate high-risk area,validation
+CS_0284,Chlorine,Storage tank leak,316.8,26.3,13.8,E,East,36.0,0,F,3333.6,2066.9,1000.1,Evacuate high-risk area,validation
+CS_0285,Ammonia,Pipe leak,332.8,44.5,7.1,N,North,20.5,1,E,3895.9,2415.5,1168.8,Evacuate high-risk area,train
+CS_0286,Chlorine,Pipe leak,416.4,26.4,22.1,SE,Southeast,29.3,1,F,2973.7,1843.7,892.1,Evacuate high-risk area,validation
+CS_0287,Hydrogen Sulfide,Pressurized liquid release,77.4,56.9,9.2,SW,Southwest,19.1,0,D,2063.6,1279.4,619.1,Evacuate high-risk area,train
+CS_0288,Chlorine,Pipe leak,126.3,29.8,13.3,SW,Southwest,17.6,0,D,1711.3,1061.0,513.4,Shelter/evacuate as directed,train
+CS_0289,Ammonia,Gas release,241.7,53.6,24.6,NE,Northeast,21.7,0,A,1268.8,786.6,380.6,Shelter/evacuate as directed,test
+CS_0290,Nitrogen Dioxide,Pressurized liquid release,32.4,20.5,4.4,N,North,21.9,10,C,1180.6,732.0,354.2,Shelter/evacuate as directed,train
+CS_0291,Sulfur Dioxide,Pressurized liquid release,242.4,3.9,15.2,NW,Northwest,28.4,5,C,665.3,412.5,199.6,Monitor and restrict access,train
+CS_0292,Hydrogen Sulfide,Gas release,176.0,18.3,20.3,SW,Southwest,29.3,1,A,938.1,581.6,281.4,Monitor and restrict access,train
+CS_0293,Chlorine,Storage tank leak,149.4,34.9,20.6,W,West,28.3,5,E,2076.0,1287.1,622.8,Evacuate high-risk area,validation
+CS_0294,Sulfur Dioxide,Gas release,230.8,44.1,23.3,NW,Northwest,19.1,0,E,1937.7,1201.4,581.3,Evacuate high-risk area,train
+CS_0295,Nitrogen Dioxide,Gas release,340.6,43.6,8.1,N,North,33.0,10,C,4346.4,2694.8,1303.9,Evacuate high-risk area,train
+CS_0296,Nitrogen Dioxide,Storage tank leak,29.9,48.2,21.9,SE,Southeast,21.4,2,B,630.1,390.7,189.0,Monitor and restrict access,test
+CS_0297,Nitrogen Dioxide,Gas release,215.3,21.9,19.0,W,West,16.8,0,B,1160.1,719.3,348.0,Shelter/evacuate as directed,train
+CS_0298,Nitrogen Dioxide,Pipe leak,187.3,54.9,15.2,N,North,15.3,1,D,2335.0,1447.7,700.5,Evacuate high-risk area,train
+CS_0299,Sulfur Dioxide,Pipe leak,69.1,9.4,22.7,N,North,16.7,1,A,325.1,201.5,97.5,Monitor and restrict access,train
+CS_0300,Hydrogen Sulfide,Gas release,248.1,34.0,14.9,W,West,16.1,0,A,1633.1,1012.5,489.9,Shelter/evacuate as directed,train
+CS_0301,Chlorine,Gas release,199.8,33.0,21.4,SW,Southwest,25.1,0,B,1532.5,950.1,459.7,Shelter/evacuate as directed,train
+CS_0302,Hydrogen Sulfide,Gas release,198.3,6.8,11.8,E,East,29.5,2,B,903.8,560.4,271.2,Monitor and restrict access,train
+CS_0303,Sulfur Dioxide,Pipe leak,355.7,26.4,17.5,SE,Southeast,24.4,0,E,2206.3,1367.9,661.9,Evacuate high-risk area,train
+CS_0304,Chlorine,Pressurized liquid release,85.7,21.1,1.6,W,West,31.1,1,C,3391.4,2102.7,1017.4,Evacuate high-risk area,train
+CS_0305,Sulfur Dioxide,Pressurized liquid release,341.8,59.3,15.5,N,North,24.1,0,D,3042.2,1886.1,912.7,Evacuate high-risk area,train
+CS_0306,Chlorine,Gas release,247.9,23.7,1.7,E,East,27.6,10,F,8807.0,5460.4,2642.1,Immediate evacuation,train
+CS_0307,Sulfur Dioxide,Pressurized liquid release,88.4,18.1,1.6,S,South,33.9,1,B,2340.5,1451.1,702.1,Evacuate high-risk area,train
+CS_0308,Nitrogen Dioxide,Pressurized liquid release,193.7,33.2,12.4,S,South,26.1,10,E,2767.2,1715.6,830.2,Evacuate high-risk area,train
+CS_0309,Sulfur Dioxide,Storage tank leak,200.8,10.1,10.3,N,North,23.5,1,E,1350.4,837.2,405.1,Shelter/evacuate as directed,test
+CS_0310,Ammonia,Gas release,131.0,42.8,21.1,NE,Northeast,23.9,5,A,979.7,607.4,293.9,Monitor and restrict access,train
+CS_0311,Nitrogen Dioxide,Pressurized liquid release,142.4,35.2,24.2,NW,Northwest,28.9,0,E,1541.8,955.9,462.6,Shelter/evacuate as directed,train
+CS_0312,Sulfur Dioxide,Gas release,410.2,18.7,6.0,SW,Southwest,34.6,2,A,2410.8,1494.7,723.2,Evacuate high-risk area,train
+CS_0313,Ammonia,Pressurized liquid release,368.1,54.5,4.6,W,West,36.3,2,C,4990.4,3094.1,1497.1,Evacuate high-risk area,train
+CS_0314,Nitrogen Dioxide,Pipe leak,183.2,33.4,12.0,S,South,15.9,2,A,1525.3,945.7,457.6,Shelter/evacuate as directed,test
+CS_0315,Hydrogen Sulfide,Pressurized liquid release,26.9,6.5,24.3,SE,Southeast,38.7,1,F,344.2,213.4,103.3,Monitor and restrict access,train
+CS_0316,Ammonia,Pressurized liquid release,266.0,55.2,14.5,E,East,26.0,1,B,2039.5,1264.5,611.8,Evacuate high-risk area,test
+CS_0317,Chlorine,Storage tank leak,490.6,34.8,10.8,S,South,35.7,2,C,4161.1,2579.9,1248.3,Evacuate high-risk area,train
+CS_0318,Chlorine,Gas release,11.6,19.4,16.4,E,East,22.5,0,C,352.8,218.7,105.8,Monitor and restrict access,train
+CS_0319,Nitrogen Dioxide,Pressurized liquid release,317.0,41.6,23.2,E,East,15.5,1,C,1956.3,1212.9,586.9,Evacuate high-risk area,train
+CS_0320,Ammonia,Gas release,156.7,13.4,9.6,N,North,35.1,0,F,1438.5,891.9,431.6,Shelter/evacuate as directed,train
+CS_0321,Sulfur Dioxide,Storage tank leak,341.6,44.5,20.9,N,North,22.4,0,E,2542.9,1576.6,762.9,Evacuate high-risk area,train
+CS_0322,Chlorine,Gas release,12.8,53.2,23.5,E,East,35.5,5,B,531.5,329.5,159.4,Monitor and restrict access,train
+CS_0323,Chlorine,Pipe leak,147.4,33.4,17.5,SW,Southwest,15.6,0,D,1688.5,1046.9,506.5,Shelter/evacuate as directed,train
+CS_0324,Nitrogen Dioxide,Storage tank leak,45.4,5.5,23.9,W,West,28.1,0,B,252.1,156.3,75.6,Monitor and restrict access,train
+CS_0325,Ammonia,Gas release,244.3,13.5,4.5,NE,Northeast,32.8,2,C,2011.9,1247.4,603.6,Evacuate high-risk area,train
+CS_0326,Sulfur Dioxide,Gas release,295.8,3.0,21.2,E,East,28.7,0,E,629.5,390.3,188.8,Monitor and restrict access,train
+CS_0327,Sulfur Dioxide,Pipe leak,70.2,35.6,22.3,NW,Northwest,27.6,0,F,1103.3,684.0,331.0,Shelter/evacuate as directed,validation
+CS_0328,Hydrogen Sulfide,Pipe leak,267.9,18.1,12.1,SW,Southwest,20.9,0,D,1905.6,1181.5,571.7,Shelter/evacuate as directed,validation
+CS_0329,Nitrogen Dioxide,Storage tank leak,363.1,49.6,10.6,W,West,19.0,5,C,3648.0,2261.8,1094.4,Evacuate high-risk area,train
+CS_0330,Chlorine,Pipe leak,165.6,17.3,1.0,SW,Southwest,27.8,0,A,4237.6,2627.3,1271.3,Evacuate high-risk area,train
+CS_0331,Ammonia,Pressurized liquid release,176.8,49.8,23.6,E,East,17.1,10,C,1481.6,918.6,444.5,Shelter/evacuate as directed,test
+CS_0332,Chlorine,Storage tank leak,163.5,54.7,19.9,NW,Northwest,37.3,0,D,2377.1,1473.8,713.1,Evacuate high-risk area,train
+CS_0333,Sulfur Dioxide,Gas release,346.6,42.5,12.9,NE,Northeast,24.7,1,E,3271.7,2028.4,981.5,Evacuate high-risk area,train
+CS_0334,Nitrogen Dioxide,Storage tank leak,99.6,56.7,7.7,N,North,18.2,2,E,2831.5,1755.6,849.5,Evacuate high-risk area,train
+CS_0335,Hydrogen Sulfide,Pipe leak,325.6,30.5,2.2,N,North,24.0,10,C,6821.6,4229.4,2046.5,Immediate evacuation,train
+CS_0336,Ammonia,Pipe leak,387.7,33.6,1.1,SE,Southeast,36.5,0,B,7230.4,4482.9,2169.1,Immediate evacuation,train
+CS_0337,Chlorine,Pipe leak,241.4,36.9,22.1,NE,Northeast,20.4,2,A,1577.4,978.0,473.2,Shelter/evacuate as directed,train
+CS_0338,Hydrogen Sulfide,Pipe leak,164.7,12.8,16.5,SE,Southeast,24.9,2,E,1278.4,792.6,383.5,Shelter/evacuate as directed,test
+CS_0339,Hydrogen Sulfide,Gas release,336.8,6.9,20.8,NE,Northeast,34.6,1,F,1330.2,824.7,399.1,Shelter/evacuate as directed,train
+CS_0340,Nitrogen Dioxide,Pressurized liquid release,175.3,30.1,1.5,W,West,18.1,0,F,6480.3,4017.8,1944.1,Immediate evacuation,test
+CS_0341,Chlorine,Storage tank leak,140.7,24.5,18.4,N,North,36.9,0,D,1531.9,949.8,459.6,Shelter/evacuate as directed,train
+CS_0342,Hydrogen Sulfide,Gas release,117.7,5.5,4.2,W,West,36.4,1,F,1575.8,977.0,472.7,Shelter/evacuate as directed,train
+CS_0343,Chlorine,Gas release,140.1,31.6,1.4,SE,Southeast,22.3,2,A,4461.3,2766.0,1338.4,Evacuate high-risk area,train
+CS_0344,Hydrogen Sulfide,Gas release,156.9,2.4,16.5,E,East,39.4,5,A,395.5,245.2,118.6,Monitor and restrict access,test
+CS_0345,Chlorine,Gas release,111.5,56.3,4.7,NE,Northeast,37.5,2,D,4224.9,2619.4,1267.5,Evacuate high-risk area,train
+CS_0346,Nitrogen Dioxide,Pipe leak,242.2,47.3,2.4,NW,Northwest,38.9,10,D,7899.1,4897.4,2369.7,Immediate evacuation,test
+CS_0347,Ammonia,Pipe leak,285.0,37.6,19.6,N,North,20.1,2,B,1476.1,915.2,442.8,Shelter/evacuate as directed,train
+CS_0348,Chlorine,Pipe leak,293.4,23.9,4.5,SE,Southeast,35.3,1,C,4063.4,2519.3,1219.0,Evacuate high-risk area,validation
+CS_0349,Sulfur Dioxide,Storage tank leak,474.2,4.6,9.1,SW,Southwest,33.1,1,B,1141.5,707.7,342.4,Shelter/evacuate as directed,train
+CS_0350,Ammonia,Gas release,13.8,57.5,16.1,E,East,26.2,0,B,443.7,275.1,133.1,Monitor and restrict access,train
+CS_0351,Nitrogen Dioxide,Storage tank leak,481.5,33.3,15.9,SW,Southwest,38.2,2,E,3663.9,2271.6,1099.2,Evacuate high-risk area,train
+CS_0352,Sulfur Dioxide,Gas release,228.3,58.9,6.0,S,South,16.2,5,B,3396.4,2105.8,1018.9,Evacuate high-risk area,validation
+CS_0353,Sulfur Dioxide,Pressurized liquid release,333.0,25.0,3.6,E,East,30.9,1,B,3508.0,2174.9,1052.4,Evacuate high-risk area,train
+CS_0354,Chlorine,Gas release,234.9,1.8,23.1,SW,Southwest,19.4,0,D,439.3,272.4,131.8,Monitor and restrict access,train
+CS_0355,Hydrogen Sulfide,Pipe leak,454.9,58.7,23.6,W,West,39.0,1,E,4013.4,2488.3,1204.0,Evacuate high-risk area,train
+CS_0356,Ammonia,Pressurized liquid release,362.0,10.6,6.9,NW,Northwest,31.0,2,B,1571.9,974.6,471.6,Shelter/evacuate as directed,train
+CS_0357,Nitrogen Dioxide,Pressurized liquid release,15.9,14.5,1.2,E,East,23.9,10,E,1665.8,1032.8,499.7,Shelter/evacuate as directed,train
+CS_0358,Ammonia,Pressurized liquid release,425.5,2.7,18.5,E,East,17.4,0,D,576.6,357.5,173.0,Monitor and restrict access,train
+CS_0359,Nitrogen Dioxide,Gas release,451.7,30.2,4.7,N,North,39.8,10,E,6992.2,4335.2,2097.7,Immediate evacuation,validation
+CS_0360,Chlorine,Pipe leak,54.5,17.3,1.8,N,North,16.4,0,B,1911.3,1185.0,573.4,Shelter/evacuate as directed,validation
+CS_0361,Nitrogen Dioxide,Gas release,286.4,12.3,9.6,S,South,31.4,0,D,1837.7,1139.4,551.3,Shelter/evacuate as directed,train
+CS_0362,Hydrogen Sulfide,Gas release,421.5,9.7,19.0,NW,Northwest,20.7,10,E,1813.4,1124.3,544.0,Shelter/evacuate as directed,train
+CS_0363,Chlorine,Storage tank leak,295.0,45.8,11.5,E,East,29.5,1,E,4247.9,2633.7,1274.4,Evacuate high-risk area,train
+CS_0364,Hydrogen Sulfide,Pressurized liquid release,452.8,49.6,21.3,SE,Southeast,25.0,2,B,2685.1,1664.8,805.5,Evacuate high-risk area,train
+CS_0365,Hydrogen Sulfide,Gas release,135.1,38.5,8.1,E,East,29.8,0,D,2521.8,1563.5,756.5,Evacuate high-risk area,train
+CS_0366,Ammonia,Storage tank leak,258.4,20.6,10.8,NE,Northeast,35.3,5,E,2157.6,1337.7,647.3,Evacuate high-risk area,train
+CS_0367,Ammonia,Storage tank leak,262.7,55.9,12.1,W,West,16.1,0,F,3082.1,1910.9,924.6,Evacuate high-risk area,test
+CS_0368,Nitrogen Dioxide,Pipe leak,10.0,58.4,11.0,W,West,28.1,0,F,837.4,519.2,251.2,Monitor and restrict access,train
+CS_0369,Nitrogen Dioxide,Pressurized liquid release,122.9,14.2,1.0,W,West,33.2,10,D,4649.0,2882.4,1394.7,Evacuate high-risk area,train
+CS_0370,Chlorine,Storage tank leak,217.1,49.2,8.3,SW,Southwest,23.1,2,A,2857.5,1771.7,857.3,Evacuate high-risk area,train
+CS_0371,Sulfur Dioxide,Storage tank leak,208.8,9.8,6.3,NW,Northwest,34.1,1,C,1475.7,914.9,442.7,Shelter/evacuate as directed,train
+CS_0372,Ammonia,Pipe leak,92.0,3.5,19.7,N,North,29.6,10,A,267.4,165.8,80.2,Monitor and restrict access,train
+CS_0373,Hydrogen Sulfide,Storage tank leak,319.8,42.8,4.1,E,East,29.0,2,D,5899.3,3657.6,1769.8,Immediate evacuation,test
+CS_0374,Chlorine,Storage tank leak,415.5,55.3,17.7,W,West,32.9,1,B,3317.3,2056.7,995.2,Evacuate high-risk area,train
+CS_0375,Nitrogen Dioxide,Storage tank leak,144.3,20.8,20.4,SE,Southeast,19.9,0,E,1242.1,770.1,372.6,Shelter/evacuate as directed,train
+CS_0376,Sulfur Dioxide,Gas release,384.7,19.4,17.1,NE,Northeast,25.9,1,D,1800.0,1116.0,540.0,Shelter/evacuate as directed,train
+CS_0377,Hydrogen Sulfide,Pressurized liquid release,22.3,58.2,21.1,S,South,15.3,2,D,747.0,463.1,224.1,Monitor and restrict access,validation
+CS_0378,Sulfur Dioxide,Pressurized liquid release,356.0,19.2,13.8,NW,Northwest,28.5,0,F,2329.7,1444.4,698.9,Evacuate high-risk area,train
+CS_0379,Nitrogen Dioxide,Storage tank leak,360.1,48.7,23.9,W,West,20.7,5,D,2648.7,1642.2,794.6,Evacuate high-risk area,test
+CS_0380,Hydrogen Sulfide,Gas release,437.0,37.9,17.1,E,East,34.9,0,B,2622.2,1625.8,786.7,Evacuate high-risk area,test
+CS_0381,Sulfur Dioxide,Pipe leak,131.3,24.1,4.9,S,South,19.7,0,C,1908.8,1183.5,572.6,Shelter/evacuate as directed,train
+CS_0382,Hydrogen Sulfide,Pipe leak,173.7,47.2,18.6,SW,Southwest,25.1,0,B,1686.4,1045.5,505.9,Shelter/evacuate as directed,train
+CS_0383,Chlorine,Pipe leak,172.9,38.9,2.4,SW,Southwest,24.3,10,F,7801.5,4836.9,2340.4,Immediate evacuation,train
+CS_0384,Sulfur Dioxide,Pipe leak,304.5,55.0,24.8,NW,Northwest,23.1,10,B,2066.4,1281.2,619.9,Evacuate high-risk area,train
+CS_0385,Nitrogen Dioxide,Storage tank leak,60.5,12.2,14.1,SE,Southeast,39.5,1,A,541.2,335.5,162.3,Monitor and restrict access,validation
+CS_0386,Chlorine,Pressurized liquid release,204.8,16.8,7.3,SE,Southeast,20.1,1,B,1875.8,1163.0,562.7,Shelter/evacuate as directed,test
+CS_0387,Ammonia,Pipe leak,47.7,6.4,2.8,SE,Southeast,38.8,0,C,775.1,480.6,232.5,Monitor and restrict access,train
+CS_0388,Hydrogen Sulfide,Gas release,281.2,34.3,16.4,N,North,32.6,0,A,1808.2,1121.1,542.5,Shelter/evacuate as directed,test
+CS_0389,Chlorine,Pressurized liquid release,132.3,27.5,1.0,S,South,19.4,0,C,5654.7,3505.9,1696.4,Immediate evacuation,train
+CS_0390,Sulfur Dioxide,Storage tank leak,109.3,25.1,15.1,N,North,32.5,2,E,1376.0,853.1,412.8,Shelter/evacuate as directed,test
+CS_0391,Hydrogen Sulfide,Storage tank leak,275.6,37.4,23.6,NW,Northwest,20.5,2,F,2489.4,1543.4,746.8,Evacuate high-risk area,train
+CS_0392,Chlorine,Pressurized liquid release,374.0,48.6,8.8,W,West,37.3,0,D,5096.1,3159.6,1528.8,Immediate evacuation,test
+CS_0393,Nitrogen Dioxide,Pressurized liquid release,224.8,40.6,24.9,NE,Northeast,20.7,1,D,1767.6,1095.9,530.3,Shelter/evacuate as directed,validation
+CS_0394,Nitrogen Dioxide,Gas release,107.6,15.7,22.1,N,North,33.5,0,F,1031.5,639.5,309.4,Shelter/evacuate as directed,train
+CS_0395,Nitrogen Dioxide,Gas release,456.5,36.2,9.5,NW,Northwest,25.6,0,B,3212.4,1991.7,963.7,Evacuate high-risk area,train
+CS_0396,Ammonia,Storage tank leak,197.8,24.4,12.8,SW,Southwest,22.1,2,A,1108.0,687.0,332.4,Shelter/evacuate as directed,train
+CS_0397,Sulfur Dioxide,Pressurized liquid release,43.5,32.8,9.9,N,North,38.0,1,D,1096.7,679.9,329.0,Shelter/evacuate as directed,train
+CS_0398,Hydrogen Sulfide,Storage tank leak,431.3,52.5,1.8,E,East,34.7,0,D,10000.0,7000.0,3428.6,Immediate evacuation,validation
+CS_0399,Ammonia,Pressurized liquid release,272.2,30.5,4.5,NW,Northwest,34.6,0,C,3125.9,1938.1,937.8,Evacuate high-risk area,train
+CS_0400,Ammonia,Gas release,157.5,55.7,13.1,W,West,16.4,1,A,1413.1,876.1,423.9,Shelter/evacuate as directed,train
+CS_0401,Sulfur Dioxide,Pressurized liquid release,331.0,5.2,7.2,NE,Northeast,19.0,0,D,1267.4,785.8,380.2,Shelter/evacuate as directed,train
+CS_0402,Nitrogen Dioxide,Pipe leak,363.1,1.5,20.8,SE,Southeast,26.2,5,D,514.4,318.9,154.3,Monitor and restrict access,test
+CS_0403,Sulfur Dioxide,Pressurized liquid release,272.4,47.6,9.6,W,West,23.8,5,F,4040.1,2504.9,1212.0,Evacuate high-risk area,train
+CS_0404,Nitrogen Dioxide,Pressurized liquid release,183.7,7.1,13.1,N,North,38.5,5,F,1295.8,803.4,388.7,Shelter/evacuate as directed,train
+CS_0405,Sulfur Dioxide,Storage tank leak,181.0,21.3,13.5,NW,Northwest,34.9,5,C,1471.1,912.1,441.3,Shelter/evacuate as directed,train
+CS_0406,Chlorine,Gas release,155.0,23.7,12.0,NW,Northwest,25.3,2,E,2155.2,1336.2,646.6,Evacuate high-risk area,train
+CS_0407,Chlorine,Pipe leak,432.9,32.9,13.8,SW,Southwest,34.7,0,A,2629.9,1630.6,789.0,Evacuate high-risk area,validation
+CS_0408,Sulfur Dioxide,Pipe leak,442.0,8.0,3.9,NE,Northeast,30.9,1,D,2659.0,1648.6,797.7,Evacuate high-risk area,train
+CS_0409,Sulfur Dioxide,Gas release,38.3,57.6,10.4,NW,Northwest,20.9,0,C,1100.7,682.5,330.2,Shelter/evacuate as directed,train
+CS_0410,Nitrogen Dioxide,Pressurized liquid release,379.4,45.5,21.9,S,South,32.0,0,B,2231.4,1383.5,669.4,Evacuate high-risk area,train
+CS_0411,Ammonia,Pressurized liquid release,436.6,36.7,16.2,NW,Northwest,28.3,0,E,2748.6,1704.1,824.6,Evacuate high-risk area,train
+CS_0412,Nitrogen Dioxide,Pressurized liquid release,490.4,41.1,13.3,NE,Northeast,17.9,2,A,2657.2,1647.4,797.1,Evacuate high-risk area,train
+CS_0413,Nitrogen Dioxide,Pipe leak,309.6,53.3,21.6,E,East,31.8,0,B,2194.7,1360.7,658.4,Evacuate high-risk area,train
+CS_0414,Hydrogen Sulfide,Storage tank leak,368.3,52.6,17.7,N,North,33.8,1,C,3110.7,1928.6,933.2,Evacuate high-risk area,test
+CS_0415,Hydrogen Sulfide,Pressurized liquid release,397.9,53.1,11.8,E,East,19.6,5,C,3927.3,2435.0,1178.2,Evacuate high-risk area,train
+CS_0416,Nitrogen Dioxide,Pressurized liquid release,327.4,3.5,1.4,SW,Southwest,22.0,0,D,2619.6,1624.1,785.9,Evacuate high-risk area,train
+CS_0417,Chlorine,Pipe leak,425.5,31.3,14.1,SW,Southwest,39.5,1,D,3534.1,2191.2,1060.2,Evacuate high-risk area,train
+CS_0418,Nitrogen Dioxide,Pipe leak,167.4,5.1,6.3,SW,Southwest,23.8,0,D,1075.6,666.9,322.7,Shelter/evacuate as directed,validation
+CS_0419,Sulfur Dioxide,Pressurized liquid release,32.2,50.1,9.4,NW,Northwest,38.2,0,A,872.3,540.8,261.7,Monitor and restrict access,test
+CS_0420,Chlorine,Gas release,404.2,46.2,19.5,NE,Northeast,28.7,0,B,2750.4,1705.2,825.1,Evacuate high-risk area,train
+CS_0421,Nitrogen Dioxide,Pressurized liquid release,181.6,13.2,17.3,SE,Southeast,34.0,0,E,1292.6,801.4,387.8,Shelter/evacuate as directed,train
+CS_0422,Sulfur Dioxide,Gas release,105.5,45.8,22.4,E,East,33.7,5,E,1573.9,975.8,472.2,Shelter/evacuate as directed,train
+CS_0423,Ammonia,Storage tank leak,293.6,43.3,16.2,SW,Southwest,18.9,1,C,1914.3,1186.9,574.3,Shelter/evacuate as directed,train
+CS_0424,Chlorine,Gas release,115.3,12.1,11.2,N,North,37.7,1,B,1051.3,651.8,315.4,Shelter/evacuate as directed,train
+CS_0425,Ammonia,Gas release,227.5,33.4,11.8,N,North,39.0,0,C,1885.5,1169.0,565.7,Shelter/evacuate as directed,train
+CS_0426,Sulfur Dioxide,Pipe leak,169.0,13.9,7.5,SE,Southeast,19.8,2,F,1826.6,1132.5,548.0,Shelter/evacuate as directed,train
+CS_0427,Ammonia,Pipe leak,409.3,6.2,19.7,S,South,34.0,0,D,902.1,559.3,270.6,Monitor and restrict access,train
+CS_0428,Hydrogen Sulfide,Gas release,116.4,53.4,12.1,W,West,21.6,0,E,2447.6,1517.5,734.3,Evacuate high-risk area,test
+CS_0429,Hydrogen Sulfide,Gas release,336.8,20.2,8.8,S,South,37.4,5,E,3487.3,2162.1,1046.2,Evacuate high-risk area,train
+CS_0430,Ammonia,Storage tank leak,132.0,59.9,14.8,E,East,16.7,0,E,1904.8,1181.0,571.4,Shelter/evacuate as directed,train
+CS_0431,Sulfur Dioxide,Storage tank leak,430.4,25.3,24.9,N,North,21.0,0,C,1581.3,980.4,474.4,Shelter/evacuate as directed,validation
+CS_0432,Hydrogen Sulfide,Storage tank leak,426.1,19.4,10.7,SW,Southwest,15.3,0,F,3128.9,1939.9,938.7,Evacuate high-risk area,train
+CS_0433,Ammonia,Pipe leak,161.4,56.4,4.2,S,South,27.8,0,E,4058.7,2516.4,1217.6,Evacuate high-risk area,train
+CS_0434,Nitrogen Dioxide,Pipe leak,294.7,42.7,24.8,E,East,33.9,0,A,1616.6,1002.3,485.0,Shelter/evacuate as directed,train
+CS_0435,Hydrogen Sulfide,Pipe leak,435.5,38.4,10.1,S,South,24.3,1,C,3652.0,2264.2,1095.6,Evacuate high-risk area,train
+CS_0436,Nitrogen Dioxide,Storage tank leak,328.3,4.1,20.3,E,East,32.9,1,E,902.8,559.8,270.8,Monitor and restrict access,test
+CS_0437,Ammonia,Pressurized liquid release,433.2,4.2,3.6,E,East,38.1,1,A,1366.8,847.4,410.0,Shelter/evacuate as directed,train
+CS_0438,Chlorine,Gas release,281.8,13.0,18.9,SW,Southwest,35.3,0,F,1882.6,1167.2,564.8,Shelter/evacuate as directed,train
+CS_0439,Ammonia,Pipe leak,420.3,37.0,5.1,E,East,15.5,2,D,4120.4,2554.6,1236.1,Evacuate high-risk area,train
+CS_0440,Hydrogen Sulfide,Storage tank leak,272.6,34.8,12.7,SW,Southwest,25.0,0,B,2194.2,1360.4,658.2,Evacuate high-risk area,train
+CS_0441,Hydrogen Sulfide,Gas release,372.9,4.9,3.3,NE,Northeast,29.9,2,F,2937.7,1821.4,881.3,Evacuate high-risk area,train
+CS_0442,Chlorine,Pipe leak,441.7,51.9,22.2,W,West,31.5,0,C,3200.1,1984.0,960.0,Evacuate high-risk area,train
+CS_0443,Nitrogen Dioxide,Storage tank leak,443.4,41.8,4.0,W,West,20.0,0,A,4560.0,2827.2,1368.0,Evacuate high-risk area,train
+CS_0444,Nitrogen Dioxide,Gas release,174.3,51.3,2.6,SW,Southwest,39.4,5,E,7101.6,4403.0,2130.5,Immediate evacuation,train
+CS_0445,Sulfur Dioxide,Pipe leak,396.8,4.3,11.0,NW,Northwest,19.2,1,B,856.9,531.3,257.1,Monitor and restrict access,validation
+CS_0446,Hydrogen Sulfide,Pressurized liquid release,269.6,1.5,24.6,W,West,19.2,0,C,349.3,216.6,104.8,Monitor and restrict access,train
+CS_0447,Nitrogen Dioxide,Gas release,73.5,4.7,7.2,S,South,23.9,2,B,544.9,337.8,163.5,Monitor and restrict access,train
+CS_0448,Hydrogen Sulfide,Gas release,177.9,29.6,21.8,W,West,18.9,0,C,1337.0,829.0,401.1,Shelter/evacuate as directed,train
+CS_0449,Hydrogen Sulfide,Pipe leak,86.4,19.4,12.5,SE,Southeast,34.5,0,D,1178.8,730.9,353.6,Shelter/evacuate as directed,validation
+CS_0450,Chlorine,Pressurized liquid release,492.3,22.5,10.5,SW,Southwest,32.9,0,E,4031.7,2499.6,1209.5,Evacuate high-risk area,train
+CS_0451,Chlorine,Pipe leak,336.9,32.7,19.6,W,West,36.6,0,E,2995.2,1857.1,898.6,Evacuate high-risk area,train
+CS_0452,Chlorine,Pipe leak,470.8,39.7,1.4,SE,Southeast,28.1,1,D,10000.0,7000.0,3774.2,Immediate evacuation,train
+CS_0453,Sulfur Dioxide,Pipe leak,67.3,25.6,20.2,NW,Northwest,18.1,2,F,944.9,585.8,283.5,Monitor and restrict access,train
+CS_0454,Nitrogen Dioxide,Storage tank leak,410.7,52.3,13.2,SW,Southwest,33.4,1,D,3966.0,2458.9,1189.8,Evacuate high-risk area,train
+CS_0455,Hydrogen Sulfide,Pipe leak,192.4,11.9,16.9,SW,Southwest,18.5,1,C,1014.2,628.8,304.3,Shelter/evacuate as directed,test
+CS_0456,Hydrogen Sulfide,Pressurized liquid release,209.2,34.0,22.7,SW,Southwest,30.1,1,A,1323.5,820.6,397.0,Shelter/evacuate as directed,test
+CS_0457,Sulfur Dioxide,Storage tank leak,448.1,20.9,9.1,SE,Southeast,33.2,1,A,2117.3,1312.7,635.2,Evacuate high-risk area,validation
+CS_0458,Chlorine,Gas release,264.8,37.8,13.5,NE,Northeast,29.7,2,B,2504.9,1553.0,751.5,Evacuate high-risk area,train
+CS_0459,Chlorine,Pipe leak,377.6,6.5,4.6,NE,Northeast,26.5,0,B,2030.8,1259.1,609.2,Evacuate high-risk area,test
+CS_0460,Sulfur Dioxide,Gas release,152.8,28.6,6.0,N,North,21.0,5,D,2402.7,1489.7,720.8,Evacuate high-risk area,test
+CS_0461,Chlorine,Pipe leak,311.5,56.2,19.3,NE,Northeast,27.8,2,E,3756.2,2328.8,1126.8,Evacuate high-risk area,validation
+CS_0462,Ammonia,Gas release,24.9,37.3,5.9,N,North,23.5,1,D,961.3,596.0,288.4,Monitor and restrict access,test
+CS_0463,Ammonia,Pipe leak,70.5,55.8,16.0,W,West,22.0,5,A,933.4,578.7,280.0,Monitor and restrict access,train
+CS_0464,Hydrogen Sulfide,Gas release,230.0,7.6,6.7,N,North,16.2,2,C,1411.3,875.0,423.4,Shelter/evacuate as directed,validation
+CS_0465,Hydrogen Sulfide,Pressurized liquid release,402.7,46.6,10.4,NW,Northwest,33.8,0,B,3560.3,2207.4,1068.1,Evacuate high-risk area,train
+CS_0466,Nitrogen Dioxide,Storage tank leak,419.2,45.2,23.3,E,East,24.1,0,F,3212.6,1991.8,963.8,Evacuate high-risk area,train
+CS_0467,Chlorine,Gas release,215.1,3.4,8.0,W,West,23.3,0,D,1001.4,620.9,300.4,Shelter/evacuate as directed,test
+CS_0468,Sulfur Dioxide,Pipe leak,342.5,53.2,8.6,SE,Southeast,36.2,10,F,5750.7,3565.5,1725.2,Immediate evacuation,train
+CS_0469,Ammonia,Storage tank leak,176.5,21.5,11.9,SE,Southeast,32.0,1,F,1737.0,1076.9,521.1,Shelter/evacuate as directed,train
+CS_0470,Sulfur Dioxide,Pressurized liquid release,176.6,21.3,2.9,NW,Northwest,26.1,0,A,2262.0,1402.4,678.6,Evacuate high-risk area,train
+CS_0471,Hydrogen Sulfide,Gas release,192.5,10.6,23.3,SE,Southeast,16.5,0,F,1060.1,657.3,318.0,Shelter/evacuate as directed,train
+CS_0472,Nitrogen Dioxide,Pressurized liquid release,255.7,45.3,6.9,NW,Northwest,26.8,2,B,3269.9,2027.3,981.0,Evacuate high-risk area,test
+CS_0473,Sulfur Dioxide,Storage tank leak,410.5,13.5,19.2,S,South,16.4,0,D,1374.0,851.9,412.2,Shelter/evacuate as directed,train
+CS_0474,Ammonia,Pipe leak,429.5,18.6,9.6,NW,Northwest,33.9,0,A,1693.8,1050.2,508.1,Shelter/evacuate as directed,train
+CS_0475,Chlorine,Pipe leak,470.7,11.2,15.5,S,South,36.6,5,A,1637.7,1015.4,491.3,Shelter/evacuate as directed,test
+CS_0476,Hydrogen Sulfide,Gas release,251.5,10.7,8.2,N,North,29.9,0,B,1490.0,923.8,447.0,Shelter/evacuate as directed,test
+CS_0477,Nitrogen Dioxide,Pressurized liquid release,32.2,7.2,6.2,E,East,15.4,1,F,668.7,414.6,200.6,Monitor and restrict access,test
+CS_0478,Sulfur Dioxide,Pressurized liquid release,284.7,47.0,23.6,NE,Northeast,17.1,0,E,2184.9,1354.6,655.5,Evacuate high-risk area,train
+CS_0479,Nitrogen Dioxide,Pressurized liquid release,68.2,36.1,24.5,N,North,20.4,0,D,910.4,564.5,273.1,Monitor and restrict access,train
+CS_0480,Sulfur Dioxide,Pipe leak,270.8,18.5,3.5,S,South,19.3,1,E,3563.9,2209.6,1069.2,Evacuate high-risk area,train
+CS_0481,Hydrogen Sulfide,Storage tank leak,137.2,4.0,24.3,SE,Southeast,25.8,0,A,342.7,212.5,102.8,Monitor and restrict access,train
+CS_0482,Hydrogen Sulfide,Pressurized liquid release,116.9,41.6,24.7,NE,Northeast,29.4,0,E,1575.4,976.8,472.6,Shelter/evacuate as directed,train
+CS_0483,Chlorine,Gas release,449.0,33.9,20.1,S,South,19.0,0,A,2084.1,1292.2,625.2,Evacuate high-risk area,train
+CS_0484,Chlorine,Pressurized liquid release,457.3,35.0,14.6,S,South,19.6,0,C,3107.2,1926.5,932.2,Evacuate high-risk area,train
+CS_0485,Nitrogen Dioxide,Pressurized liquid release,158.6,41.3,23.4,N,North,18.0,10,B,1425.8,884.0,427.7,Shelter/evacuate as directed,test
+CS_0486,Ammonia,Storage tank leak,162.8,20.6,7.0,N,North,31.4,1,F,2122.9,1316.2,636.9,Evacuate high-risk area,train
+CS_0487,Nitrogen Dioxide,Gas release,127.2,41.9,13.3,E,East,34.3,0,C,1778.0,1102.4,533.4,Shelter/evacuate as directed,train
+CS_0488,Hydrogen Sulfide,Pipe leak,207.6,23.0,21.0,E,East,35.4,1,B,1292.6,801.4,387.8,Shelter/evacuate as directed,train
+CS_0489,Chlorine,Pressurized liquid release,377.5,13.8,13.8,SW,Southwest,28.4,0,D,2087.3,1294.1,626.2,Evacuate high-risk area,validation
+CS_0490,Sulfur Dioxide,Gas release,454.6,42.9,4.8,E,East,20.5,1,F,6506.2,4033.9,1951.9,Immediate evacuation,validation
+CS_0491,Sulfur Dioxide,Gas release,163.4,23.4,21.1,S,South,16.3,1,A,816.3,506.1,244.9,Monitor and restrict access,train
+CS_0492,Sulfur Dioxide,Gas release,164.3,27.2,2.0,SW,Southwest,34.5,0,E,4730.2,2932.7,1419.1,Evacuate high-risk area,test
+CS_0493,Nitrogen Dioxide,Gas release,472.2,30.5,6.7,NE,Northeast,17.7,2,B,3533.3,2190.6,1060.0,Evacuate high-risk area,test
+CS_0494,Ammonia,Pressurized liquid release,161.1,17.0,14.8,E,East,23.1,0,C,935.7,580.1,280.7,Monitor and restrict access,train
+CS_0495,Chlorine,Pipe leak,168.9,49.4,6.6,E,East,20.3,5,F,4799.8,2975.9,1439.9,Evacuate high-risk area,train
+CS_0496,Chlorine,Pressurized liquid release,393.8,36.6,7.4,W,West,39.8,0,F,6095.4,3779.1,1828.6,Immediate evacuation,validation
+CS_0497,Chlorine,Pressurized liquid release,159.2,25.8,5.8,SE,Southeast,16.6,5,F,3524.3,2185.1,1057.3,Evacuate high-risk area,validation
+CS_0498,Chlorine,Gas release,93.8,6.0,11.0,NE,Northeast,33.9,5,F,1032.8,640.4,309.9,Shelter/evacuate as directed,train
+CS_0499,Chlorine,Gas release,88.2,50.0,9.1,SW,Southwest,16.9,0,E,2522.3,1563.8,756.7,Evacuate high-risk area,test
+CS_0500,Chlorine,Gas release,435.5,3.3,23.2,N,North,25.5,0,C,761.0,471.8,228.3,Monitor and restrict access,train
+CS_0501,Ammonia,Storage tank leak,368.3,15.6,23.7,NE,Northeast,34.5,0,D,1240.5,769.1,372.1,Shelter/evacuate as directed,train
+CS_0502,Hydrogen Sulfide,Pressurized liquid release,487.2,17.0,14.1,W,West,21.9,2,F,2907.7,1802.8,872.3,Evacuate high-risk area,train
+CS_0503,Hydrogen Sulfide,Pressurized liquid release,417.9,49.2,20.3,S,South,20.6,0,B,2498.8,1549.2,749.6,Evacuate high-risk area,train
+CS_0504,Hydrogen Sulfide,Pressurized liquid release,175.4,45.4,21.9,S,South,17.1,0,D,1780.0,1103.6,534.0,Shelter/evacuate as directed,train
+CS_0505,Hydrogen Sulfide,Pipe leak,366.5,13.8,12.6,S,South,32.3,1,E,2315.6,1435.7,694.7,Evacuate high-risk area,test
+CS_0506,Sulfur Dioxide,Storage tank leak,278.2,8.4,18.6,NE,Northeast,23.7,0,E,1063.8,659.6,319.1,Shelter/evacuate as directed,validation
+CS_0507,Hydrogen Sulfide,Pipe leak,175.4,21.3,20.3,SE,Southeast,21.2,10,D,1487.4,922.2,446.2,Shelter/evacuate as directed,train
+CS_0508,Hydrogen Sulfide,Gas release,64.5,9.3,16.6,NW,Northwest,36.9,2,D,637.5,395.3,191.3,Monitor and restrict access,validation
+CS_0509,Ammonia,Pressurized liquid release,86.6,17.0,18.7,NE,Northeast,24.0,2,E,781.8,484.7,234.5,Monitor and restrict access,test
+CS_0510,Ammonia,Pressurized liquid release,257.3,45.9,3.8,S,South,19.2,0,E,4654.1,2885.5,1396.2,Evacuate high-risk area,train
+CS_0511,Sulfur Dioxide,Storage tank leak,386.3,40.3,11.4,NW,Northwest,26.2,1,F,3882.0,2406.8,1164.6,Evacuate high-risk area,test
+CS_0512,Nitrogen Dioxide,Pressurized liquid release,146.7,31.9,4.1,SE,Southeast,17.5,1,A,2267.7,1406.0,680.3,Evacuate high-risk area,train
+CS_0513,Chlorine,Pressurized liquid release,105.6,36.5,16.7,SE,Southeast,34.5,2,D,1731.5,1073.5,519.4,Shelter/evacuate as directed,train
+CS_0514,Sulfur Dioxide,Gas release,489.8,40.9,17.2,N,North,36.2,0,F,3707.6,2298.7,1112.3,Evacuate high-risk area,train
+CS_0515,Ammonia,Pipe leak,12.6,2.1,1.0,NE,Northeast,24.5,0,D,390.3,242.0,117.1,Monitor and restrict access,train
+CS_0516,Ammonia,Gas release,316.4,8.7,18.9,SW,Southwest,20.5,0,A,663.2,411.2,198.9,Monitor and restrict access,train
+CS_0517,Hydrogen Sulfide,Pipe leak,65.6,25.3,24.9,N,North,19.6,1,D,783.6,485.8,235.1,Monitor and restrict access,validation
+CS_0518,Ammonia,Gas release,50.0,26.2,7.2,SE,Southeast,15.7,1,D,992.9,615.6,297.9,Monitor and restrict access,train
+CS_0519,Sulfur Dioxide,Pipe leak,404.7,10.8,10.5,W,West,35.1,1,E,2078.2,1288.5,623.5,Evacuate high-risk area,train
+CS_0520,Ammonia,Pressurized liquid release,421.5,9.9,4.1,SW,Southwest,35.0,5,D,2738.8,1698.1,821.6,Evacuate high-risk area,train
+CS_0521,Nitrogen Dioxide,Gas release,267.5,40.9,17.7,SE,Southeast,37.5,2,D,2529.2,1568.1,758.8,Evacuate high-risk area,test
+CS_0522,Ammonia,Pipe leak,134.3,20.2,19.2,E,East,17.0,10,F,1215.1,753.3,364.5,Shelter/evacuate as directed,train
+CS_0523,Hydrogen Sulfide,Pressurized liquid release,335.9,6.6,14.4,N,North,23.6,0,F,1457.7,903.8,437.3,Shelter/evacuate as directed,validation
+CS_0524,Hydrogen Sulfide,Pipe leak,60.7,8.0,10.6,N,North,33.2,2,E,797.3,494.3,239.2,Monitor and restrict access,train
+CS_0525,Sulfur Dioxide,Pressurized liquid release,134.7,57.5,1.3,E,East,28.5,5,E,8065.5,5000.6,2419.6,Immediate evacuation,validation
+CS_0526,Chlorine,Pipe leak,408.0,14.3,10.2,NW,Northwest,31.7,10,A,2219.4,1376.0,665.8,Evacuate high-risk area,train
+CS_0527,Hydrogen Sulfide,Gas release,49.7,6.2,20.9,NW,Northwest,39.4,0,C,365.2,226.4,109.6,Monitor and restrict access,validation
+CS_0528,Hydrogen Sulfide,Pipe leak,408.1,40.7,8.8,SW,Southwest,22.6,0,E,4715.6,2923.7,1414.7,Evacuate high-risk area,train
+CS_0529,Sulfur Dioxide,Pressurized liquid release,371.9,16.1,17.0,W,West,18.0,1,D,1553.4,963.1,466.0,Shelter/evacuate as directed,train
+CS_0530,Sulfur Dioxide,Pressurized liquid release,367.8,17.8,15.9,SE,Southeast,19.7,0,E,1887.1,1170.0,566.1,Shelter/evacuate as directed,train
+CS_0531,Nitrogen Dioxide,Storage tank leak,106.2,29.2,4.0,E,East,39.1,0,E,3132.2,1941.9,939.6,Evacuate high-risk area,train
+CS_0532,Hydrogen Sulfide,Pipe leak,329.4,4.9,21.0,E,East,39.4,1,B,765.8,474.8,229.7,Monitor and restrict access,train
+CS_0533,Ammonia,Storage tank leak,30.4,19.2,13.0,NE,Northeast,32.2,0,D,528.0,327.3,158.4,Monitor and restrict access,train
+CS_0534,Chlorine,Storage tank leak,276.9,54.6,4.3,SE,Southeast,37.3,0,A,4914.4,3046.9,1474.3,Evacuate high-risk area,validation
+CS_0535,Hydrogen Sulfide,Pipe leak,282.7,19.6,9.6,N,North,37.8,0,E,2808.2,1741.1,842.5,Evacuate high-risk area,train
+CS_0536,Chlorine,Storage tank leak,158.5,40.9,24.2,NE,Northeast,30.7,10,C,1867.1,1157.6,560.1,Shelter/evacuate as directed,train
+CS_0537,Hydrogen Sulfide,Storage tank leak,132.9,23.3,3.9,SW,Southwest,29.6,10,E,3641.8,2257.9,1092.5,Evacuate high-risk area,train
+CS_0538,Sulfur Dioxide,Gas release,91.4,7.7,2.5,SE,Southeast,27.5,0,E,1622.9,1006.2,486.9,Shelter/evacuate as directed,train
+CS_0539,Nitrogen Dioxide,Gas release,442.8,27.1,11.0,SE,Southeast,24.7,2,B,2608.5,1617.3,782.5,Evacuate high-risk area,train
+CS_0540,Chlorine,Storage tank leak,327.9,36.5,23.9,S,South,18.8,1,B,1920.6,1190.8,576.2,Shelter/evacuate as directed,train
+CS_0541,Sulfur Dioxide,Pressurized liquid release,72.1,13.3,10.4,NE,Northeast,19.1,2,D,811.2,502.9,243.3,Monitor and restrict access,train
+CS_0542,Chlorine,Gas release,188.2,18.4,3.4,SE,Southeast,17.9,0,C,2968.8,1840.6,890.6,Evacuate high-risk area,train
+CS_0543,Sulfur Dioxide,Pipe leak,454.9,9.9,10.5,E,East,22.4,0,D,1727.4,1071.0,518.2,Shelter/evacuate as directed,train
+CS_0544,Nitrogen Dioxide,Gas release,470.4,5.7,19.1,E,East,29.7,5,B,1001.1,620.7,300.3,Shelter/evacuate as directed,train
+CS_0545,Hydrogen Sulfide,Storage tank leak,186.3,20.1,8.4,NE,Northeast,19.9,2,B,1701.4,1054.9,510.4,Shelter/evacuate as directed,validation
+CS_0546,Nitrogen Dioxide,Pressurized liquid release,305.6,59.7,20.2,SW,Southwest,26.7,0,A,2082.4,1291.1,624.7,Evacuate high-risk area,train
+CS_0547,Ammonia,Pressurized liquid release,406.7,6.1,23.8,W,West,15.6,10,E,962.0,596.5,288.6,Monitor and restrict access,train
+CS_0548,Chlorine,Pipe leak,182.3,8.5,15.6,W,West,15.6,0,C,916.1,568.0,274.8,Monitor and restrict access,validation
+CS_0549,Ammonia,Pressurized liquid release,116.0,49.8,11.6,NE,Northeast,16.2,5,D,1744.3,1081.5,523.3,Shelter/evacuate as directed,train
+CS_0550,Chlorine,Pressurized liquid release,43.4,27.3,6.2,S,South,38.4,1,C,1444.0,895.3,433.2,Shelter/evacuate as directed,train
+CS_0551,Hydrogen Sulfide,Pressurized liquid release,17.0,49.7,12.5,S,South,15.5,5,B,675.8,419.0,202.7,Monitor and restrict access,train
+CS_0552,Nitrogen Dioxide,Pressurized liquid release,121.1,10.6,17.0,E,East,17.0,0,B,640.6,397.2,192.2,Monitor and restrict access,train
+CS_0553,Hydrogen Sulfide,Gas release,303.0,53.1,10.2,NW,Northwest,36.4,10,B,3875.8,2403.0,1162.7,Evacuate high-risk area,train
+CS_0554,Hydrogen Sulfide,Pressurized liquid release,13.6,59.7,1.6,N,North,28.8,1,D,2264.3,1403.9,679.3,Evacuate high-risk area,validation
+CS_0555,Nitrogen Dioxide,Gas release,459.6,32.0,19.7,SE,Southeast,35.6,5,A,2125.1,1317.6,637.5,Evacuate high-risk area,validation
+CS_0556,Ammonia,Storage tank leak,422.7,8.5,8.1,NE,Northeast,16.9,0,F,1871.1,1160.1,561.3,Shelter/evacuate as directed,train
+CS_0557,Chlorine,Gas release,39.0,55.8,17.6,E,East,33.2,0,F,1488.6,922.9,446.6,Shelter/evacuate as directed,train
+CS_0558,Hydrogen Sulfide,Gas release,12.1,29.9,17.1,NW,Northwest,31.0,0,D,460.4,285.5,138.1,Monitor and restrict access,train
+CS_0559,Hydrogen Sulfide,Pressurized liquid release,96.8,44.0,3.4,NW,Northwest,38.9,1,F,4545.6,2818.3,1363.7,Evacuate high-risk area,test
+CS_0560,Nitrogen Dioxide,Gas release,57.5,33.3,5.3,NE,Northeast,34.9,2,D,1910.0,1184.2,573.0,Shelter/evacuate as directed,train
+CS_0561,Nitrogen Dioxide,Gas release,181.5,52.6,19.8,SW,Southwest,39.8,0,E,2478.2,1536.5,743.5,Evacuate high-risk area,test
+CS_0562,Hydrogen Sulfide,Pressurized liquid release,319.1,12.5,18.8,SE,Southeast,30.3,0,D,1453.1,900.9,435.9,Shelter/evacuate as directed,train
+CS_0563,Hydrogen Sulfide,Pipe leak,192.3,57.5,13.5,E,East,16.7,0,B,2202.3,1365.4,660.7,Evacuate high-risk area,test
+CS_0564,Sulfur Dioxide,Pressurized liquid release,341.1,38.3,15.8,E,East,29.2,0,D,2481.0,1538.2,744.3,Evacuate high-risk area,validation
+CS_0565,Nitrogen Dioxide,Gas release,87.8,59.5,23.8,N,North,37.0,5,F,1910.5,1184.5,573.2,Shelter/evacuate as directed,validation
+CS_0566,Sulfur Dioxide,Pipe leak,247.1,35.0,11.0,N,North,23.9,1,E,2703.9,1676.4,811.2,Evacuate high-risk area,train
+CS_0567,Chlorine,Gas release,164.4,16.0,6.4,W,West,16.7,5,B,1822.9,1130.2,546.9,Shelter/evacuate as directed,train
+CS_0568,Hydrogen Sulfide,Pipe leak,172.0,31.3,18.9,S,South,25.3,0,E,1856.9,1151.3,557.1,Shelter/evacuate as directed,validation
+CS_0569,Chlorine,Gas release,138.1,18.0,11.1,NE,Northeast,30.0,1,A,1215.6,753.7,364.7,Shelter/evacuate as directed,train
+CS_0570,Sulfur Dioxide,Gas release,370.0,11.3,1.6,E,East,29.6,10,A,3756.4,2329.0,1126.9,Evacuate high-risk area,train
+CS_0571,Sulfur Dioxide,Pipe leak,279.8,12.6,10.8,S,South,28.0,5,A,1231.4,763.4,369.4,Shelter/evacuate as directed,train
+CS_0572,Hydrogen Sulfide,Gas release,298.2,37.1,8.6,SW,Southwest,30.7,5,C,3518.7,2181.6,1055.6,Evacuate high-risk area,validation
+CS_0573,Chlorine,Pipe leak,98.6,19.1,7.5,S,South,20.0,0,E,1844.9,1143.9,553.5,Shelter/evacuate as directed,train
+CS_0574,Nitrogen Dioxide,Pressurized liquid release,311.6,31.6,3.0,SE,Southeast,17.2,0,B,4227.8,2621.3,1268.4,Evacuate high-risk area,train
+CS_0575,Hydrogen Sulfide,Gas release,186.6,19.2,15.5,NE,Northeast,24.7,5,D,1586.0,983.3,475.8,Shelter/evacuate as directed,train
+CS_0576,Chlorine,Gas release,85.4,40.1,22.3,NE,Northeast,26.5,1,E,1513.2,938.2,454.0,Shelter/evacuate as directed,train
+CS_0577,Nitrogen Dioxide,Gas release,370.6,19.9,6.0,NW,Northwest,18.3,1,A,2363.1,1465.1,708.9,Evacuate high-risk area,train
+CS_0578,Nitrogen Dioxide,Gas release,452.6,22.0,1.6,SE,Southeast,20.2,0,A,5290.1,3279.9,1587.0,Immediate evacuation,train
+CS_0579,Hydrogen Sulfide,Pressurized liquid release,343.4,5.9,23.4,S,South,30.5,5,F,1216.0,753.9,364.8,Shelter/evacuate as directed,train
+CS_0580,Ammonia,Pipe leak,385.3,8.7,17.6,NE,Northeast,39.1,0,A,830.5,514.9,249.2,Monitor and restrict access,train
+CS_0581,Nitrogen Dioxide,Pressurized liquid release,319.7,13.2,18.4,SE,Southeast,24.2,0,E,1585.0,982.7,475.5,Shelter/evacuate as directed,train
+CS_0582,Sulfur Dioxide,Pressurized liquid release,13.3,49.7,13.6,W,West,38.0,5,A,498.5,309.1,149.6,Monitor and restrict access,train
+CS_0583,Hydrogen Sulfide,Storage tank leak,424.6,21.0,5.4,N,North,38.9,0,F,5141.7,3187.9,1542.5,Immediate evacuation,train
+CS_0584,Sulfur Dioxide,Gas release,165.3,51.7,20.4,E,East,36.9,0,B,1513.9,938.6,454.2,Shelter/evacuate as directed,test
+CS_0585,Ammonia,Gas release,456.8,4.2,3.3,SW,Southwest,36.3,0,C,1769.0,1096.8,530.7,Shelter/evacuate as directed,train
+CS_0586,Ammonia,Gas release,160.0,27.3,2.5,NW,Northwest,19.4,0,E,3493.2,2165.8,1048.0,Evacuate high-risk area,test
+CS_0587,Sulfur Dioxide,Storage tank leak,473.4,42.6,8.5,W,West,36.5,0,F,5299.3,3285.5,1589.8,Immediate evacuation,train
+CS_0588,Hydrogen Sulfide,Pipe leak,322.8,13.8,8.4,W,West,36.5,10,D,2721.7,1687.4,816.5,Evacuate high-risk area,train
+CS_0589,Chlorine,Storage tank leak,341.6,19.2,16.3,N,North,25.0,1,C,1963.7,1217.5,589.1,Evacuate high-risk area,train
+CS_0590,Nitrogen Dioxide,Storage tank leak,466.9,42.6,23.4,S,South,25.1,1,A,2034.2,1261.2,610.3,Evacuate high-risk area,train
+CS_0591,Hydrogen Sulfide,Pipe leak,65.2,57.7,10.8,W,West,37.2,0,B,1589.8,985.7,476.9,Shelter/evacuate as directed,validation
+CS_0592,Hydrogen Sulfide,Gas release,350.6,58.7,16.1,S,South,36.6,0,F,4475.3,2774.7,1342.6,Evacuate high-risk area,train
+CS_0593,Hydrogen Sulfide,Pressurized liquid release,488.1,31.7,9.9,SW,Southwest,23.9,0,E,4319.3,2677.9,1295.8,Evacuate high-risk area,train
+CS_0594,Nitrogen Dioxide,Pressurized liquid release,40.9,52.3,10.5,SW,Southwest,26.9,1,E,1536.8,952.8,461.0,Shelter/evacuate as directed,train
+CS_0595,Hydrogen Sulfide,Pressurized liquid release,394.7,25.7,5.7,N,North,35.5,1,B,3618.0,2243.2,1085.4,Evacuate high-risk area,test
+CS_0596,Ammonia,Storage tank leak,333.8,16.3,18.9,NW,Northwest,22.8,5,C,1252.7,776.7,375.8,Shelter/evacuate as directed,train
+CS_0597,Chlorine,Pipe leak,244.6,31.3,21.7,SW,Southwest,17.6,1,F,2361.0,1463.8,708.3,Evacuate high-risk area,train
+CS_0598,Ammonia,Gas release,69.0,26.4,2.6,NW,Northwest,33.1,10,D,2408.9,1493.5,722.7,Evacuate high-risk area,test
+CS_0599,Hydrogen Sulfide,Gas release,45.8,45.2,18.9,SE,Southeast,32.8,0,F,1286.5,797.6,385.9,Shelter/evacuate as directed,train
+CS_0600,Ammonia,Gas release,103.0,21.1,1.9,S,South,24.8,5,C,2522.2,1563.8,756.7,Evacuate high-risk area,train

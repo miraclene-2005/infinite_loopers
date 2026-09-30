@@ -1,0 +1,3001 @@
+observation_id,road_id,status,cause,confidence,traffic_level,estimated_clearance_min
+OBS00001,R03108,Open,Chemical Hazard,0.6,Severe,12
+OBS00002,R01559,Congested,Chemical Hazard,0.42,Low,22
+OBS00003,R00294,Open,Traffic,0.53,Medium,56
+OBS00004,R03542,Blocked,Traffic,0.17,Low,33
+OBS00005,R01043,Open,Flooding,0.56,High,6
+OBS00006,R01530,Open,None,0.65,Severe,28
+OBS00007,R02123,Blocked,Traffic,0.21,Medium,44
+OBS00008,R00354,Open,Fire,0.19,Severe,59
+OBS00009,R02626,Open,Traffic,0.01,High,55
+OBS00010,R03271,Open,Traffic,0.25,Low,24
+OBS00011,R04283,Open,Accident,0.88,High,55
+OBS00012,R01804,Open,None,0.15,Low,22
+OBS00013,R00068,Open,Fire,0.26,Medium,54
+OBS00014,R03638,Open,Fire,0.33,Low,40
+OBS00015,R03268,Open,Fire,0.12,Low,15
+OBS00016,R00684,Open,Chemical Hazard,0.44,High,56
+OBS00017,R00255,Open,Flooding,0.89,Low,14
+OBS00018,R03013,Blocked,Traffic,0.43,Medium,24
+OBS00019,R04215,Open,Accident,0.11,Medium,50
+OBS00020,R01850,Open,Emergency Closure,0.45,Medium,40
+OBS00021,R00389,Open,Chemical Hazard,0.77,Low,30
+OBS00022,R04214,Open,Chemical Hazard,0.44,Medium,46
+OBS00023,R03093,Open,Chemical Hazard,0.89,High,25
+OBS00024,R01247,Blocked,Emergency Closure,0.92,Low,33
+OBS00025,R03948,Open,Fire,0.09,Low,54
+OBS00026,R01961,Open,Fire,0.26,High,1
+OBS00027,R01675,Open,Flooding,0.74,Low,17
+OBS00028,R03953,Open,Traffic,0.9,High,51
+OBS00029,R04188,Open,Emergency Closure,0.18,Low,43
+OBS00030,R00453,Blocked,Traffic,0.93,Severe,10
+OBS00031,R04547,Open,Accident,0.91,Low,52
+OBS00032,R03421,Open,Flooding,0.08,Low,5
+OBS00033,R03040,Open,Traffic,0.62,Medium,3
+OBS00034,R04614,Open,None,0.35,Low,36
+OBS00035,R01774,Congested,None,0.17,High,54
+OBS00036,R03502,Open,Chemical Hazard,0.11,Medium,36
+OBS00037,R00974,Blocked,Chemical Hazard,0.89,Low,15
+OBS00038,R04266,Congested,Traffic,0.53,Low,59
+OBS00039,R01722,Blocked,Flooding,0.37,Low,8
+OBS00040,R03610,Open,Fire,0.47,Low,6
+OBS00041,R02893,Open,Traffic,0.56,High,49
+OBS00042,R02257,Open,Chemical Hazard,0.11,High,19
+OBS00043,R03909,Open,Accident,0.59,Medium,42
+OBS00044,R03885,Open,Flooding,0.59,Low,59
+OBS00045,R02718,Congested,Chemical Hazard,0.71,High,32
+OBS00046,R00245,Open,Chemical Hazard,0.13,Severe,29
+OBS00047,R01112,Open,Traffic,0.04,High,59
+OBS00048,R02683,Open,Fire,0.02,Low,20
+OBS00049,R04502,Blocked,Emergency Closure,0.88,Severe,6
+OBS00050,R02410,Restricted,Fire,0.65,Severe,41
+OBS00051,R02507,Open,Traffic,0.5,Low,27
+OBS00052,R02687,Open,Chemical Hazard,0.74,Medium,17
+OBS00053,R04164,Open,Fire,0.39,Severe,38
+OBS00054,R01237,Open,Fire,0.54,Severe,51
+OBS00055,R00614,Open,Fire,0.25,Low,23
+OBS00056,R01367,Open,Emergency Closure,0.59,High,30
+OBS00057,R00522,Congested,None,0.25,Low,22
+OBS00058,R03330,Open,None,0.08,Medium,59
+OBS00059,R01391,Congested,Chemical Hazard,0.07,Low,30
+OBS00060,R00116,Open,Emergency Closure,0.24,High,3
+OBS00061,R04056,Open,Fire,0.85,High,51
+OBS00062,R02089,Open,Traffic,0.94,Severe,6
+OBS00063,R00046,Open,None,0.36,Severe,47
+OBS00064,R00284,Open,None,0.19,High,8
+OBS00065,R02352,Open,None,0.67,Medium,40
+OBS00066,R02202,Open,Traffic,0.92,Medium,24
+OBS00067,R03151,Restricted,None,0.93,Medium,12
+OBS00068,R01766,Open,Chemical Hazard,0.68,Severe,8
+OBS00069,R01080,Open,None,0.84,High,37
+OBS00070,R02912,Open,Traffic,0.38,Low,4
+OBS00071,R00895,Open,Chemical Hazard,0.81,High,9
+OBS00072,R04287,Open,Flooding,0.08,Severe,25
+OBS00073,R00540,Open,Fire,0.08,Severe,3
+OBS00074,R03789,Open,Accident,0.92,Severe,46
+OBS00075,R04664,Open,Accident,0.71,Severe,5
+OBS00076,R01779,Restricted,Fire,0.29,Low,14
+OBS00077,R00394,Open,Fire,0.21,Low,50
+OBS00078,R02374,Blocked,Traffic,0.74,High,45
+OBS00079,R02936,Open,Chemical Hazard,0.91,Severe,51
+OBS00080,R03828,Open,None,0.84,Low,55
+OBS00081,R04326,Blocked,Accident,0.14,Low,2
+OBS00082,R02924,Open,Traffic,0.33,High,10
+OBS00083,R01555,Blocked,Emergency Closure,0.51,Severe,22
+OBS00084,R01677,Congested,Chemical Hazard,0.87,High,49
+OBS00085,R01682,Blocked,Flooding,0.07,High,45
+OBS00086,R00742,Congested,None,0.85,Severe,59
+OBS00087,R01669,Open,None,0.36,Severe,19
+OBS00088,R02276,Open,Traffic,0.14,High,14
+OBS00089,R03421,Open,Fire,0.74,Low,19
+OBS00090,R01230,Open,Flooding,0.55,High,19
+OBS00091,R04141,Open,Flooding,0.01,Medium,17
+OBS00092,R03584,Open,Emergency Closure,0.06,Medium,42
+OBS00093,R03060,Congested,Traffic,0.5,Severe,53
+OBS00094,R00708,Open,Traffic,0.54,Severe,41
+OBS00095,R01063,Blocked,Emergency Closure,0.88,High,25
+OBS00096,R00279,Open,None,0.69,Medium,44
+OBS00097,R02133,Blocked,None,0.96,High,33
+OBS00098,R03081,Blocked,Accident,0.18,Severe,47
+OBS00099,R04203,Open,None,0.34,Low,54
+OBS00100,R03523,Open,Flooding,0.33,Severe,35
+OBS00101,R03117,Open,Flooding,0.55,High,25
+OBS00102,R00715,Open,Accident,0.85,Medium,59
+OBS00103,R00444,Open,Traffic,0.03,Low,48
+OBS00104,R01626,Open,Flooding,0.5,High,47
+OBS00105,R03874,Open,Flooding,0.31,Medium,44
+OBS00106,R01748,Open,Traffic,0.24,Low,31
+OBS00107,R02930,Open,Emergency Closure,0.41,High,17
+OBS00108,R01002,Open,Traffic,0.26,Severe,18
+OBS00109,R00033,Blocked,Traffic,0.04,Low,15
+OBS00110,R04224,Restricted,Flooding,0.07,Medium,9
+OBS00111,R02267,Open,Flooding,0.83,High,8
+OBS00112,R00565,Congested,Chemical Hazard,0.11,Medium,18
+OBS00113,R04431,Congested,Emergency Closure,0.97,Medium,7
+OBS00114,R02639,Open,None,0.5,Severe,57
+OBS00115,R02557,Congested,Traffic,0.65,Severe,12
+OBS00116,R02063,Open,Chemical Hazard,0.33,Low,53
+OBS00117,R03285,Congested,Chemical Hazard,0.42,Medium,1
+OBS00118,R03129,Open,Fire,0.5,Severe,6
+OBS00119,R00552,Open,Emergency Closure,0.27,Medium,12
+OBS00120,R00318,Open,Accident,0.28,Severe,44
+OBS00121,R00170,Open,Fire,0.53,Low,1
+OBS00122,R04779,Open,Emergency Closure,0.84,High,22
+OBS00123,R01235,Congested,Chemical Hazard,0.29,Medium,34
+OBS00124,R02453,Blocked,None,0.38,Medium,18
+OBS00125,R01413,Open,Fire,0.86,High,30
+OBS00126,R04579,Open,Emergency Closure,0.82,Severe,29
+OBS00127,R01281,Open,Emergency Closure,0.06,High,44
+OBS00128,R03938,Open,Fire,0.83,Severe,40
+OBS00129,R00925,Blocked,Traffic,0.76,Severe,57
+OBS00130,R00071,Open,Emergency Closure,0.85,Low,25
+OBS00131,R04669,Open,Emergency Closure,0.59,Severe,34
+OBS00132,R00806,Open,Flooding,0.16,Low,10
+OBS00133,R02912,Blocked,Accident,0.31,Severe,28
+OBS00134,R03562,Congested,Flooding,0.2,High,33
+OBS00135,R04420,Open,Accident,0.43,High,44
+OBS00136,R02959,Open,None,0.99,High,16
+OBS00137,R03816,Blocked,Emergency Closure,0.01,Low,8
+OBS00138,R01793,Congested,Traffic,0.41,Medium,7
+OBS00139,R04215,Open,Fire,0.14,High,53
+OBS00140,R04069,Open,Fire,0.59,Low,24
+OBS00141,R01545,Congested,Fire,0.22,Medium,21
+OBS00142,R04407,Open,Accident,0.61,High,35
+OBS00143,R01265,Open,Accident,0.84,High,42
+OBS00144,R00619,Open,Flooding,0.28,Low,20
+OBS00145,R01242,Congested,Traffic,0.84,Severe,52
+OBS00146,R02188,Open,None,0.74,Medium,29
+OBS00147,R02291,Open,None,0.79,Low,48
+OBS00148,R02624,Open,Emergency Closure,0.48,High,35
+OBS00149,R00839,Open,Accident,0.87,Severe,8
+OBS00150,R00344,Blocked,Traffic,0.66,High,9
+OBS00151,R03412,Restricted,Chemical Hazard,0.01,Low,31
+OBS00152,R03748,Open,Accident,0.56,Severe,58
+OBS00153,R00925,Open,Traffic,0.27,Medium,38
+OBS00154,R01172,Open,Flooding,0.64,Medium,55
+OBS00155,R04621,Open,Emergency Closure,0.2,High,18
+OBS00156,R03062,Open,Flooding,0.91,High,51
+OBS00157,R03732,Open,Fire,0.57,High,19
+OBS00158,R00360,Open,Flooding,0.1,Severe,29
+OBS00159,R01139,Open,Accident,0.58,Medium,19
+OBS00160,R04424,Open,Flooding,0.96,Severe,1
+OBS00161,R04537,Open,Traffic,0.65,Low,38
+OBS00162,R03375,Blocked,Chemical Hazard,0.76,Medium,34
+OBS00163,R03221,Open,Traffic,0.81,Medium,6
+OBS00164,R03765,Congested,Chemical Hazard,0.15,Medium,52
+OBS00165,R00028,Open,Fire,0.55,Medium,45
+OBS00166,R00401,Open,Traffic,0.91,Medium,8
+OBS00167,R04111,Blocked,None,0.88,High,29
+OBS00168,R03245,Open,Traffic,0.39,Severe,56
+OBS00169,R03393,Blocked,Accident,0.29,Medium,20
+OBS00170,R01661,Open,Emergency Closure,0.09,Low,48
+OBS00171,R02230,Congested,Accident,0.76,Severe,54
+OBS00172,R03550,Open,Emergency Closure,0.04,Medium,53
+OBS00173,R03744,Open,Flooding,0.26,Severe,40
+OBS00174,R02864,Open,None,0.6,Low,42
+OBS00175,R04424,Blocked,Chemical Hazard,0.97,Severe,39
+OBS00176,R04013,Open,Traffic,0.44,Low,41
+OBS00177,R03646,Blocked,None,0.15,Severe,18
+OBS00178,R00814,Open,Emergency Closure,0.93,Severe,47
+OBS00179,R03650,Open,Emergency Closure,0.63,High,52
+OBS00180,R03389,Congested,None,0.31,Low,29
+OBS00181,R02438,Open,Accident,0.45,Medium,12
+OBS00182,R04228,Open,Traffic,0.29,Low,46
+OBS00183,R04474,Open,Fire,0.42,High,31
+OBS00184,R04700,Open,Accident,0.68,Medium,5
+OBS00185,R00195,Congested,None,0.42,Severe,22
+OBS00186,R00285,Open,Emergency Closure,0.43,High,33
+OBS00187,R04734,Congested,Traffic,0.35,Medium,29
+OBS00188,R01624,Open,Chemical Hazard,0.32,Severe,5
+OBS00189,R02117,Blocked,Fire,0.08,Severe,51
+OBS00190,R04690,Congested,None,0.21,Medium,30
+OBS00191,R03840,Open,Accident,0.96,Low,10
+OBS00192,R00600,Open,Emergency Closure,0.81,Low,44
+OBS00193,R01997,Open,None,0.78,Medium,6
+OBS00194,R03440,Open,Traffic,0.6,Low,58
+OBS00195,R03842,Congested,Fire,0.42,High,29
+OBS00196,R01316,Open,Chemical Hazard,0.78,Low,17
+OBS00197,R01671,Open,Flooding,0.66,Medium,23
+OBS00198,R02715,Open,Traffic,0.79,Severe,39
+OBS00199,R00562,Congested,Fire,0.61,Medium,25
+OBS00200,R03201,Open,Traffic,0.33,Medium,24
+OBS00201,R04014,Open,Chemical Hazard,0.55,Medium,32
+OBS00202,R04196,Open,Emergency Closure,0.98,High,58
+OBS00203,R03936,Open,Chemical Hazard,0.4,Severe,5
+OBS00204,R00967,Open,None,0.17,High,49
+OBS00205,R00617,Open,None,0.12,Medium,21
+OBS00206,R04059,Congested,None,0.84,Medium,34
+OBS00207,R03619,Congested,Emergency Closure,0.92,Severe,54
+OBS00208,R01108,Open,Fire,0.99,Severe,30
+OBS00209,R00583,Congested,Traffic,0.81,Severe,40
+OBS00210,R00067,Open,None,0.81,Severe,25
+OBS00211,R00519,Open,Flooding,0.42,Medium,57
+OBS00212,R03685,Open,Flooding,0.92,Low,41
+OBS00213,R00075,Blocked,Accident,0.89,High,19
+OBS00214,R00387,Open,Flooding,0.62,Severe,5
+OBS00215,R04250,Open,Emergency Closure,0.33,Medium,49
+OBS00216,R03245,Congested,Accident,0.47,Medium,37
+OBS00217,R01614,Blocked,Emergency Closure,0.07,Medium,34
+OBS00218,R04124,Open,Fire,0.21,Low,37
+OBS00219,R00941,Open,Accident,0.41,High,34
+OBS00220,R03701,Congested,Flooding,0.39,Low,23
+OBS00221,R02573,Congested,Emergency Closure,0.87,Medium,53
+OBS00222,R01713,Open,Accident,0.03,Medium,22
+OBS00223,R01589,Open,Flooding,0.05,Medium,12
+OBS00224,R01183,Congested,Fire,0.56,Medium,57
+OBS00225,R00364,Congested,Chemical Hazard,0.99,Medium,30
+OBS00226,R03133,Open,Flooding,0.72,Low,25
+OBS00227,R01039,Open,Traffic,0.34,Severe,20
+OBS00228,R04806,Open,Fire,0.38,Severe,31
+OBS00229,R01939,Congested,Traffic,0.44,Medium,12
+OBS00230,R04477,Open,Flooding,0.99,High,37
+OBS00231,R00116,Open,Traffic,0.24,High,13
+OBS00232,R01145,Open,None,0.84,Low,44
+OBS00233,R00223,Open,Flooding,0.79,Severe,3
+OBS00234,R01680,Congested,None,0.55,Low,45
+OBS00235,R00753,Open,None,0.06,Severe,49
+OBS00236,R02017,Restricted,Emergency Closure,0.46,Severe,6
+OBS00237,R01882,Open,Emergency Closure,0.79,Severe,17
+OBS00238,R00889,Open,Accident,0.25,Medium,40
+OBS00239,R04503,Congested,Chemical Hazard,0.07,High,27
+OBS00240,R01508,Blocked,Chemical Hazard,0.2,Severe,44
+OBS00241,R03514,Open,Chemical Hazard,0.25,Severe,42
+OBS00242,R01514,Restricted,Fire,0.16,Medium,30
+OBS00243,R03168,Open,Traffic,0.63,Severe,31
+OBS00244,R03066,Blocked,Flooding,0.88,Medium,7
+OBS00245,R02069,Open,Emergency Closure,0.47,High,4
+OBS00246,R00664,Open,Flooding,0.04,High,43
+OBS00247,R04633,Congested,Emergency Closure,0.09,Medium,13
+OBS00248,R01138,Open,Flooding,0.33,Medium,23
+OBS00249,R03493,Open,Emergency Closure,0.6,Low,39
+OBS00250,R04660,Open,Accident,0.09,High,23
+OBS00251,R04761,Open,Accident,0.47,Severe,51
+OBS00252,R00942,Open,Accident,0.5,Low,54
+OBS00253,R01150,Open,Flooding,0.66,Low,1
+OBS00254,R04492,Open,None,0.16,Severe,47
+OBS00255,R04386,Open,Chemical Hazard,0.01,Medium,24
+OBS00256,R03020,Open,None,0.94,High,15
+OBS00257,R00157,Blocked,Fire,0.55,Medium,45
+OBS00258,R02994,Congested,Chemical Hazard,0.34,Medium,25
+OBS00259,R04671,Open,None,0.1,Medium,11
+OBS00260,R02752,Congested,Accident,0.75,Medium,6
+OBS00261,R03678,Open,Fire,0.01,High,7
+OBS00262,R01952,Open,Traffic,0.02,Severe,57
+OBS00263,R01251,Open,Chemical Hazard,0.22,High,5
+OBS00264,R04338,Open,Flooding,0.86,Low,22
+OBS00265,R02130,Congested,Chemical Hazard,0.65,Medium,30
+OBS00266,R01363,Open,Fire,0.99,Severe,9
+OBS00267,R00107,Open,Traffic,0.35,High,55
+OBS00268,R02413,Open,Traffic,0.74,High,17
+OBS00269,R00342,Blocked,Accident,0.69,Low,58
+OBS00270,R04375,Restricted,Accident,0.12,Low,11
+OBS00271,R01627,Open,Chemical Hazard,0.13,Severe,8
+OBS00272,R02553,Congested,Flooding,0.11,Severe,43
+OBS00273,R00458,Open,Emergency Closure,0.91,Severe,19
+OBS00274,R01928,Open,Fire,0.59,Low,26
+OBS00275,R03084,Congested,Accident,0.05,High,13
+OBS00276,R02558,Restricted,Traffic,0.53,Medium,3
+OBS00277,R02411,Open,Flooding,0.59,High,7
+OBS00278,R02340,Open,Emergency Closure,0.29,Low,26
+OBS00279,R00257,Open,Chemical Hazard,0.72,Severe,16
+OBS00280,R02603,Blocked,Accident,0.03,Low,50
+OBS00281,R00787,Open,Flooding,0.92,Low,30
+OBS00282,R01924,Open,Traffic,0.78,High,56
+OBS00283,R02409,Blocked,Fire,0.35,Severe,44
+OBS00284,R03685,Blocked,Flooding,0.69,Medium,2
+OBS00285,R00512,Open,Chemical Hazard,0.43,Low,4
+OBS00286,R01842,Open,Accident,0.89,Low,16
+OBS00287,R01795,Open,Fire,0.01,Low,15
+OBS00288,R02106,Blocked,Flooding,0.62,Low,11
+OBS00289,R03493,Blocked,Chemical Hazard,0.77,Severe,21
+OBS00290,R00134,Open,Chemical Hazard,0.79,Severe,5
+OBS00291,R00672,Open,Accident,0.86,Low,59
+OBS00292,R02107,Open,Fire,0.75,Medium,1
+OBS00293,R00060,Blocked,Traffic,0.18,High,46
+OBS00294,R03506,Open,Emergency Closure,0.0,High,17
+OBS00295,R02429,Blocked,Emergency Closure,0.0,High,17
+OBS00296,R00738,Open,Flooding,0.47,Medium,43
+OBS00297,R04029,Open,None,0.57,Severe,27
+OBS00298,R03207,Open,Chemical Hazard,0.46,Severe,52
+OBS00299,R02115,Open,Traffic,0.05,Medium,33
+OBS00300,R02665,Congested,None,0.26,Medium,14
+OBS00301,R01923,Restricted,Emergency Closure,0.71,Medium,13
+OBS00302,R03811,Open,Accident,0.73,High,38
+OBS00303,R00532,Congested,Chemical Hazard,0.44,Severe,4
+OBS00304,R03118,Open,Chemical Hazard,0.31,High,58
+OBS00305,R01171,Open,Flooding,0.48,High,26
+OBS00306,R00726,Open,Fire,0.36,Medium,53
+OBS00307,R00253,Open,Fire,0.61,Low,43
+OBS00308,R03356,Open,Flooding,0.13,Medium,16
+OBS00309,R03888,Congested,Traffic,0.25,Medium,51
+OBS00310,R01086,Open,Traffic,0.9,Medium,27
+OBS00311,R01724,Open,Flooding,0.31,High,57
+OBS00312,R01625,Open,None,0.54,Medium,55
+OBS00313,R03181,Open,Chemical Hazard,0.09,Severe,43
+OBS00314,R04331,Open,Accident,0.81,Severe,46
+OBS00315,R00434,Congested,Flooding,0.5,Medium,35
+OBS00316,R02627,Open,Traffic,0.21,Low,46
+OBS00317,R00666,Open,Fire,0.63,High,33
+OBS00318,R04062,Open,Emergency Closure,0.6,High,4
+OBS00319,R00609,Congested,Accident,0.35,Medium,13
+OBS00320,R04447,Open,Emergency Closure,0.48,Severe,13
+OBS00321,R00197,Blocked,Emergency Closure,0.6,Low,7
+OBS00322,R02746,Open,None,0.03,High,30
+OBS00323,R00028,Blocked,None,0.84,Medium,30
+OBS00324,R01313,Open,Emergency Closure,0.47,Medium,46
+OBS00325,R02266,Congested,Flooding,0.66,Severe,11
+OBS00326,R02667,Open,Traffic,0.33,Low,22
+OBS00327,R03552,Open,None,0.65,Medium,8
+OBS00328,R02211,Open,None,0.36,Low,7
+OBS00329,R04412,Open,Fire,0.59,Low,58
+OBS00330,R01705,Open,Fire,0.25,Severe,54
+OBS00331,R04037,Open,Flooding,0.08,Medium,56
+OBS00332,R04706,Blocked,Fire,0.38,Low,16
+OBS00333,R04700,Open,Fire,0.72,Medium,30
+OBS00334,R01694,Congested,Accident,0.85,Severe,59
+OBS00335,R03509,Congested,Fire,0.26,High,2
+OBS00336,R00684,Blocked,Flooding,0.83,Low,44
+OBS00337,R04664,Blocked,Flooding,0.46,Severe,44
+OBS00338,R02748,Open,None,0.24,Low,55
+OBS00339,R01571,Congested,Accident,0.92,Medium,11
+OBS00340,R01367,Congested,Flooding,0.03,High,54
+OBS00341,R00291,Restricted,Fire,0.49,Low,21
+OBS00342,R03689,Open,Chemical Hazard,0.9,Low,30
+OBS00343,R01472,Open,None,0.03,High,27
+OBS00344,R03501,Open,Fire,0.95,Severe,12
+OBS00345,R04256,Congested,Emergency Closure,0.87,High,44
+OBS00346,R03423,Open,None,0.77,Low,56
+OBS00347,R02767,Open,Chemical Hazard,0.05,High,59
+OBS00348,R03350,Open,Fire,0.22,Medium,49
+OBS00349,R03330,Blocked,Flooding,0.52,Medium,56
+OBS00350,R00760,Open,None,0.92,Severe,47
+OBS00351,R02267,Blocked,Fire,0.47,High,44
+OBS00352,R00429,Open,Accident,0.1,Medium,56
+OBS00353,R04307,Open,Traffic,0.71,Low,5
+OBS00354,R02217,Open,Traffic,0.07,Severe,35
+OBS00355,R04139,Open,None,0.6,Severe,54
+OBS00356,R02569,Open,None,0.07,High,19
+OBS00357,R03076,Congested,Chemical Hazard,0.02,Medium,11
+OBS00358,R00409,Open,Flooding,0.22,Medium,10
+OBS00359,R02503,Open,None,0.1,Medium,40
+OBS00360,R02779,Open,Traffic,0.18,Low,51
+OBS00361,R03372,Open,Accident,0.84,Severe,20
+OBS00362,R00172,Open,Chemical Hazard,0.71,High,42
+OBS00363,R00734,Congested,Chemical Hazard,0.6,Severe,35
+OBS00364,R03089,Open,Traffic,0.45,Medium,9
+OBS00365,R01558,Open,Flooding,0.37,Low,23
+OBS00366,R03537,Open,Fire,0.31,Low,57
+OBS00367,R00153,Open,Chemical Hazard,0.03,Medium,57
+OBS00368,R02565,Open,Emergency Closure,0.66,Low,26
+OBS00369,R04042,Congested,Flooding,0.77,Low,17
+OBS00370,R03817,Open,Accident,0.9,Low,39
+OBS00371,R03515,Open,Flooding,0.04,Low,49
+OBS00372,R02141,Open,Emergency Closure,0.86,Low,56
+OBS00373,R04568,Open,None,0.56,Low,28
+OBS00374,R00844,Open,None,0.04,Low,12
+OBS00375,R02173,Congested,Flooding,0.57,Severe,50
+OBS00376,R04809,Blocked,Chemical Hazard,0.67,Low,20
+OBS00377,R00824,Open,Fire,0.66,Medium,43
+OBS00378,R00868,Congested,Fire,1.0,Low,46
+OBS00379,R02538,Open,Fire,0.2,Severe,53
+OBS00380,R02298,Blocked,Accident,0.28,Low,7
+OBS00381,R00538,Open,None,0.73,Low,16
+OBS00382,R03045,Restricted,Traffic,0.7,Severe,16
+OBS00383,R00988,Congested,Flooding,0.97,Severe,40
+OBS00384,R04334,Open,Emergency Closure,0.37,Low,33
+OBS00385,R02075,Restricted,Accident,0.65,Severe,22
+OBS00386,R00745,Congested,None,0.63,Medium,2
+OBS00387,R00261,Open,Traffic,0.75,Medium,39
+OBS00388,R00120,Open,Emergency Closure,0.77,High,38
+OBS00389,R04103,Congested,Chemical Hazard,0.29,High,16
+OBS00390,R04215,Open,None,0.1,Medium,24
+OBS00391,R02269,Open,Flooding,0.98,Severe,57
+OBS00392,R01270,Congested,Traffic,0.71,High,23
+OBS00393,R03075,Open,None,0.82,Medium,55
+OBS00394,R03496,Open,Chemical Hazard,0.13,High,11
+OBS00395,R04580,Open,Flooding,0.81,Severe,21
+OBS00396,R01108,Open,Flooding,0.53,Low,23
+OBS00397,R03274,Congested,Chemical Hazard,0.62,Medium,37
+OBS00398,R03311,Open,Emergency Closure,0.8,Severe,31
+OBS00399,R00839,Blocked,Traffic,0.64,Medium,11
+OBS00400,R04293,Open,None,0.13,Medium,1
+OBS00401,R00324,Congested,Emergency Closure,0.47,Medium,35
+OBS00402,R03284,Open,Emergency Closure,0.82,Medium,9
+OBS00403,R01065,Blocked,Chemical Hazard,0.17,High,56
+OBS00404,R04524,Open,None,0.73,Severe,14
+OBS00405,R04535,Restricted,Fire,0.46,High,9
+OBS00406,R03913,Open,Flooding,0.34,Medium,38
+OBS00407,R01203,Blocked,Accident,0.91,Severe,19
+OBS00408,R02368,Restricted,Emergency Closure,0.07,Medium,51
+OBS00409,R02659,Open,Emergency Closure,0.87,Low,29
+OBS00410,R03825,Open,Fire,0.47,Low,2
+OBS00411,R00813,Open,Emergency Closure,0.88,Low,34
+OBS00412,R03222,Open,Traffic,0.55,High,47
+OBS00413,R03734,Restricted,Accident,0.72,Severe,11
+OBS00414,R02364,Congested,Traffic,0.73,Low,15
+OBS00415,R02359,Blocked,Flooding,0.18,Low,27
+OBS00416,R03112,Congested,Chemical Hazard,0.85,Severe,32
+OBS00417,R01522,Congested,Flooding,0.01,Medium,32
+OBS00418,R03159,Blocked,Emergency Closure,0.89,Severe,32
+OBS00419,R03714,Open,Fire,0.85,Medium,55
+OBS00420,R00346,Blocked,Emergency Closure,0.14,High,36
+OBS00421,R02687,Open,Fire,0.43,Low,2
+OBS00422,R04181,Open,Accident,0.43,Medium,6
+OBS00423,R02319,Open,Flooding,0.62,Low,30
+OBS00424,R01447,Blocked,None,0.87,Severe,42
+OBS00425,R02386,Open,Emergency Closure,0.79,High,53
+OBS00426,R03197,Open,Flooding,0.76,Low,5
+OBS00427,R00620,Restricted,Chemical Hazard,0.76,High,13
+OBS00428,R02571,Open,Chemical Hazard,0.94,Medium,46
+OBS00429,R02048,Blocked,Flooding,0.76,Low,37
+OBS00430,R00382,Open,Traffic,0.21,Low,43
+OBS00431,R00214,Open,Chemical Hazard,0.26,High,13
+OBS00432,R04157,Open,Accident,0.2,Severe,33
+OBS00433,R00221,Congested,None,0.17,High,28
+OBS00434,R03030,Open,None,0.79,Severe,57
+OBS00435,R00319,Blocked,Flooding,0.96,Severe,5
+OBS00436,R01071,Blocked,Traffic,0.5,Low,57
+OBS00437,R02193,Restricted,Chemical Hazard,0.4,High,53
+OBS00438,R04239,Open,Emergency Closure,0.71,Medium,18
+OBS00439,R03385,Open,Traffic,0.37,Low,23
+OBS00440,R03978,Open,Flooding,0.37,Severe,59
+OBS00441,R04138,Open,None,0.77,Low,27
+OBS00442,R01611,Open,Chemical Hazard,0.18,Severe,31
+OBS00443,R03122,Open,Flooding,0.37,Medium,59
+OBS00444,R00679,Congested,Accident,0.19,Medium,14
+OBS00445,R04660,Open,Traffic,0.9,Low,45
+OBS00446,R04673,Open,Flooding,0.92,High,1
+OBS00447,R00192,Open,Chemical Hazard,0.88,Medium,51
+OBS00448,R03293,Congested,Emergency Closure,0.88,Medium,3
+OBS00449,R01437,Blocked,Accident,0.6,High,27
+OBS00450,R03021,Open,Chemical Hazard,0.43,Severe,33
+OBS00451,R03956,Open,Flooding,0.75,Low,51
+OBS00452,R00649,Open,Chemical Hazard,0.56,Medium,4
+OBS00453,R02331,Blocked,Emergency Closure,0.17,High,14
+OBS00454,R00123,Blocked,None,0.07,Medium,20
+OBS00455,R03126,Open,Emergency Closure,0.71,Medium,30
+OBS00456,R02129,Restricted,None,0.75,Low,4
+OBS00457,R03111,Open,Chemical Hazard,0.37,Low,27
+OBS00458,R00993,Open,None,0.89,Low,52
+OBS00459,R03121,Open,Flooding,0.43,High,36
+OBS00460,R03633,Congested,Flooding,0.74,High,9
+OBS00461,R04144,Open,Accident,0.29,High,17
+OBS00462,R00843,Open,Fire,0.26,Severe,8
+OBS00463,R02699,Open,Traffic,0.9,Medium,22
+OBS00464,R00078,Open,Fire,0.13,Medium,3
+OBS00465,R01200,Open,Accident,0.67,Medium,35
+OBS00466,R02751,Open,Chemical Hazard,0.46,Medium,20
+OBS00467,R03030,Restricted,None,0.62,Severe,57
+OBS00468,R02357,Congested,Chemical Hazard,0.09,High,57
+OBS00469,R00862,Congested,Traffic,0.65,Severe,6
+OBS00470,R02976,Open,Flooding,0.72,High,47
+OBS00471,R00244,Congested,Fire,0.4,Severe,44
+OBS00472,R00640,Blocked,Flooding,0.43,Medium,58
+OBS00473,R03713,Blocked,Flooding,0.57,Low,23
+OBS00474,R04056,Open,None,0.73,High,51
+OBS00475,R00536,Open,Chemical Hazard,0.79,Severe,24
+OBS00476,R04803,Congested,Traffic,0.75,Medium,47
+OBS00477,R02102,Congested,Emergency Closure,0.96,Low,34
+OBS00478,R02017,Blocked,Chemical Hazard,0.62,High,51
+OBS00479,R01537,Open,Chemical Hazard,0.79,Severe,45
+OBS00480,R03147,Open,Accident,0.45,Low,54
+OBS00481,R02292,Blocked,Fire,0.0,High,46
+OBS00482,R02097,Congested,Accident,0.23,Severe,15
+OBS00483,R01449,Open,Fire,0.14,Severe,34
+OBS00484,R03514,Open,Fire,0.44,Low,30
+OBS00485,R01375,Open,Emergency Closure,0.34,Severe,47
+OBS00486,R04802,Blocked,Chemical Hazard,0.1,Medium,12
+OBS00487,R02423,Open,Fire,0.96,High,6
+OBS00488,R03856,Open,Fire,0.53,High,31
+OBS00489,R00362,Open,Chemical Hazard,0.31,Medium,27
+OBS00490,R03930,Open,Fire,0.49,High,33
+OBS00491,R02974,Open,Traffic,0.69,Severe,57
+OBS00492,R01630,Open,Chemical Hazard,0.12,Severe,50
+OBS00493,R01569,Open,None,0.91,Medium,53
+OBS00494,R00106,Open,Chemical Hazard,0.19,Medium,20
+OBS00495,R04628,Open,Emergency Closure,0.99,High,44
+OBS00496,R03583,Open,Fire,0.47,Medium,41
+OBS00497,R00721,Open,Accident,0.6,Low,18
+OBS00498,R02377,Open,Fire,0.66,High,5
+OBS00499,R00934,Open,Traffic,0.64,Low,40
+OBS00500,R02636,Open,Traffic,0.76,Severe,3
+OBS00501,R00888,Open,Emergency Closure,0.22,Low,51
+OBS00502,R03609,Open,Chemical Hazard,0.58,Medium,39
+OBS00503,R03381,Congested,Emergency Closure,0.44,Low,57
+OBS00504,R01812,Open,Chemical Hazard,0.95,Low,52
+OBS00505,R02736,Open,Flooding,0.84,Medium,54
+OBS00506,R00206,Blocked,Accident,0.19,High,59
+OBS00507,R04333,Open,Chemical Hazard,0.56,High,27
+OBS00508,R01192,Congested,None,0.15,Low,46
+OBS00509,R03239,Open,None,0.24,Low,19
+OBS00510,R02761,Open,Flooding,0.39,Low,10
+OBS00511,R03994,Open,Emergency Closure,0.85,Low,12
+OBS00512,R00554,Open,Accident,0.64,Medium,52
+OBS00513,R02552,Open,Flooding,0.53,Medium,16
+OBS00514,R02346,Congested,Accident,0.27,Severe,22
+OBS00515,R01278,Open,Fire,0.67,Low,41
+OBS00516,R02385,Open,None,0.87,Low,41
+OBS00517,R01029,Blocked,Emergency Closure,0.84,Medium,54
+OBS00518,R01214,Open,Accident,0.9,Low,8
+OBS00519,R03878,Open,Flooding,0.3,Medium,45
+OBS00520,R02580,Open,Traffic,0.19,Low,27
+OBS00521,R04373,Open,Emergency Closure,0.68,High,29
+OBS00522,R03521,Open,None,0.33,Medium,56
+OBS00523,R04354,Open,None,0.28,Medium,10
+OBS00524,R02139,Blocked,Traffic,0.02,Low,34
+OBS00525,R04082,Open,Traffic,0.18,Medium,19
+OBS00526,R01532,Restricted,Flooding,0.9,Severe,39
+OBS00527,R00035,Open,Traffic,0.72,Low,15
+OBS00528,R00304,Open,Fire,0.81,Low,9
+OBS00529,R02702,Open,Fire,0.85,Medium,12
+OBS00530,R01768,Open,Traffic,0.35,Severe,10
+OBS00531,R00006,Open,None,0.89,High,37
+OBS00532,R00756,Congested,Flooding,0.82,Medium,55
+OBS00533,R01538,Open,None,0.87,High,52
+OBS00534,R00843,Open,Fire,0.87,Medium,6
+OBS00535,R01704,Congested,Emergency Closure,0.34,High,58
+OBS00536,R02457,Open,Fire,0.83,Severe,12
+OBS00537,R00554,Restricted,None,0.42,Severe,56
+OBS00538,R04423,Open,Chemical Hazard,0.07,Medium,28
+OBS00539,R03131,Open,Fire,0.53,High,7
+OBS00540,R00974,Restricted,Accident,0.1,Medium,8
+OBS00541,R01725,Open,Accident,0.44,Severe,15
+OBS00542,R04200,Open,Emergency Closure,0.92,Severe,38
+OBS00543,R01089,Open,Emergency Closure,0.86,Medium,1
+OBS00544,R04385,Congested,Flooding,0.05,Severe,13
+OBS00545,R02332,Open,Accident,0.7,Medium,59
+OBS00546,R04303,Blocked,Traffic,0.3,Medium,37
+OBS00547,R00186,Open,Traffic,0.58,Severe,17
+OBS00548,R03300,Open,Accident,0.54,Low,17
+OBS00549,R00445,Congested,Chemical Hazard,0.92,High,50
+OBS00550,R01749,Blocked,Emergency Closure,0.55,Severe,1
+OBS00551,R01925,Congested,Fire,0.4,Medium,59
+OBS00552,R04119,Open,Chemical Hazard,0.39,Medium,43
+OBS00553,R00415,Blocked,Emergency Closure,0.83,Severe,15
+OBS00554,R04578,Open,Fire,0.76,Severe,45
+OBS00555,R01207,Open,None,0.91,Medium,37
+OBS00556,R02072,Open,Accident,0.8,High,4
+OBS00557,R02587,Restricted,Accident,0.73,Medium,38
+OBS00558,R02344,Open,Traffic,0.06,High,44
+OBS00559,R04488,Open,Traffic,0.55,Low,59
+OBS00560,R02323,Open,Fire,0.93,Severe,18
+OBS00561,R00989,Congested,Emergency Closure,0.27,Low,32
+OBS00562,R03704,Restricted,Accident,0.27,Low,47
+OBS00563,R02447,Congested,Accident,0.22,Severe,54
+OBS00564,R04133,Blocked,Flooding,0.04,Medium,2
+OBS00565,R00296,Open,Flooding,0.22,Severe,27
+OBS00566,R00065,Congested,Accident,0.0,High,34
+OBS00567,R00442,Open,Traffic,0.13,Medium,13
+OBS00568,R00337,Open,Emergency Closure,0.51,Low,28
+OBS00569,R04276,Open,Accident,0.9,High,17
+OBS00570,R04306,Restricted,Fire,0.44,Medium,14
+OBS00571,R03944,Congested,Accident,0.43,High,32
+OBS00572,R02049,Open,Emergency Closure,0.99,High,58
+OBS00573,R00915,Open,Emergency Closure,0.07,Low,24
+OBS00574,R01131,Blocked,Chemical Hazard,0.83,Low,56
+OBS00575,R02630,Open,Flooding,0.57,Low,14
+OBS00576,R04205,Blocked,Traffic,0.56,Medium,36
+OBS00577,R02285,Congested,None,0.29,High,45
+OBS00578,R03836,Restricted,Chemical Hazard,0.48,Severe,29
+OBS00579,R00114,Open,None,0.34,High,37
+OBS00580,R03368,Open,Flooding,0.58,Severe,27
+OBS00581,R01381,Open,Flooding,0.78,Low,47
+OBS00582,R02725,Open,Flooding,0.92,Low,10
+OBS00583,R04164,Congested,Accident,0.86,High,53
+OBS00584,R02101,Open,Traffic,0.86,Low,19
+OBS00585,R03076,Open,Traffic,0.08,High,8
+OBS00586,R02989,Restricted,Emergency Closure,0.68,Severe,49
+OBS00587,R04675,Open,Traffic,0.15,High,2
+OBS00588,R04590,Open,Traffic,0.57,Severe,59
+OBS00589,R03096,Blocked,Traffic,0.28,High,58
+OBS00590,R04374,Restricted,Accident,0.1,Low,30
+OBS00591,R03324,Open,Emergency Closure,0.08,High,58
+OBS00592,R03307,Congested,None,0.76,Medium,48
+OBS00593,R00933,Congested,Flooding,0.41,Medium,30
+OBS00594,R03607,Open,Traffic,0.4,High,37
+OBS00595,R00973,Open,Fire,0.05,Low,59
+OBS00596,R03854,Open,Fire,0.53,Low,17
+OBS00597,R02083,Open,None,0.16,Low,20
+OBS00598,R04219,Open,Traffic,0.97,High,16
+OBS00599,R01235,Open,Chemical Hazard,0.24,Severe,50
+OBS00600,R00618,Open,Traffic,0.2,Medium,7
+OBS00601,R04609,Congested,Flooding,0.1,Low,35
+OBS00602,R02639,Open,None,0.52,Severe,9
+OBS00603,R01400,Open,Accident,0.25,Low,46
+OBS00604,R04009,Open,Flooding,0.92,Severe,53
+OBS00605,R02456,Open,None,0.66,Medium,52
+OBS00606,R03292,Restricted,Flooding,0.47,High,41
+OBS00607,R01380,Open,Fire,0.9,High,13
+OBS00608,R04099,Congested,Accident,0.59,High,38
+OBS00609,R00825,Open,Accident,1.0,Severe,19
+OBS00610,R00288,Blocked,Fire,0.04,Severe,5
+OBS00611,R04775,Open,Emergency Closure,0.83,Medium,27
+OBS00612,R02826,Open,Fire,0.15,Medium,39
+OBS00613,R00245,Open,Chemical Hazard,0.3,Low,40
+OBS00614,R00164,Open,None,0.73,High,28
+OBS00615,R01573,Restricted,Fire,0.03,Low,32
+OBS00616,R04243,Open,Traffic,0.41,Low,26
+OBS00617,R04771,Blocked,Chemical Hazard,0.75,High,26
+OBS00618,R01655,Open,Fire,0.48,Severe,2
+OBS00619,R03689,Open,Chemical Hazard,0.58,Medium,45
+OBS00620,R01057,Open,Flooding,0.29,Low,16
+OBS00621,R00807,Open,Chemical Hazard,0.09,Low,27
+OBS00622,R02473,Open,Traffic,0.28,Medium,7
+OBS00623,R00110,Open,Traffic,0.21,Low,6
+OBS00624,R01414,Open,Traffic,0.06,Low,58
+OBS00625,R03370,Congested,Accident,0.93,Low,38
+OBS00626,R04759,Open,Chemical Hazard,0.74,Severe,59
+OBS00627,R04626,Open,Chemical Hazard,0.22,Medium,43
+OBS00628,R00114,Open,Flooding,0.23,High,39
+OBS00629,R02514,Open,Emergency Closure,0.18,Medium,16
+OBS00630,R03152,Congested,Fire,0.04,High,5
+OBS00631,R04321,Congested,Chemical Hazard,0.4,Medium,13
+OBS00632,R02253,Open,Accident,0.82,Low,27
+OBS00633,R01995,Open,Chemical Hazard,0.27,Severe,55
+OBS00634,R03574,Open,Accident,0.82,Medium,20
+OBS00635,R01937,Open,Emergency Closure,0.65,High,48
+OBS00636,R04139,Congested,Traffic,0.06,High,23
+OBS00637,R03876,Open,Flooding,0.28,Medium,8
+OBS00638,R02864,Open,Accident,0.23,Medium,59
+OBS00639,R02175,Blocked,Emergency Closure,0.68,Severe,29
+OBS00640,R01028,Open,Accident,0.49,Severe,18
+OBS00641,R04532,Open,Emergency Closure,0.96,Severe,43
+OBS00642,R01260,Open,Accident,0.97,Severe,11
+OBS00643,R01132,Open,Emergency Closure,0.28,Medium,52
+OBS00644,R00099,Blocked,Fire,0.18,High,50
+OBS00645,R00005,Open,Accident,0.52,Low,39
+OBS00646,R00588,Restricted,Flooding,0.35,Low,29
+OBS00647,R03021,Open,Flooding,0.74,High,3
+OBS00648,R00344,Open,Emergency Closure,0.37,High,28
+OBS00649,R02544,Congested,Fire,0.59,Severe,52
+OBS00650,R03678,Blocked,Chemical Hazard,0.82,High,34
+OBS00651,R03378,Open,Traffic,0.05,Low,58
+OBS00652,R04130,Open,Fire,0.75,Low,24
+OBS00653,R01050,Restricted,None,0.13,Medium,43
+OBS00654,R00505,Open,Emergency Closure,0.54,High,7
+OBS00655,R04383,Open,Chemical Hazard,0.64,Low,53
+OBS00656,R03701,Congested,Flooding,0.86,Medium,46
+OBS00657,R02727,Open,Traffic,0.84,Low,20
+OBS00658,R04299,Congested,Accident,0.52,Low,11
+OBS00659,R04678,Open,Accident,0.03,Medium,53
+OBS00660,R03976,Open,None,0.32,High,48
+OBS00661,R01007,Congested,None,0.51,Medium,15
+OBS00662,R03252,Congested,Flooding,0.07,Medium,15
+OBS00663,R03209,Open,Flooding,0.94,Low,46
+OBS00664,R03464,Open,Accident,0.66,High,30
+OBS00665,R04521,Congested,Traffic,0.7,Low,5
+OBS00666,R03853,Open,Traffic,0.13,Low,9
+OBS00667,R00056,Congested,Accident,0.26,Severe,24
+OBS00668,R00888,Open,Fire,0.83,Severe,52
+OBS00669,R00916,Open,Chemical Hazard,0.64,Medium,25
+OBS00670,R00881,Open,Emergency Closure,0.87,Medium,30
+OBS00671,R03657,Open,Accident,0.5,Medium,3
+OBS00672,R01851,Open,Flooding,0.66,High,29
+OBS00673,R03863,Open,Traffic,0.39,Medium,7
+OBS00674,R04483,Open,Accident,0.31,High,7
+OBS00675,R02461,Congested,Traffic,0.65,Low,11
+OBS00676,R04419,Open,None,0.24,High,47
+OBS00677,R00204,Open,Accident,0.17,Medium,31
+OBS00678,R03322,Blocked,Accident,0.92,Low,25
+OBS00679,R01479,Open,Chemical Hazard,0.7,Medium,39
+OBS00680,R00858,Congested,Fire,0.08,High,15
+OBS00681,R00437,Open,Accident,0.4,High,22
+OBS00682,R04444,Open,Traffic,0.13,Low,29
+OBS00683,R04572,Blocked,Emergency Closure,0.74,Severe,56
+OBS00684,R01274,Open,Chemical Hazard,0.77,Medium,57
+OBS00685,R03264,Open,Flooding,0.41,High,5
+OBS00686,R01247,Open,Chemical Hazard,0.41,Severe,42
+OBS00687,R00787,Open,Fire,0.34,High,5
+OBS00688,R00813,Open,Fire,0.15,High,10
+OBS00689,R04022,Open,Traffic,0.44,Low,49
+OBS00690,R03417,Open,None,0.13,Severe,19
+OBS00691,R02660,Blocked,Flooding,0.47,Medium,59
+OBS00692,R04652,Open,Accident,0.4,Severe,41
+OBS00693,R04382,Open,Accident,0.11,Medium,47
+OBS00694,R03562,Open,Flooding,0.39,Low,23
+OBS00695,R01836,Open,Fire,0.45,Medium,44
+OBS00696,R04777,Open,Emergency Closure,0.7,Low,40
+OBS00697,R04323,Blocked,Accident,0.01,High,40
+OBS00698,R03244,Congested,Flooding,0.13,High,46
+OBS00699,R03456,Open,Fire,0.36,Medium,23
+OBS00700,R03896,Open,Traffic,0.57,Medium,52
+OBS00701,R01218,Congested,None,0.61,Medium,58
+OBS00702,R02227,Open,Fire,0.25,Medium,9
+OBS00703,R00745,Congested,None,0.78,Medium,21
+OBS00704,R04722,Open,Flooding,0.62,Medium,14
+OBS00705,R00260,Open,Accident,0.79,Severe,11
+OBS00706,R03725,Open,Chemical Hazard,0.73,Severe,22
+OBS00707,R02041,Congested,Emergency Closure,0.12,High,2
+OBS00708,R03378,Open,None,0.24,Low,24
+OBS00709,R03951,Open,Accident,0.79,High,4
+OBS00710,R01003,Open,Accident,0.72,Low,53
+OBS00711,R04625,Blocked,Emergency Closure,0.06,Severe,11
+OBS00712,R03236,Open,Fire,0.0,Low,46
+OBS00713,R00208,Open,Traffic,0.12,Low,44
+OBS00714,R03179,Blocked,Fire,0.35,Severe,41
+OBS00715,R02151,Open,Chemical Hazard,0.05,Medium,47
+OBS00716,R02533,Open,None,0.84,Low,43
+OBS00717,R04240,Blocked,Chemical Hazard,0.46,Medium,13
+OBS00718,R03158,Blocked,Emergency Closure,0.26,Low,51
+OBS00719,R00713,Congested,None,0.1,Medium,7
+OBS00720,R00082,Blocked,Emergency Closure,0.54,Low,25
+OBS00721,R03527,Open,Accident,0.8,Low,58
+OBS00722,R02313,Open,Traffic,0.47,Medium,11
+OBS00723,R02723,Congested,Emergency Closure,0.34,High,8
+OBS00724,R03495,Open,Fire,0.6,Low,50
+OBS00725,R00613,Open,Emergency Closure,0.52,Low,38
+OBS00726,R00076,Open,Emergency Closure,0.47,Medium,39
+OBS00727,R04634,Open,Flooding,0.41,High,15
+OBS00728,R02333,Open,Emergency Closure,0.66,Medium,46
+OBS00729,R02996,Open,Emergency Closure,0.03,High,1
+OBS00730,R02934,Open,Chemical Hazard,0.94,High,15
+OBS00731,R03873,Congested,None,0.3,Low,43
+OBS00732,R02714,Restricted,Flooding,0.3,High,30
+OBS00733,R02644,Open,Accident,0.98,Severe,54
+OBS00734,R01972,Open,Chemical Hazard,0.3,Severe,13
+OBS00735,R04364,Blocked,Accident,0.55,High,55
+OBS00736,R00521,Open,Chemical Hazard,0.7,Low,39
+OBS00737,R01152,Congested,Chemical Hazard,0.79,High,54
+OBS00738,R03549,Congested,Flooding,0.31,Medium,42
+OBS00739,R00057,Open,Flooding,0.1,High,22
+OBS00740,R04557,Open,Accident,0.6,High,25
+OBS00741,R02314,Open,Flooding,0.23,Low,41
+OBS00742,R00944,Open,Flooding,0.81,Medium,10
+OBS00743,R02729,Congested,Chemical Hazard,0.14,Low,46
+OBS00744,R01832,Open,Flooding,0.6,High,50
+OBS00745,R04104,Open,None,0.47,Severe,12
+OBS00746,R03968,Open,Chemical Hazard,0.82,Medium,35
+OBS00747,R02892,Blocked,Flooding,0.86,High,28
+OBS00748,R03630,Open,Chemical Hazard,0.79,Low,41
+OBS00749,R04188,Open,Emergency Closure,0.26,High,15
+OBS00750,R00072,Blocked,Traffic,0.51,Medium,53
+OBS00751,R04552,Open,Fire,0.04,Severe,19
+OBS00752,R03227,Open,Traffic,0.49,Severe,16
+OBS00753,R00088,Restricted,Chemical Hazard,0.72,Medium,29
+OBS00754,R00750,Open,Flooding,0.48,Medium,33
+OBS00755,R03087,Open,Fire,0.84,Low,25
+OBS00756,R00901,Open,Emergency Closure,0.5,Severe,28
+OBS00757,R04769,Open,Chemical Hazard,0.8,High,37
+OBS00758,R03064,Open,None,0.39,Severe,23
+OBS00759,R02199,Open,Fire,0.29,Low,55
+OBS00760,R00523,Open,Emergency Closure,0.01,Low,2
+OBS00761,R03140,Restricted,Accident,0.63,Severe,34
+OBS00762,R00060,Open,Traffic,0.84,Severe,37
+OBS00763,R03729,Blocked,Fire,0.91,Medium,38
+OBS00764,R00743,Open,Chemical Hazard,0.07,Low,31
+OBS00765,R04100,Congested,Accident,0.42,Medium,15
+OBS00766,R03672,Open,Traffic,0.52,Low,57
+OBS00767,R04731,Open,None,0.5,High,51
+OBS00768,R04593,Open,Chemical Hazard,0.7,Medium,43
+OBS00769,R00578,Open,Accident,0.51,Low,3
+OBS00770,R03164,Open,Chemical Hazard,0.29,Medium,27
+OBS00771,R02605,Open,Fire,0.16,Low,58
+OBS00772,R00651,Congested,None,0.68,Severe,58
+OBS00773,R00510,Open,Accident,0.93,Low,41
+OBS00774,R03807,Open,Accident,0.34,Severe,26
+OBS00775,R01243,Congested,Flooding,0.77,Severe,53
+OBS00776,R03995,Open,Traffic,0.6,High,31
+OBS00777,R04525,Open,Fire,0.72,Low,7
+OBS00778,R00710,Blocked,None,0.69,Low,10
+OBS00779,R01248,Open,None,0.6,High,30
+OBS00780,R00446,Open,Traffic,0.28,Medium,27
+OBS00781,R02422,Open,None,0.73,High,59
+OBS00782,R00322,Open,Chemical Hazard,0.06,Low,5
+OBS00783,R03671,Open,Chemical Hazard,0.7,High,4
+OBS00784,R02744,Open,Fire,0.16,Low,17
+OBS00785,R02473,Open,Traffic,0.96,Low,40
+OBS00786,R03801,Blocked,Fire,0.41,High,35
+OBS00787,R04735,Open,Traffic,0.16,High,37
+OBS00788,R02395,Open,Chemical Hazard,0.44,Low,12
+OBS00789,R03579,Congested,Flooding,0.83,High,33
+OBS00790,R02867,Open,Flooding,0.42,Severe,32
+OBS00791,R03170,Open,Chemical Hazard,0.69,Low,17
+OBS00792,R03759,Open,Fire,0.58,Low,40
+OBS00793,R00328,Congested,Chemical Hazard,0.73,Low,5
+OBS00794,R00500,Open,Traffic,0.5,Low,52
+OBS00795,R04170,Congested,Accident,0.81,High,49
+OBS00796,R03979,Open,Flooding,0.83,High,34
+OBS00797,R04100,Open,Chemical Hazard,0.88,High,47
+OBS00798,R02759,Open,None,0.95,High,1
+OBS00799,R00707,Open,Chemical Hazard,0.39,Medium,16
+OBS00800,R02074,Blocked,Emergency Closure,0.55,High,34
+OBS00801,R02582,Open,Flooding,1.0,Low,18
+OBS00802,R00982,Congested,Traffic,0.07,Low,35
+OBS00803,R03206,Restricted,None,0.23,Severe,6
+OBS00804,R01770,Restricted,Accident,0.25,Low,24
+OBS00805,R00597,Open,Chemical Hazard,0.95,High,34
+OBS00806,R04654,Congested,Traffic,0.66,High,41
+OBS00807,R04634,Open,Flooding,0.74,High,25
+OBS00808,R00936,Open,None,0.25,Severe,34
+OBS00809,R02654,Open,Traffic,0.36,Medium,12
+OBS00810,R04519,Open,None,0.96,High,27
+OBS00811,R00969,Open,Accident,0.57,Medium,28
+OBS00812,R04303,Restricted,Fire,0.8,Severe,37
+OBS00813,R00407,Open,Traffic,0.63,Medium,45
+OBS00814,R03752,Open,Chemical Hazard,0.92,Severe,30
+OBS00815,R04719,Open,Chemical Hazard,0.47,Low,59
+OBS00816,R03637,Blocked,Chemical Hazard,0.24,Low,40
+OBS00817,R00836,Open,Fire,0.8,Medium,36
+OBS00818,R04047,Open,Traffic,0.04,Medium,5
+OBS00819,R00247,Open,Accident,0.18,Severe,30
+OBS00820,R03952,Open,Fire,0.84,Low,14
+OBS00821,R03977,Congested,None,0.72,Medium,29
+OBS00822,R00935,Congested,None,0.59,Severe,48
+OBS00823,R02104,Open,Fire,0.31,High,21
+OBS00824,R02458,Open,None,0.4,Low,53
+OBS00825,R03102,Congested,Fire,0.96,Medium,33
+OBS00826,R00484,Open,None,0.91,Low,47
+OBS00827,R01239,Congested,Accident,0.08,Low,24
+OBS00828,R01660,Open,Emergency Closure,0.01,Severe,50
+OBS00829,R02463,Blocked,Flooding,0.94,High,13
+OBS00830,R03162,Blocked,Fire,0.54,Medium,21
+OBS00831,R00011,Blocked,Fire,0.09,Low,54
+OBS00832,R04036,Blocked,Flooding,0.63,Low,30
+OBS00833,R00536,Open,Emergency Closure,0.14,Medium,25
+OBS00834,R00043,Restricted,Flooding,0.36,Low,1
+OBS00835,R01993,Open,Emergency Closure,0.1,Severe,19
+OBS00836,R00144,Open,None,0.73,Medium,56
+OBS00837,R03440,Open,Chemical Hazard,0.66,Severe,43
+OBS00838,R04181,Open,None,0.44,High,31
+OBS00839,R01309,Restricted,Emergency Closure,0.19,Low,50
+OBS00840,R03716,Open,Fire,0.19,Low,4
+OBS00841,R00229,Open,Chemical Hazard,0.55,Low,51
+OBS00842,R01486,Congested,Chemical Hazard,0.41,Medium,33
+OBS00843,R03929,Open,Chemical Hazard,0.59,High,9
+OBS00844,R01297,Blocked,Accident,0.22,Medium,11
+OBS00845,R00658,Blocked,Chemical Hazard,0.87,Low,28
+OBS00846,R00280,Open,Chemical Hazard,0.52,Low,41
+OBS00847,R01313,Open,Chemical Hazard,0.95,Medium,17
+OBS00848,R01083,Open,Flooding,0.44,High,18
+OBS00849,R02890,Blocked,Traffic,0.06,Severe,55
+OBS00850,R01448,Congested,None,0.91,Low,55
+OBS00851,R00747,Open,Flooding,0.41,High,26
+OBS00852,R03533,Open,Flooding,0.54,Severe,31
+OBS00853,R04036,Open,Fire,0.35,High,24
+OBS00854,R02511,Open,Flooding,0.32,Severe,29
+OBS00855,R01243,Open,Flooding,0.81,Severe,29
+OBS00856,R00997,Open,Emergency Closure,0.15,Medium,46
+OBS00857,R00235,Blocked,Accident,0.08,Low,32
+OBS00858,R03238,Open,None,0.69,Severe,22
+OBS00859,R03258,Open,Chemical Hazard,0.65,High,24
+OBS00860,R02080,Open,Traffic,0.25,High,9
+OBS00861,R01407,Congested,None,0.98,Low,28
+OBS00862,R01301,Open,Emergency Closure,0.41,Medium,53
+OBS00863,R02067,Open,Traffic,0.94,Medium,14
+OBS00864,R03100,Open,Emergency Closure,0.15,Medium,20
+OBS00865,R03387,Congested,Traffic,0.23,Severe,53
+OBS00866,R03734,Congested,Emergency Closure,0.39,Low,58
+OBS00867,R03868,Blocked,Accident,0.79,Low,52
+OBS00868,R02039,Blocked,Accident,0.18,Medium,54
+OBS00869,R00102,Blocked,Flooding,0.05,Low,38
+OBS00870,R03231,Congested,None,0.24,Severe,31
+OBS00871,R00667,Open,Emergency Closure,0.73,Medium,12
+OBS00872,R02252,Open,Flooding,0.46,High,9
+OBS00873,R01196,Open,Traffic,0.64,Medium,43
+OBS00874,R00399,Open,Flooding,0.79,High,30
+OBS00875,R04538,Restricted,Emergency Closure,0.38,Severe,20
+OBS00876,R03160,Blocked,Chemical Hazard,0.61,Severe,44
+OBS00877,R04012,Congested,Traffic,0.83,High,26
+OBS00878,R01299,Open,Chemical Hazard,0.08,Low,6
+OBS00879,R00706,Open,Accident,0.06,Low,12
+OBS00880,R04802,Blocked,Accident,0.02,Medium,24
+OBS00881,R03580,Blocked,None,0.28,Medium,42
+OBS00882,R00323,Open,Fire,0.11,Severe,37
+OBS00883,R01366,Open,Chemical Hazard,0.52,Severe,30
+OBS00884,R04112,Open,Fire,0.37,Medium,45
+OBS00885,R01340,Open,Emergency Closure,0.36,Severe,20
+OBS00886,R03177,Open,Traffic,0.72,High,45
+OBS00887,R01424,Open,Chemical Hazard,0.03,High,23
+OBS00888,R00440,Open,None,0.0,High,53
+OBS00889,R02973,Open,Flooding,0.15,Medium,51
+OBS00890,R03875,Open,Traffic,0.26,Low,51
+OBS00891,R02687,Open,Traffic,0.67,Severe,12
+OBS00892,R02949,Open,Flooding,0.49,Severe,17
+OBS00893,R04394,Blocked,Fire,0.89,Medium,55
+OBS00894,R00368,Blocked,Chemical Hazard,0.2,High,9
+OBS00895,R00863,Open,None,0.22,Severe,18
+OBS00896,R02266,Open,None,0.79,High,13
+OBS00897,R00943,Open,Flooding,0.74,Low,44
+OBS00898,R00492,Open,None,0.46,Severe,43
+OBS00899,R01727,Open,None,0.08,Severe,9
+OBS00900,R01084,Open,Chemical Hazard,0.31,Low,14
+OBS00901,R03311,Open,Fire,0.21,Low,31
+OBS00902,R04083,Open,Fire,0.42,Medium,36
+OBS00903,R03517,Open,Accident,0.82,Low,18
+OBS00904,R03612,Open,Chemical Hazard,0.3,High,2
+OBS00905,R02612,Congested,Emergency Closure,0.81,Severe,56
+OBS00906,R00240,Open,Chemical Hazard,0.29,Medium,40
+OBS00907,R01200,Congested,Chemical Hazard,0.26,High,48
+OBS00908,R03931,Blocked,Flooding,0.22,Low,32
+OBS00909,R03033,Open,Traffic,0.88,Severe,47
+OBS00910,R02788,Open,None,0.05,Medium,1
+OBS00911,R01203,Open,None,0.34,Low,57
+OBS00912,R01053,Congested,Flooding,0.76,Medium,28
+OBS00913,R04478,Congested,Accident,0.63,Medium,6
+OBS00914,R03768,Blocked,Flooding,0.15,Severe,31
+OBS00915,R01216,Open,Traffic,0.55,High,9
+OBS00916,R03482,Blocked,Emergency Closure,0.39,Severe,43
+OBS00917,R03328,Open,Fire,0.29,Medium,3
+OBS00918,R00023,Open,Fire,0.32,High,58
+OBS00919,R02657,Open,Flooding,0.9,Low,33
+OBS00920,R00917,Congested,Fire,0.86,Medium,26
+OBS00921,R04299,Open,Traffic,0.33,High,34
+OBS00922,R02740,Congested,None,0.23,Low,24
+OBS00923,R03592,Congested,Accident,0.72,Medium,22
+OBS00924,R02091,Open,None,0.13,High,38
+OBS00925,R01105,Blocked,Emergency Closure,0.19,Low,52
+OBS00926,R01575,Open,None,0.13,Severe,16
+OBS00927,R00522,Congested,Accident,0.64,Severe,5
+OBS00928,R00600,Open,Fire,0.33,High,38
+OBS00929,R00286,Open,Chemical Hazard,0.73,Medium,35
+OBS00930,R02080,Open,Fire,0.24,Medium,44
+OBS00931,R01719,Open,None,0.52,Medium,12
+OBS00932,R01167,Open,None,0.01,High,42
+OBS00933,R01996,Open,Fire,0.41,Low,57
+OBS00934,R03238,Congested,Emergency Closure,0.66,Medium,49
+OBS00935,R03206,Restricted,Emergency Closure,0.08,Severe,9
+OBS00936,R00446,Open,Flooding,0.86,Low,38
+OBS00937,R02992,Open,None,0.57,High,46
+OBS00938,R01360,Blocked,Accident,0.67,Medium,55
+OBS00939,R03762,Open,Traffic,0.51,Severe,8
+OBS00940,R02590,Blocked,Fire,0.31,High,5
+OBS00941,R03014,Open,Chemical Hazard,0.4,High,46
+OBS00942,R00494,Open,Fire,0.25,Medium,51
+OBS00943,R04117,Congested,Emergency Closure,0.0,Low,17
+OBS00944,R03966,Open,Fire,0.43,Severe,16
+OBS00945,R01331,Open,Flooding,0.04,Medium,23
+OBS00946,R04495,Open,Fire,0.25,Low,12
+OBS00947,R00433,Open,Flooding,0.9,High,8
+OBS00948,R03474,Congested,Emergency Closure,0.8,Medium,16
+OBS00949,R03927,Congested,Traffic,0.91,Severe,46
+OBS00950,R00086,Open,Fire,0.13,Medium,45
+OBS00951,R00757,Open,Fire,0.01,Low,29
+OBS00952,R00069,Congested,Flooding,0.8,High,20
+OBS00953,R02513,Open,Flooding,0.04,Low,42
+OBS00954,R04679,Open,Flooding,0.58,Severe,37
+OBS00955,R04249,Open,Traffic,0.39,Low,8
+OBS00956,R00708,Open,Traffic,0.35,Severe,59
+OBS00957,R00337,Open,Emergency Closure,0.28,Severe,16
+OBS00958,R02577,Open,Emergency Closure,0.98,Medium,35
+OBS00959,R03592,Blocked,Accident,0.26,Medium,54
+OBS00960,R03083,Open,Flooding,0.66,Low,27
+OBS00961,R00540,Open,Accident,0.07,High,55
+OBS00962,R02839,Open,None,0.53,Low,58
+OBS00963,R00078,Open,None,0.49,Medium,53
+OBS00964,R00972,Open,Fire,0.56,Low,4
+OBS00965,R03823,Congested,None,0.42,Low,35
+OBS00966,R02348,Open,Accident,0.2,High,26
+OBS00967,R02554,Open,Chemical Hazard,0.08,Medium,27
+OBS00968,R00447,Open,Flooding,0.28,Low,6
+OBS00969,R02067,Open,Fire,0.56,Low,34
+OBS00970,R00860,Open,Traffic,0.32,Medium,37
+OBS00971,R00026,Congested,Flooding,0.27,Low,13
+OBS00972,R03881,Congested,Fire,0.12,Severe,46
+OBS00973,R01534,Open,Accident,0.02,High,13
+OBS00974,R02592,Blocked,None,0.49,High,40
+OBS00975,R04549,Blocked,Chemical Hazard,0.64,High,19
+OBS00976,R01836,Open,Chemical Hazard,0.63,Low,12
+OBS00977,R02051,Open,None,0.15,High,36
+OBS00978,R03209,Blocked,Fire,0.01,Medium,40
+OBS00979,R01419,Blocked,None,0.47,Severe,19
+OBS00980,R00389,Open,Flooding,0.33,Severe,13
+OBS00981,R04157,Open,Flooding,0.89,Severe,5
+OBS00982,R02292,Congested,Flooding,0.01,Low,26
+OBS00983,R04096,Open,Chemical Hazard,0.9,Low,21
+OBS00984,R02529,Open,None,0.74,Severe,34
+OBS00985,R02382,Open,Emergency Closure,0.41,Severe,50
+OBS00986,R04118,Open,Accident,0.83,Low,7
+OBS00987,R02117,Blocked,Accident,0.28,Medium,50
+OBS00988,R02349,Blocked,Flooding,0.06,High,13
+OBS00989,R01331,Open,Fire,0.44,Medium,34
+OBS00990,R02766,Open,Emergency Closure,0.46,Severe,40
+OBS00991,R00742,Restricted,Chemical Hazard,0.73,Severe,39
+OBS00992,R00444,Congested,Accident,0.35,Medium,43
+OBS00993,R01011,Congested,Traffic,0.9,High,31
+OBS00994,R02380,Open,Chemical Hazard,0.16,Low,33
+OBS00995,R02666,Open,Flooding,0.99,Low,6
+OBS00996,R00311,Restricted,Flooding,0.83,Medium,18
+OBS00997,R02317,Open,Accident,0.41,Low,39
+OBS00998,R01440,Open,Chemical Hazard,0.18,Severe,24
+OBS00999,R02474,Open,Flooding,0.77,Low,15
+OBS01000,R01120,Open,Flooding,0.36,Severe,18
+OBS01001,R02660,Open,Accident,0.91,High,26
+OBS01002,R04798,Open,None,0.89,Medium,30
+OBS01003,R03533,Open,Chemical Hazard,0.31,Medium,46
+OBS01004,R01568,Blocked,Fire,0.81,Low,6
+OBS01005,R01382,Open,Chemical Hazard,0.21,Medium,35
+OBS01006,R03467,Open,Emergency Closure,0.38,Severe,32
+OBS01007,R03674,Open,None,0.43,Low,45
+OBS01008,R02272,Open,Fire,0.34,Medium,58
+OBS01009,R02068,Congested,Chemical Hazard,0.85,Medium,17
+OBS01010,R01738,Open,Fire,0.42,Medium,6
+OBS01011,R00075,Open,Fire,0.58,Low,13
+OBS01012,R02724,Open,Chemical Hazard,0.47,Medium,42
+OBS01013,R02174,Open,None,0.96,Medium,30
+OBS01014,R01663,Restricted,Fire,0.58,High,46
+OBS01015,R03747,Open,Emergency Closure,0.72,Low,25
+OBS01016,R00288,Open,Emergency Closure,0.9,High,29
+OBS01017,R00204,Open,Emergency Closure,0.13,Medium,58
+OBS01018,R00787,Open,Traffic,0.27,Severe,59
+OBS01019,R02046,Open,Fire,0.75,Medium,23
+OBS01020,R00475,Open,Flooding,0.84,Low,35
+OBS01021,R04779,Open,None,0.64,Low,1
+OBS01022,R00294,Open,Emergency Closure,0.9,High,18
+OBS01023,R03482,Open,Accident,0.56,Severe,38
+OBS01024,R00108,Open,Flooding,0.59,Low,25
+OBS01025,R02897,Congested,None,0.41,Severe,11
+OBS01026,R03648,Open,Emergency Closure,0.54,High,22
+OBS01027,R01299,Open,Flooding,0.05,Severe,30
+OBS01028,R01508,Open,Chemical Hazard,0.59,Medium,36
+OBS01029,R04430,Open,Fire,0.47,High,28
+OBS01030,R03096,Blocked,None,0.66,High,59
+OBS01031,R03645,Open,None,0.32,Severe,12
+OBS01032,R01635,Congested,Emergency Closure,0.76,Severe,24
+OBS01033,R03668,Open,Flooding,0.6,Low,51
+OBS01034,R01271,Blocked,Chemical Hazard,0.23,Medium,24
+OBS01035,R00321,Open,Traffic,0.51,Low,16
+OBS01036,R02798,Open,Chemical Hazard,0.45,High,50
+OBS01037,R04324,Congested,Chemical Hazard,0.83,High,41
+OBS01038,R04556,Open,Fire,0.61,Medium,23
+OBS01039,R02376,Restricted,None,0.16,Severe,32
+OBS01040,R00881,Open,Fire,0.99,High,56
+OBS01041,R00924,Open,Fire,0.19,Low,8
+OBS01042,R03545,Blocked,Fire,0.98,High,13
+OBS01043,R00020,Open,Accident,0.57,Medium,30
+OBS01044,R02288,Open,Accident,0.12,High,5
+OBS01045,R02613,Open,Fire,0.03,Severe,10
+OBS01046,R01730,Open,Chemical Hazard,0.47,High,13
+OBS01047,R01996,Open,Accident,0.57,High,9
+OBS01048,R00699,Blocked,Emergency Closure,0.5,Low,23
+OBS01049,R03842,Open,Accident,0.95,Severe,23
+OBS01050,R04151,Open,Chemical Hazard,0.53,Medium,39
+OBS01051,R02723,Congested,Emergency Closure,0.31,Medium,12
+OBS01052,R00004,Open,Accident,0.96,High,41
+OBS01053,R01840,Restricted,Flooding,0.78,Medium,38
+OBS01054,R02840,Open,Traffic,0.79,High,34
+OBS01055,R02162,Congested,Chemical Hazard,0.17,Severe,50
+OBS01056,R04053,Congested,None,0.66,Severe,47
+OBS01057,R02223,Open,Fire,0.85,High,43
+OBS01058,R03223,Blocked,Traffic,0.61,Severe,24
+OBS01059,R01602,Restricted,Flooding,0.32,Low,11
+OBS01060,R01146,Open,Traffic,0.34,Low,17
+OBS01061,R02392,Open,None,0.71,Severe,3
+OBS01062,R00864,Open,Emergency Closure,0.72,Medium,18
+OBS01063,R03209,Open,Flooding,0.7,Medium,47
+OBS01064,R04017,Open,Fire,0.24,Low,23
+OBS01065,R00574,Open,None,0.77,High,20
+OBS01066,R01235,Open,Accident,0.7,High,29
+OBS01067,R01800,Open,None,0.17,Low,12
+OBS01068,R03021,Open,Flooding,0.94,High,53
+OBS01069,R00071,Congested,Emergency Closure,0.77,Low,12
+OBS01070,R02253,Open,Traffic,0.44,Severe,35
+OBS01071,R04355,Open,Emergency Closure,0.66,Severe,58
+OBS01072,R02897,Open,Chemical Hazard,0.6,Low,20
+OBS01073,R00511,Open,Chemical Hazard,0.53,Low,41
+OBS01074,R00833,Open,Accident,0.33,Medium,4
+OBS01075,R00108,Open,None,0.91,High,14
+OBS01076,R02508,Open,Fire,0.05,Low,48
+OBS01077,R04207,Open,Chemical Hazard,0.56,High,26
+OBS01078,R00507,Open,Flooding,0.44,Low,17
+OBS01079,R03235,Open,Accident,0.87,Severe,19
+OBS01080,R01926,Restricted,Accident,0.35,Medium,10
+OBS01081,R00289,Open,Chemical Hazard,0.48,Low,12
+OBS01082,R02635,Blocked,Flooding,0.74,Severe,29
+OBS01083,R02226,Blocked,Flooding,0.96,Severe,26
+OBS01084,R04733,Blocked,Traffic,0.41,Severe,59
+OBS01085,R02097,Open,Fire,0.7,Severe,15
+OBS01086,R03825,Open,Chemical Hazard,0.8,Low,15
+OBS01087,R04750,Open,Accident,0.79,High,34
+OBS01088,R03779,Restricted,Fire,0.42,Severe,39
+OBS01089,R04338,Blocked,Accident,0.86,Medium,37
+OBS01090,R01167,Open,Fire,0.75,Severe,10
+OBS01091,R00742,Open,None,0.71,Medium,24
+OBS01092,R03550,Open,Chemical Hazard,0.48,Low,10
+OBS01093,R01742,Restricted,Emergency Closure,0.29,Severe,50
+OBS01094,R00933,Congested,Chemical Hazard,0.26,Low,30
+OBS01095,R01940,Congested,Traffic,0.47,Low,43
+OBS01096,R01750,Open,None,0.37,High,6
+OBS01097,R01823,Blocked,None,0.28,Low,35
+OBS01098,R00401,Open,Accident,0.23,Medium,46
+OBS01099,R00066,Open,Flooding,0.88,Medium,48
+OBS01100,R04751,Open,Accident,0.25,Medium,24
+OBS01101,R02818,Open,None,0.45,Severe,4
+OBS01102,R01933,Blocked,Chemical Hazard,0.15,Low,24
+OBS01103,R00826,Blocked,Traffic,0.61,High,38
+OBS01104,R04473,Open,Traffic,0.45,Low,30
+OBS01105,R04010,Open,Accident,0.9,Medium,38
+OBS01106,R00650,Open,Chemical Hazard,0.92,Low,15
+OBS01107,R03873,Open,Traffic,0.02,Medium,17
+OBS01108,R03857,Blocked,Emergency Closure,0.67,Medium,3
+OBS01109,R04458,Open,Fire,0.95,Severe,43
+OBS01110,R01928,Congested,Fire,0.7,Severe,25
+OBS01111,R03113,Congested,None,0.67,High,57
+OBS01112,R02601,Open,Emergency Closure,0.77,Severe,3
+OBS01113,R01109,Blocked,None,0.85,Severe,11
+OBS01114,R01669,Congested,Chemical Hazard,0.46,Medium,16
+OBS01115,R00158,Open,None,0.55,Low,14
+OBS01116,R02801,Open,Flooding,0.16,Severe,54
+OBS01117,R03029,Open,Flooding,0.91,Medium,1
+OBS01118,R02708,Open,Emergency Closure,0.67,Low,21
+OBS01119,R04620,Open,Flooding,0.5,High,18
+OBS01120,R02830,Open,Flooding,0.62,Low,15
+OBS01121,R00409,Open,Accident,0.72,Low,15
+OBS01122,R03635,Open,Accident,0.38,Low,4
+OBS01123,R04454,Open,Flooding,0.13,Low,53
+OBS01124,R02067,Blocked,Traffic,0.57,Medium,17
+OBS01125,R03966,Blocked,Emergency Closure,0.93,Medium,54
+OBS01126,R02251,Congested,None,0.75,Low,14
+OBS01127,R02892,Open,Traffic,0.86,Severe,23
+OBS01128,R04546,Open,Chemical Hazard,0.63,Severe,54
+OBS01129,R03572,Open,Emergency Closure,0.46,Medium,59
+OBS01130,R02007,Open,Fire,0.22,Medium,33
+OBS01131,R04224,Congested,None,0.96,Low,35
+OBS01132,R02361,Open,Fire,0.37,Low,17
+OBS01133,R00435,Open,Accident,0.29,Severe,53
+OBS01134,R02441,Open,Chemical Hazard,0.87,Medium,14
+OBS01135,R04680,Open,Flooding,0.37,High,38
+OBS01136,R00620,Blocked,Accident,0.49,High,25
+OBS01137,R03507,Blocked,Chemical Hazard,0.29,Low,23
+OBS01138,R01856,Open,Accident,0.47,High,32
+OBS01139,R02863,Open,Chemical Hazard,0.64,Low,57
+OBS01140,R01612,Open,Chemical Hazard,0.01,Severe,50
+OBS01141,R02961,Open,Accident,0.8,High,18
+OBS01142,R02133,Open,Fire,0.98,Severe,50
+OBS01143,R04313,Open,Accident,0.3,Medium,42
+OBS01144,R02840,Blocked,Traffic,0.78,Medium,3
+OBS01145,R02761,Open,Emergency Closure,0.54,Low,42
+OBS01146,R01540,Open,Fire,0.44,Low,44
+OBS01147,R03583,Open,Emergency Closure,0.3,High,26
+OBS01148,R04024,Open,Flooding,0.25,High,53
+OBS01149,R02532,Open,Accident,0.77,Medium,11
+OBS01150,R02902,Open,Accident,0.59,Low,3
+OBS01151,R03913,Open,Emergency Closure,0.4,Medium,35
+OBS01152,R02755,Open,Fire,0.26,Severe,16
+OBS01153,R02976,Congested,None,0.26,Low,49
+OBS01154,R02930,Open,Emergency Closure,0.34,High,55
+OBS01155,R01621,Open,Flooding,0.48,Low,26
+OBS01156,R03835,Congested,Flooding,0.07,Low,29
+OBS01157,R03986,Open,None,0.98,High,18
+OBS01158,R00893,Open,Traffic,0.75,Low,2
+OBS01159,R01085,Open,Chemical Hazard,0.4,Severe,5
+OBS01160,R02327,Congested,Emergency Closure,0.91,Medium,33
+OBS01161,R03843,Open,Traffic,0.61,Medium,12
+OBS01162,R01203,Open,Accident,0.73,Severe,40
+OBS01163,R00692,Open,Accident,0.36,High,25
+OBS01164,R03688,Open,Accident,0.65,Medium,10
+OBS01165,R02310,Congested,None,0.18,Severe,14
+OBS01166,R02526,Blocked,None,0.01,Medium,40
+OBS01167,R04576,Open,Chemical Hazard,0.99,Severe,28
+OBS01168,R00295,Blocked,Emergency Closure,0.2,Severe,33
+OBS01169,R04198,Open,Emergency Closure,0.65,Low,46
+OBS01170,R04436,Blocked,Traffic,0.98,Medium,20
+OBS01171,R01670,Congested,Emergency Closure,0.16,Severe,13
+OBS01172,R03151,Open,Traffic,0.62,Low,25
+OBS01173,R01238,Open,Emergency Closure,1.0,Medium,4
+OBS01174,R02499,Open,Accident,0.14,Medium,44
+OBS01175,R03770,Open,Emergency Closure,0.95,Low,13
+OBS01176,R04111,Open,None,0.23,Medium,50
+OBS01177,R03907,Open,Fire,0.19,High,44
+OBS01178,R00331,Blocked,Chemical Hazard,0.29,Low,44
+OBS01179,R03116,Open,Traffic,0.31,High,7
+OBS01180,R01492,Open,Chemical Hazard,0.96,Low,38
+OBS01181,R00089,Blocked,Chemical Hazard,0.82,Medium,48
+OBS01182,R03572,Open,None,0.0,Severe,33
+OBS01183,R01593,Congested,Accident,0.59,Medium,14
+OBS01184,R04232,Open,Accident,0.57,Low,41
+OBS01185,R03335,Open,Emergency Closure,0.02,High,19
+OBS01186,R04204,Open,Fire,0.6,Severe,34
+OBS01187,R04596,Open,Flooding,0.58,High,45
+OBS01188,R01200,Open,Accident,0.36,Medium,58
+OBS01189,R03864,Open,None,0.24,Medium,19
+OBS01190,R02103,Restricted,Fire,0.48,Low,51
+OBS01191,R04115,Open,Accident,0.54,Low,37
+OBS01192,R03697,Blocked,Emergency Closure,0.86,Low,13
+OBS01193,R02429,Open,Traffic,0.25,High,46
+OBS01194,R01815,Open,Traffic,0.34,Severe,33
+OBS01195,R00584,Congested,Accident,0.51,Low,10
+OBS01196,R04368,Open,Flooding,0.03,Severe,21
+OBS01197,R04328,Open,Traffic,0.64,High,57
+OBS01198,R01285,Congested,Flooding,0.92,Low,57
+OBS01199,R04032,Blocked,Traffic,0.62,Medium,52
+OBS01200,R02179,Open,None,0.32,High,48
+OBS01201,R00706,Open,Chemical Hazard,0.07,Low,48
+OBS01202,R02813,Open,Accident,0.22,Low,17
+OBS01203,R01592,Congested,Traffic,0.02,Severe,32
+OBS01204,R04012,Open,Accident,0.96,Severe,54
+OBS01205,R01579,Open,Flooding,0.2,Low,16
+OBS01206,R01489,Open,Traffic,0.44,Low,28
+OBS01207,R02535,Open,Emergency Closure,0.53,High,26
+OBS01208,R03550,Open,Emergency Closure,0.97,High,36
+OBS01209,R03813,Congested,Accident,0.46,Severe,46
+OBS01210,R04405,Open,Fire,0.44,Low,41
+OBS01211,R03718,Restricted,None,0.88,Severe,20
+OBS01212,R01546,Open,None,0.39,Low,28
+OBS01213,R01640,Open,Chemical Hazard,0.02,Medium,3
+OBS01214,R00082,Open,Flooding,0.72,Severe,7
+OBS01215,R03756,Restricted,Accident,0.33,High,28
+OBS01216,R04559,Open,Emergency Closure,0.92,High,29
+OBS01217,R00653,Open,Flooding,0.64,High,57
+OBS01218,R02300,Open,None,0.1,High,13
+OBS01219,R03126,Open,Flooding,0.19,Medium,20
+OBS01220,R00417,Open,Fire,0.74,High,4
+OBS01221,R02284,Open,None,0.81,Medium,50
+OBS01222,R01439,Open,Fire,0.53,High,30
+OBS01223,R02285,Blocked,None,0.81,High,53
+OBS01224,R01391,Open,Flooding,0.67,High,15
+OBS01225,R02598,Congested,Chemical Hazard,0.88,Medium,43
+OBS01226,R03648,Open,Emergency Closure,0.95,Medium,47
+OBS01227,R00903,Blocked,Flooding,0.31,Severe,2
+OBS01228,R02150,Open,Traffic,0.99,Medium,39
+OBS01229,R03061,Open,Chemical Hazard,0.09,High,12
+OBS01230,R02063,Congested,None,0.21,Severe,39
+OBS01231,R03089,Congested,Chemical Hazard,0.94,High,35
+OBS01232,R00355,Open,Emergency Closure,0.54,Severe,49
+OBS01233,R04051,Restricted,Chemical Hazard,0.14,High,26
+OBS01234,R03681,Blocked,Emergency Closure,0.34,Medium,56
+OBS01235,R02438,Open,Traffic,0.22,High,44
+OBS01236,R02305,Restricted,Emergency Closure,0.66,Severe,52
+OBS01237,R01990,Open,Accident,0.82,Medium,56
+OBS01238,R01257,Blocked,Emergency Closure,0.74,Low,46
+OBS01239,R03477,Open,Accident,0.92,Medium,43
+OBS01240,R00528,Open,Traffic,0.82,Low,25
+OBS01241,R00970,Open,Traffic,0.93,Severe,33
+OBS01242,R00591,Open,Fire,0.4,High,34
+OBS01243,R00478,Open,Accident,0.96,Medium,41
+OBS01244,R04507,Blocked,None,0.89,Low,11
+OBS01245,R02581,Open,Fire,0.14,High,42
+OBS01246,R01195,Open,Accident,0.99,High,44
+OBS01247,R03341,Open,Chemical Hazard,0.1,Low,43
+OBS01248,R03499,Open,Fire,0.26,Medium,17
+OBS01249,R01310,Open,None,0.49,High,26
+OBS01250,R02075,Open,Emergency Closure,0.86,Severe,34
+OBS01251,R00285,Open,Chemical Hazard,0.52,High,34
+OBS01252,R03631,Open,Accident,0.5,Severe,36
+OBS01253,R02784,Congested,Fire,0.23,Low,59
+OBS01254,R01468,Congested,Emergency Closure,0.06,High,9
+OBS01255,R02220,Open,Accident,0.5,High,34
+OBS01256,R03392,Restricted,Emergency Closure,0.96,Severe,34
+OBS01257,R02384,Open,Traffic,0.93,Severe,37
+OBS01258,R00541,Open,Traffic,0.42,Medium,25
+OBS01259,R04183,Open,None,0.52,Low,35
+OBS01260,R02786,Open,Traffic,0.71,High,47
+OBS01261,R02802,Open,Chemical Hazard,0.8,Low,26
+OBS01262,R02924,Open,Chemical Hazard,0.54,Low,25
+OBS01263,R01596,Restricted,Emergency Closure,0.91,Low,33
+OBS01264,R00050,Open,Emergency Closure,0.58,Medium,10
+OBS01265,R03056,Open,Flooding,0.61,Medium,3
+OBS01266,R01399,Open,None,0.37,Severe,8
+OBS01267,R00804,Restricted,None,0.74,Severe,52
+OBS01268,R03310,Blocked,Flooding,0.69,Low,38
+OBS01269,R00526,Open,Accident,0.79,Low,49
+OBS01270,R00345,Congested,Accident,0.41,High,45
+OBS01271,R03751,Open,Accident,0.85,Medium,5
+OBS01272,R01802,Congested,Accident,0.6,Low,14
+OBS01273,R00266,Open,Traffic,1.0,Medium,36
+OBS01274,R01768,Open,Fire,0.27,Low,48
+OBS01275,R02410,Open,Fire,0.9,Low,48
+OBS01276,R00062,Open,Traffic,0.79,Medium,59
+OBS01277,R04103,Open,Fire,0.1,Medium,5
+OBS01278,R03915,Open,Flooding,0.31,Medium,57
+OBS01279,R02585,Open,Traffic,0.57,Severe,48
+OBS01280,R04048,Open,Flooding,0.68,Severe,32
+OBS01281,R03135,Restricted,Traffic,0.08,Severe,58
+OBS01282,R02514,Congested,Flooding,0.47,High,11
+OBS01283,R04411,Congested,Fire,0.97,High,16
+OBS01284,R00035,Open,None,0.5,High,25
+OBS01285,R03329,Open,Fire,0.89,Medium,16
+OBS01286,R00118,Congested,None,0.25,High,33
+OBS01287,R01387,Open,Emergency Closure,0.25,High,5
+OBS01288,R02343,Open,Emergency Closure,0.98,Low,15
+OBS01289,R00777,Open,Flooding,0.43,Medium,11
+OBS01290,R03772,Open,Emergency Closure,0.67,Medium,28
+OBS01291,R02813,Open,Chemical Hazard,0.36,Low,2
+OBS01292,R01868,Open,Flooding,0.27,Low,38
+OBS01293,R02560,Open,Emergency Closure,0.98,Low,22
+OBS01294,R00356,Open,Accident,0.11,Severe,46
+OBS01295,R00556,Open,Emergency Closure,0.25,Medium,7
+OBS01296,R01964,Open,Traffic,0.4,Severe,8
+OBS01297,R01980,Blocked,Fire,0.07,High,22
+OBS01298,R02637,Open,Fire,0.59,Low,14
+OBS01299,R00856,Open,Flooding,0.3,Severe,44
+OBS01300,R00185,Blocked,Traffic,0.87,Severe,50
+OBS01301,R01846,Open,Emergency Closure,0.66,Severe,10
+OBS01302,R03218,Open,Traffic,0.6,Low,13
+OBS01303,R02084,Open,None,0.28,High,18
+OBS01304,R01004,Restricted,Fire,0.16,Low,30
+OBS01305,R01645,Open,Flooding,0.13,High,43
+OBS01306,R01373,Open,Flooding,0.86,High,44
+OBS01307,R02738,Open,Traffic,0.57,Medium,52
+OBS01308,R01503,Blocked,Emergency Closure,0.54,High,12
+OBS01309,R03995,Open,Emergency Closure,0.14,Low,31
+OBS01310,R01096,Blocked,Flooding,0.99,Medium,55
+OBS01311,R01550,Open,Flooding,0.8,Medium,7
+OBS01312,R03549,Restricted,Traffic,0.07,Severe,22
+OBS01313,R03067,Congested,Traffic,0.09,Medium,58
+OBS01314,R00909,Open,Emergency Closure,0.7,Low,34
+OBS01315,R02401,Open,Traffic,0.01,Medium,17
+OBS01316,R01938,Congested,Accident,0.34,High,7
+OBS01317,R02782,Blocked,Fire,0.1,High,52
+OBS01318,R01677,Blocked,Fire,0.95,Medium,55
+OBS01319,R03153,Open,Chemical Hazard,0.01,Medium,29
+OBS01320,R01883,Open,Chemical Hazard,0.21,Severe,23
+OBS01321,R03502,Restricted,Accident,0.95,Low,29
+OBS01322,R01425,Open,Chemical Hazard,0.25,High,26
+OBS01323,R00414,Blocked,Chemical Hazard,0.25,Low,53
+OBS01324,R01217,Open,Traffic,0.85,Severe,54
+OBS01325,R04128,Restricted,Accident,0.29,High,26
+OBS01326,R00236,Open,Accident,0.21,Low,57
+OBS01327,R02066,Congested,Chemical Hazard,0.57,Low,4
+OBS01328,R04312,Open,Chemical Hazard,0.42,High,30
+OBS01329,R02037,Open,Fire,0.37,High,39
+OBS01330,R00012,Open,Accident,0.25,Medium,24
+OBS01331,R02611,Open,None,0.63,High,32
+OBS01332,R02715,Congested,Chemical Hazard,0.49,Medium,13
+OBS01333,R03210,Open,Traffic,0.13,Medium,51
+OBS01334,R01590,Restricted,Emergency Closure,0.57,High,25
+OBS01335,R03134,Open,Accident,0.94,Low,27
+OBS01336,R02256,Open,Flooding,0.63,Low,7
+OBS01337,R01794,Open,None,0.93,Severe,26
+OBS01338,R03432,Blocked,Flooding,0.86,Low,46
+OBS01339,R00798,Open,None,0.2,Severe,56
+OBS01340,R01894,Restricted,Chemical Hazard,0.98,Low,40
+OBS01341,R04348,Open,Accident,0.97,Severe,58
+OBS01342,R02190,Blocked,Accident,0.28,Severe,54
+OBS01343,R03977,Congested,Chemical Hazard,0.95,Low,51
+OBS01344,R02882,Open,Traffic,1.0,Low,11
+OBS01345,R04305,Open,None,0.64,Medium,39
+OBS01346,R03879,Open,Traffic,0.63,Medium,37
+OBS01347,R02013,Blocked,Emergency Closure,0.36,Low,53
+OBS01348,R02747,Open,Accident,0.58,Low,34
+OBS01349,R02582,Open,Chemical Hazard,0.03,Medium,22
+OBS01350,R00172,Open,Traffic,0.82,Medium,57
+OBS01351,R03172,Open,Accident,0.5,Medium,19
+OBS01352,R03349,Open,Traffic,0.09,Low,47
+OBS01353,R01231,Open,None,0.56,Low,8
+OBS01354,R02461,Open,Emergency Closure,0.81,Severe,1
+OBS01355,R03611,Open,Traffic,0.39,Medium,32
+OBS01356,R00082,Congested,Chemical Hazard,0.3,Severe,47
+OBS01357,R01145,Open,Emergency Closure,0.94,Low,59
+OBS01358,R02089,Open,Emergency Closure,0.33,High,52
+OBS01359,R03887,Open,Accident,0.89,Severe,54
+OBS01360,R04304,Blocked,Fire,0.02,High,3
+OBS01361,R04286,Open,None,0.94,Medium,17
+OBS01362,R03996,Open,Accident,0.75,High,49
+OBS01363,R02527,Blocked,Flooding,0.3,Low,15
+OBS01364,R04509,Open,Emergency Closure,0.16,Severe,26
+OBS01365,R02433,Open,Emergency Closure,0.46,High,35
+OBS01366,R02053,Congested,Accident,0.91,Severe,13
+OBS01367,R03151,Open,Fire,0.25,Severe,21
+OBS01368,R00478,Blocked,Traffic,0.53,Medium,39
+OBS01369,R01364,Open,Flooding,0.2,Medium,27
+OBS01370,R02050,Open,Flooding,0.86,High,20
+OBS01371,R04578,Open,Flooding,0.39,Low,49
+OBS01372,R00564,Blocked,None,0.88,Severe,19
+OBS01373,R02127,Open,None,0.06,Severe,24
+OBS01374,R01175,Open,Accident,0.13,Severe,51
+OBS01375,R00720,Open,None,0.08,Medium,27
+OBS01376,R02919,Open,Chemical Hazard,0.43,High,56
+OBS01377,R02646,Congested,Flooding,0.8,High,18
+OBS01378,R00290,Blocked,Emergency Closure,0.95,Low,26
+OBS01379,R01449,Open,Flooding,0.47,High,22
+OBS01380,R03027,Blocked,Traffic,0.33,Severe,5
+OBS01381,R01314,Open,Traffic,0.44,Low,27
+OBS01382,R02539,Open,Flooding,0.07,Severe,32
+OBS01383,R02603,Open,Fire,0.22,High,8
+OBS01384,R02459,Open,Traffic,0.04,Severe,39
+OBS01385,R04181,Open,None,0.45,Severe,3
+OBS01386,R04631,Open,Emergency Closure,0.85,High,2
+OBS01387,R01820,Open,None,0.01,Severe,23
+OBS01388,R04665,Restricted,Flooding,0.44,Low,52
+OBS01389,R02569,Open,Flooding,0.95,High,3
+OBS01390,R01521,Open,Traffic,0.54,High,50
+OBS01391,R04706,Blocked,Chemical Hazard,0.91,Medium,57
+OBS01392,R04347,Open,Fire,0.52,Severe,7
+OBS01393,R03895,Open,Accident,0.82,High,41
+OBS01394,R02279,Open,Accident,0.94,Severe,27
+OBS01395,R01169,Congested,None,0.0,High,18
+OBS01396,R01998,Open,Chemical Hazard,0.38,Medium,22
+OBS01397,R01261,Open,Accident,0.42,Medium,47
+OBS01398,R03626,Congested,Flooding,0.0,Medium,34
+OBS01399,R03573,Open,Chemical Hazard,0.05,Low,46
+OBS01400,R01341,Open,Chemical Hazard,0.92,High,40
+OBS01401,R02229,Open,Fire,0.98,Severe,6
+OBS01402,R01899,Open,Fire,0.96,Severe,57
+OBS01403,R03633,Open,Fire,0.27,High,45
+OBS01404,R00884,Open,Traffic,0.4,Medium,50
+OBS01405,R04113,Open,Fire,0.85,Low,27
+OBS01406,R00973,Open,Accident,0.4,Low,31
+OBS01407,R03210,Open,Traffic,0.01,Medium,49
+OBS01408,R01717,Open,Traffic,0.07,Severe,42
+OBS01409,R03656,Open,Traffic,0.89,Low,54
+OBS01410,R00989,Open,Flooding,0.65,Medium,12
+OBS01411,R00330,Open,None,0.63,High,9
+OBS01412,R03258,Open,Flooding,0.59,Medium,12
+OBS01413,R03466,Open,Accident,0.51,High,18
+OBS01414,R02087,Blocked,Accident,0.22,Low,16
+OBS01415,R02087,Restricted,Accident,0.6,Low,56
+OBS01416,R03827,Restricted,Traffic,0.86,High,56
+OBS01417,R00838,Open,None,0.71,Medium,19
+OBS01418,R03486,Blocked,Accident,0.88,Low,30
+OBS01419,R04182,Open,Traffic,0.88,Low,31
+OBS01420,R00001,Open,Chemical Hazard,0.67,Severe,6
+OBS01421,R03029,Open,Flooding,0.37,High,21
+OBS01422,R02624,Open,Flooding,0.91,Medium,42
+OBS01423,R04000,Congested,None,0.84,Severe,38
+OBS01424,R03932,Open,Emergency Closure,0.02,Low,22
+OBS01425,R02880,Open,Flooding,0.2,Medium,13
+OBS01426,R01597,Blocked,Accident,0.94,Severe,54
+OBS01427,R02101,Open,Flooding,0.51,High,21
+OBS01428,R00291,Open,Accident,0.15,High,39
+OBS01429,R00067,Open,Chemical Hazard,0.51,Medium,8
+OBS01430,R00260,Open,Fire,0.1,Severe,49
+OBS01431,R04656,Blocked,Emergency Closure,0.1,Low,24
+OBS01432,R03733,Open,Chemical Hazard,0.49,Low,11
+OBS01433,R02626,Open,Traffic,0.67,Medium,50
+OBS01434,R00997,Open,Accident,0.5,Low,8
+OBS01435,R03143,Open,None,0.82,Severe,31
+OBS01436,R01679,Congested,None,0.14,Severe,9
+OBS01437,R00610,Open,Accident,0.72,Severe,10
+OBS01438,R03093,Congested,None,0.71,High,7
+OBS01439,R04512,Blocked,Traffic,0.33,Low,8
+OBS01440,R03320,Open,Chemical Hazard,0.47,Low,1
+OBS01441,R01375,Open,Traffic,0.72,Low,28
+OBS01442,R00515,Open,Fire,0.07,Severe,53
+OBS01443,R02231,Blocked,Accident,0.39,Severe,14
+OBS01444,R00979,Open,Traffic,0.2,High,47
+OBS01445,R01013,Blocked,Flooding,0.39,Severe,51
+OBS01446,R00694,Congested,Accident,0.85,High,25
+OBS01447,R03238,Open,Traffic,0.39,Medium,39
+OBS01448,R01916,Open,Flooding,0.58,Medium,47
+OBS01449,R00428,Blocked,Fire,0.46,Medium,26
+OBS01450,R02575,Open,Traffic,0.7,High,50
+OBS01451,R03129,Congested,Fire,0.16,Low,3
+OBS01452,R00454,Open,Flooding,0.25,Low,50
+OBS01453,R04130,Open,Traffic,0.36,Low,28
+OBS01454,R02635,Blocked,Chemical Hazard,0.75,Medium,9
+OBS01455,R03809,Open,Emergency Closure,0.28,High,13
+OBS01456,R03169,Open,Fire,0.35,Severe,51
+OBS01457,R00424,Open,Chemical Hazard,0.62,Low,1
+OBS01458,R01814,Blocked,Traffic,0.21,Medium,20
+OBS01459,R00378,Open,Emergency Closure,0.62,Severe,42
+OBS01460,R03231,Open,Emergency Closure,0.89,Medium,7
+OBS01461,R04377,Open,Chemical Hazard,0.54,Medium,42
+OBS01462,R04570,Open,Chemical Hazard,0.08,Severe,11
+OBS01463,R03703,Open,Flooding,0.64,Severe,32
+OBS01464,R00129,Open,Emergency Closure,0.68,Medium,42
+OBS01465,R03842,Congested,Accident,0.6,Severe,48
+OBS01466,R00377,Open,None,0.62,Medium,47
+OBS01467,R00033,Open,Chemical Hazard,0.82,Low,54
+OBS01468,R04464,Open,Chemical Hazard,0.25,Medium,31
+OBS01469,R01787,Open,Chemical Hazard,0.45,Low,3
+OBS01470,R03856,Blocked,Emergency Closure,0.23,Medium,15
+OBS01471,R03173,Open,None,0.26,High,51
+OBS01472,R04030,Open,Emergency Closure,0.52,High,43
+OBS01473,R00093,Open,Fire,0.11,Low,57
+OBS01474,R04660,Congested,Chemical Hazard,0.78,Medium,29
+OBS01475,R03104,Open,Traffic,0.64,Severe,32
+OBS01476,R02031,Open,Fire,0.77,Severe,51
+OBS01477,R01045,Open,Fire,0.03,Low,57
+OBS01478,R02078,Open,Traffic,0.42,Medium,9
+OBS01479,R00964,Congested,Chemical Hazard,0.33,Low,34
+OBS01480,R01834,Congested,Chemical Hazard,0.37,High,36
+OBS01481,R00853,Congested,Chemical Hazard,0.13,High,30
+OBS01482,R00791,Open,Accident,0.28,Low,29
+OBS01483,R03239,Restricted,Accident,0.28,Low,50
+OBS01484,R01499,Blocked,Accident,0.07,Medium,3
+OBS01485,R01981,Congested,Chemical Hazard,0.75,Severe,30
+OBS01486,R02889,Open,Emergency Closure,0.14,High,37
+OBS01487,R04559,Open,Accident,0.48,High,21
+OBS01488,R00879,Open,Fire,0.63,High,56
+OBS01489,R01495,Open,Fire,0.84,Medium,19
+OBS01490,R02831,Blocked,Emergency Closure,0.85,Low,45
+OBS01491,R01609,Open,Traffic,0.91,Severe,23
+OBS01492,R04571,Congested,None,0.66,Severe,44
+OBS01493,R04560,Open,Accident,0.97,Low,22
+OBS01494,R00253,Open,Chemical Hazard,0.58,Severe,18
+OBS01495,R01664,Open,Fire,0.65,Severe,11
+OBS01496,R01176,Open,None,0.59,Severe,40
+OBS01497,R03586,Blocked,Chemical Hazard,0.77,High,44
+OBS01498,R03966,Open,None,0.76,Medium,4
+OBS01499,R02691,Open,Fire,0.01,Severe,8
+OBS01500,R04775,Open,Accident,0.28,Low,37
+OBS01501,R00030,Open,Flooding,0.55,High,45
+OBS01502,R04349,Open,Chemical Hazard,0.37,Low,13
+OBS01503,R01971,Blocked,Emergency Closure,0.28,Severe,37
+OBS01504,R04068,Open,None,0.79,Medium,57
+OBS01505,R01849,Open,Chemical Hazard,0.92,Medium,20
+OBS01506,R02662,Blocked,Fire,0.18,High,42
+OBS01507,R01929,Open,Traffic,0.47,Low,44
+OBS01508,R03910,Open,Emergency Closure,0.45,Medium,23
+OBS01509,R01269,Congested,Traffic,0.88,Medium,45
+OBS01510,R02346,Open,None,0.89,Low,17
+OBS01511,R03896,Congested,Fire,0.59,Medium,34
+OBS01512,R01773,Open,Accident,0.58,Low,37
+OBS01513,R01414,Blocked,Fire,0.64,Severe,38
+OBS01514,R02432,Congested,Accident,0.98,Severe,8
+OBS01515,R04613,Blocked,None,0.05,Low,24
+OBS01516,R03509,Open,Accident,0.91,Medium,9
+OBS01517,R03583,Blocked,None,0.75,High,21
+OBS01518,R00388,Open,None,0.63,Severe,55
+OBS01519,R03912,Open,Chemical Hazard,0.56,Severe,11
+OBS01520,R02339,Open,Emergency Closure,0.54,Medium,47
+OBS01521,R02114,Blocked,Emergency Closure,0.26,Severe,40
+OBS01522,R00015,Open,Emergency Closure,0.45,Medium,41
+OBS01523,R00923,Open,None,0.37,High,47
+OBS01524,R00224,Open,Traffic,0.57,Medium,56
+OBS01525,R04254,Open,Traffic,0.22,Severe,7
+OBS01526,R03537,Open,Flooding,0.14,Medium,43
+OBS01527,R03683,Congested,Accident,0.5,High,26
+OBS01528,R01739,Open,Traffic,0.76,Medium,35
+OBS01529,R04085,Open,Traffic,0.3,High,56
+OBS01530,R03508,Open,Accident,0.36,Severe,5
+OBS01531,R03162,Open,Chemical Hazard,0.25,High,2
+OBS01532,R04545,Open,Emergency Closure,0.45,Medium,29
+OBS01533,R01403,Blocked,Emergency Closure,0.4,Low,23
+OBS01534,R02297,Open,Fire,0.28,Severe,59
+OBS01535,R02226,Blocked,Traffic,0.02,Low,16
+OBS01536,R02159,Open,Chemical Hazard,0.55,Low,59
+OBS01537,R01845,Open,Accident,0.31,Low,6
+OBS01538,R03242,Open,Chemical Hazard,0.48,High,27
+OBS01539,R00083,Open,Fire,0.96,Medium,26
+OBS01540,R03814,Open,Fire,0.75,Low,22
+OBS01541,R01036,Congested,Traffic,0.32,High,44
+OBS01542,R00938,Open,Flooding,0.57,Low,2
+OBS01543,R00371,Open,None,0.69,Low,26
+OBS01544,R03518,Restricted,Fire,0.41,Severe,44
+OBS01545,R00679,Congested,Chemical Hazard,0.18,Severe,17
+OBS01546,R03380,Open,Fire,0.11,Severe,28
+OBS01547,R02059,Open,Emergency Closure,0.28,Medium,32
+OBS01548,R01840,Congested,Fire,0.02,High,35
+OBS01549,R00203,Open,Traffic,0.18,High,25
+OBS01550,R01447,Open,Chemical Hazard,0.99,Medium,20
+OBS01551,R00892,Open,Accident,0.57,High,11
+OBS01552,R02347,Open,Chemical Hazard,0.67,Low,38
+OBS01553,R01140,Open,Emergency Closure,0.79,Low,40
+OBS01554,R03945,Blocked,Chemical Hazard,0.86,Medium,17
+OBS01555,R03269,Blocked,None,0.5,Medium,17
+OBS01556,R00613,Open,Fire,0.92,Severe,51
+OBS01557,R02993,Open,Chemical Hazard,0.22,Severe,43
+OBS01558,R03206,Open,Accident,0.78,High,51
+OBS01559,R03509,Open,Accident,0.92,Severe,59
+OBS01560,R01112,Open,Emergency Closure,0.15,Medium,29
+OBS01561,R02798,Open,Traffic,0.86,Severe,44
+OBS01562,R04537,Open,None,0.47,Severe,55
+OBS01563,R02195,Congested,Accident,0.41,High,18
+OBS01564,R02575,Open,Accident,0.26,Medium,41
+OBS01565,R00242,Open,None,0.76,High,31
+OBS01566,R04798,Open,Fire,0.67,Medium,47
+OBS01567,R04500,Open,Chemical Hazard,0.06,Low,33
+OBS01568,R03187,Congested,Accident,0.39,Medium,45
+OBS01569,R00095,Open,Chemical Hazard,0.56,Severe,17
+OBS01570,R03292,Restricted,Chemical Hazard,0.5,Low,44
+OBS01571,R00587,Congested,Fire,0.73,High,52
+OBS01572,R04245,Open,Flooding,0.25,Severe,42
+OBS01573,R01849,Open,None,0.79,Medium,41
+OBS01574,R04347,Open,Emergency Closure,0.91,Medium,51
+OBS01575,R02023,Open,Traffic,0.29,High,44
+OBS01576,R04205,Open,None,0.02,Severe,11
+OBS01577,R01581,Open,Emergency Closure,0.3,High,47
+OBS01578,R04342,Blocked,Flooding,0.96,Medium,45
+OBS01579,R03076,Open,Traffic,0.27,Severe,31
+OBS01580,R01837,Open,Flooding,0.5,Low,11
+OBS01581,R01040,Congested,Accident,0.37,Low,39
+OBS01582,R02700,Congested,Accident,0.12,Severe,10
+OBS01583,R04004,Congested,Traffic,0.78,High,3
+OBS01584,R00274,Open,Traffic,0.75,Severe,40
+OBS01585,R02916,Open,Flooding,0.06,Severe,31
+OBS01586,R02003,Open,Traffic,0.83,Severe,58
+OBS01587,R01194,Open,Fire,0.62,Medium,26
+OBS01588,R02626,Open,None,0.6,Medium,1
+OBS01589,R04687,Open,Flooding,0.45,Medium,17
+OBS01590,R01081,Open,Fire,0.65,Severe,32
+OBS01591,R01699,Congested,Flooding,0.85,High,3
+OBS01592,R02471,Open,None,0.46,Medium,33
+OBS01593,R01196,Open,Flooding,0.49,High,33
+OBS01594,R04681,Open,Accident,0.06,High,21
+OBS01595,R03744,Congested,Flooding,0.25,Low,6
+OBS01596,R04528,Open,Fire,0.36,High,51
+OBS01597,R02744,Congested,Flooding,0.72,High,56
+OBS01598,R00755,Blocked,Accident,0.19,Low,9
+OBS01599,R02847,Blocked,Flooding,0.53,Severe,57
+OBS01600,R04367,Open,Fire,0.6,Medium,35
+OBS01601,R02765,Open,Accident,0.76,Medium,29
+OBS01602,R02123,Congested,Fire,0.29,High,54
+OBS01603,R02853,Open,Accident,0.68,High,40
+OBS01604,R00627,Open,Emergency Closure,0.86,Severe,4
+OBS01605,R01719,Open,Fire,0.12,Medium,43
+OBS01606,R03229,Congested,Emergency Closure,0.07,Low,24
+OBS01607,R01185,Open,None,0.5,High,47
+OBS01608,R01643,Blocked,Chemical Hazard,0.91,Low,44
+OBS01609,R04528,Open,Fire,0.94,High,33
+OBS01610,R03413,Congested,Chemical Hazard,0.68,Severe,41
+OBS01611,R03858,Blocked,Traffic,0.98,Low,49
+OBS01612,R02451,Open,Fire,0.21,Low,2
+OBS01613,R00159,Congested,Flooding,0.98,High,40
+OBS01614,R01628,Congested,Chemical Hazard,0.41,Low,37
+OBS01615,R04526,Blocked,Chemical Hazard,0.39,Low,29
+OBS01616,R04472,Congested,Accident,0.1,High,36
+OBS01617,R03180,Open,Emergency Closure,0.17,Severe,37
+OBS01618,R03377,Congested,Emergency Closure,0.93,Severe,40
+OBS01619,R02048,Congested,Flooding,0.9,High,26
+OBS01620,R00965,Open,Traffic,0.53,Severe,49
+OBS01621,R04726,Congested,Accident,0.09,Medium,31
+OBS01622,R03550,Blocked,Fire,0.82,Medium,3
+OBS01623,R02807,Congested,Chemical Hazard,0.38,Low,33
+OBS01624,R03288,Open,Flooding,0.2,Severe,6
+OBS01625,R00936,Open,Chemical Hazard,0.83,Severe,12
+OBS01626,R01257,Open,Accident,0.11,Medium,37
+OBS01627,R03196,Open,Flooding,0.11,Low,37
+OBS01628,R00521,Open,Flooding,0.52,Low,46
+OBS01629,R00533,Open,Flooding,0.09,Severe,58
+OBS01630,R01149,Open,Flooding,0.82,Medium,18
+OBS01631,R02909,Open,Chemical Hazard,0.84,Medium,15
+OBS01632,R00554,Congested,Accident,0.79,Medium,13
+OBS01633,R01791,Open,None,0.55,Low,36
+OBS01634,R02355,Open,Traffic,0.11,Medium,57
+OBS01635,R00878,Open,None,0.19,Medium,58
+OBS01636,R04179,Open,Emergency Closure,0.87,Medium,50
+OBS01637,R01230,Open,None,0.28,High,10
+OBS01638,R00813,Congested,None,0.68,Medium,40
+OBS01639,R00947,Open,Accident,0.51,Low,53
+OBS01640,R02650,Open,Traffic,0.83,Severe,48
+OBS01641,R00488,Blocked,Flooding,0.88,Medium,57
+OBS01642,R02028,Congested,Flooding,0.39,High,35
+OBS01643,R02901,Blocked,Fire,0.55,Low,18
+OBS01644,R02078,Open,None,0.75,Low,21
+OBS01645,R02493,Open,Traffic,0.84,Medium,32
+OBS01646,R02579,Congested,None,0.14,Low,27
+OBS01647,R00641,Congested,Chemical Hazard,0.8,Low,47
+OBS01648,R00550,Congested,None,0.85,Low,24
+OBS01649,R01898,Open,Accident,0.73,Low,24
+OBS01650,R03403,Open,None,0.2,Severe,57
+OBS01651,R00681,Open,Flooding,0.59,Severe,27
+OBS01652,R04010,Open,Traffic,0.25,Low,13
+OBS01653,R01588,Open,None,0.98,High,50
+OBS01654,R01676,Open,Flooding,0.42,Severe,12
+OBS01655,R02744,Open,Fire,0.28,Severe,14
+OBS01656,R02158,Open,Accident,0.82,Severe,3
+OBS01657,R00134,Open,Chemical Hazard,0.98,Medium,24
+OBS01658,R04600,Blocked,Fire,0.11,Low,25
+OBS01659,R04621,Open,None,0.73,Low,17
+OBS01660,R04787,Open,Traffic,0.74,Severe,7
+OBS01661,R03940,Open,None,0.85,Severe,4
+OBS01662,R02857,Open,Fire,0.05,Severe,54
+OBS01663,R02433,Open,Emergency Closure,0.99,Medium,2
+OBS01664,R04705,Open,Accident,0.71,High,54
+OBS01665,R03837,Congested,Chemical Hazard,0.79,Low,20
+OBS01666,R00936,Congested,Traffic,0.11,Medium,44
+OBS01667,R02952,Open,Chemical Hazard,0.15,High,58
+OBS01668,R04266,Open,Chemical Hazard,0.49,High,33
+OBS01669,R02730,Blocked,Accident,0.28,Medium,3
+OBS01670,R04425,Open,Emergency Closure,0.58,High,59
+OBS01671,R00066,Open,Flooding,0.22,Low,55
+OBS01672,R04372,Open,Emergency Closure,0.69,Medium,15
+OBS01673,R00359,Congested,Chemical Hazard,0.99,High,56
+OBS01674,R04532,Congested,Traffic,0.59,Severe,10
+OBS01675,R04215,Blocked,None,0.35,Severe,49
+OBS01676,R02256,Congested,Fire,0.38,Severe,54
+OBS01677,R00414,Congested,Traffic,0.26,Low,50
+OBS01678,R01732,Congested,Traffic,0.84,Medium,11
+OBS01679,R02076,Open,Chemical Hazard,0.87,High,2
+OBS01680,R02160,Open,None,0.21,Medium,22
+OBS01681,R04172,Blocked,Traffic,0.99,Low,53
+OBS01682,R02616,Open,Accident,0.06,Medium,11
+OBS01683,R02711,Open,Emergency Closure,0.39,High,26
+OBS01684,R03068,Congested,Chemical Hazard,0.82,Low,56
+OBS01685,R04209,Congested,None,0.13,Severe,7
+OBS01686,R00326,Open,None,0.17,Medium,28
+OBS01687,R01418,Blocked,Accident,0.62,Severe,54
+OBS01688,R01044,Open,Emergency Closure,0.68,Severe,45
+OBS01689,R03216,Congested,Emergency Closure,0.87,Low,14
+OBS01690,R03238,Open,Traffic,0.81,Medium,19
+OBS01691,R03081,Open,Emergency Closure,0.53,Severe,23
+OBS01692,R01267,Congested,Chemical Hazard,0.14,Low,24
+OBS01693,R03513,Open,Fire,0.85,High,20
+OBS01694,R00870,Blocked,Fire,0.85,Medium,48
+OBS01695,R03892,Open,Accident,0.43,Low,46
+OBS01696,R04548,Open,None,0.02,Low,34
+OBS01697,R02711,Open,Fire,0.93,Severe,20
+OBS01698,R03386,Congested,Chemical Hazard,0.24,Severe,56
+OBS01699,R00689,Open,Traffic,0.68,Medium,44
+OBS01700,R03017,Congested,Accident,0.89,Medium,45
+OBS01701,R03892,Open,Fire,0.6,Severe,12
+OBS01702,R02172,Open,Traffic,0.6,Low,45
+OBS01703,R00631,Open,Traffic,0.34,Medium,25
+OBS01704,R02403,Open,Flooding,0.48,Low,47
+OBS01705,R04716,Open,Chemical Hazard,0.75,Severe,25
+OBS01706,R02362,Blocked,Emergency Closure,0.43,Severe,14
+OBS01707,R04595,Congested,None,0.13,Medium,18
+OBS01708,R03241,Restricted,Chemical Hazard,0.02,Low,1
+OBS01709,R04433,Open,None,0.95,Severe,15
+OBS01710,R00031,Open,Chemical Hazard,0.32,Medium,1
+OBS01711,R02211,Congested,Fire,0.58,High,31
+OBS01712,R03255,Open,Accident,0.59,High,58
+OBS01713,R01657,Open,Traffic,0.56,High,59
+OBS01714,R02121,Open,Emergency Closure,0.29,High,36
+OBS01715,R01735,Blocked,Flooding,0.19,Medium,54
+OBS01716,R03146,Restricted,Flooding,0.81,Low,23
+OBS01717,R03008,Blocked,Chemical Hazard,0.77,Low,53
+OBS01718,R00737,Blocked,Traffic,0.78,Low,47
+OBS01719,R02482,Restricted,Traffic,0.2,Severe,29
+OBS01720,R01428,Congested,Accident,0.18,Low,46
+OBS01721,R02646,Restricted,Fire,0.18,High,40
+OBS01722,R00605,Congested,Accident,0.1,Severe,19
+OBS01723,R00536,Blocked,Chemical Hazard,0.02,High,30
+OBS01724,R04421,Open,Accident,0.77,Medium,26
+OBS01725,R00260,Open,Fire,0.36,Medium,20
+OBS01726,R02617,Open,Emergency Closure,0.64,Medium,32
+OBS01727,R02258,Congested,Flooding,0.78,Severe,22
+OBS01728,R03170,Open,Flooding,0.57,Low,35
+OBS01729,R02224,Congested,None,0.22,Medium,25
+OBS01730,R02872,Open,Accident,0.51,Low,4
+OBS01731,R03483,Open,Fire,0.89,Severe,12
+OBS01732,R01589,Open,Emergency Closure,0.16,Severe,18
+OBS01733,R03193,Open,Flooding,0.33,Severe,53
+OBS01734,R04561,Open,Chemical Hazard,0.3,Low,22
+OBS01735,R01669,Open,None,0.07,Low,9
+OBS01736,R04629,Open,Flooding,0.93,Severe,8
+OBS01737,R02443,Blocked,Traffic,0.95,High,31
+OBS01738,R01545,Blocked,Traffic,0.77,Low,55
+OBS01739,R04467,Open,None,0.88,High,10
+OBS01740,R00216,Open,Fire,0.27,Severe,5
+OBS01741,R04676,Congested,Emergency Closure,0.74,Medium,14
+OBS01742,R02026,Open,None,0.57,Severe,56
+OBS01743,R03773,Open,Fire,0.71,High,3
+OBS01744,R02556,Open,Chemical Hazard,0.66,Severe,33
+OBS01745,R02981,Congested,Traffic,0.8,Severe,7
+OBS01746,R00046,Open,Traffic,0.83,Severe,55
+OBS01747,R02857,Open,Flooding,0.08,Low,39
+OBS01748,R02198,Open,Traffic,0.66,Severe,2
+OBS01749,R00708,Blocked,Flooding,0.92,Low,28
+OBS01750,R03659,Open,Flooding,0.28,Severe,34
+OBS01751,R00199,Open,Flooding,0.54,Low,42
+OBS01752,R00319,Open,Fire,0.9,Medium,6
+OBS01753,R03310,Open,Accident,0.12,High,6
+OBS01754,R01201,Open,Accident,0.83,Low,7
+OBS01755,R03818,Open,Accident,0.83,Low,15
+OBS01756,R00711,Open,Fire,0.32,Low,8
+OBS01757,R00271,Open,None,0.84,High,26
+OBS01758,R00011,Open,Emergency Closure,0.06,Low,35
+OBS01759,R00397,Open,Flooding,0.08,Medium,51
+OBS01760,R03497,Open,Flooding,0.58,Medium,51
+OBS01761,R00176,Open,Chemical Hazard,0.94,Medium,39
+OBS01762,R04049,Open,Chemical Hazard,0.2,High,1
+OBS01763,R03248,Open,Emergency Closure,0.26,Medium,5
+OBS01764,R00367,Open,Chemical Hazard,0.16,Low,38
+OBS01765,R00551,Open,None,0.71,Low,46
+OBS01766,R03540,Open,Accident,0.12,High,46
+OBS01767,R00824,Open,Traffic,0.38,High,52
+OBS01768,R01884,Open,Traffic,0.65,Medium,37
+OBS01769,R01284,Congested,None,0.87,Severe,37
+OBS01770,R03927,Open,None,0.9,High,45
+OBS01771,R04238,Open,Fire,0.62,Severe,33
+OBS01772,R00605,Open,Accident,0.69,Severe,50
+OBS01773,R02757,Open,Fire,0.29,High,9
+OBS01774,R00725,Open,Flooding,0.55,Medium,15
+OBS01775,R03544,Open,Emergency Closure,0.34,Low,5
+OBS01776,R02766,Open,Emergency Closure,0.27,Medium,32
+OBS01777,R03996,Congested,Flooding,0.37,Low,58
+OBS01778,R02031,Open,Flooding,0.37,Severe,20
+OBS01779,R00341,Blocked,Emergency Closure,0.12,Severe,51
+OBS01780,R01471,Open,Emergency Closure,0.14,Low,30
+OBS01781,R01555,Open,Accident,0.75,Low,45
+OBS01782,R03720,Open,Fire,0.13,Medium,27
+OBS01783,R01206,Congested,Chemical Hazard,0.0,Low,7
+OBS01784,R02136,Open,Chemical Hazard,0.72,Low,54
+OBS01785,R02837,Open,None,0.53,Medium,28
+OBS01786,R03506,Congested,Fire,0.34,High,36
+OBS01787,R01109,Open,Flooding,0.36,High,50
+OBS01788,R01310,Open,Chemical Hazard,0.27,Low,29
+OBS01789,R01637,Open,Traffic,0.37,Severe,7
+OBS01790,R04566,Open,Accident,0.07,Medium,56
+OBS01791,R04206,Congested,Fire,0.16,Low,49
+OBS01792,R03973,Congested,Chemical Hazard,0.75,High,15
+OBS01793,R01194,Open,Chemical Hazard,0.05,High,49
+OBS01794,R03560,Open,None,0.31,High,11
+OBS01795,R03198,Open,Traffic,0.41,Severe,58
+OBS01796,R00700,Restricted,Emergency Closure,0.42,Low,55
+OBS01797,R02258,Open,None,0.81,Medium,59
+OBS01798,R04457,Congested,Chemical Hazard,0.24,High,4
+OBS01799,R04667,Open,Fire,0.22,Medium,57
+OBS01800,R04053,Blocked,Traffic,0.31,Severe,26
+OBS01801,R04725,Open,Traffic,0.11,Medium,58
+OBS01802,R04798,Open,Traffic,0.65,High,46
+OBS01803,R04113,Restricted,Fire,0.62,Severe,17
+OBS01804,R03552,Open,Fire,0.7,High,5
+OBS01805,R03085,Open,Emergency Closure,0.63,Severe,8
+OBS01806,R04641,Open,Traffic,0.65,Medium,24
+OBS01807,R03272,Blocked,Chemical Hazard,0.57,Severe,47
+OBS01808,R04074,Congested,Flooding,0.68,High,4
+OBS01809,R03481,Open,Flooding,0.31,High,47
+OBS01810,R02111,Open,Traffic,0.48,Medium,37
+OBS01811,R03853,Congested,Chemical Hazard,0.75,Severe,45
+OBS01812,R03789,Open,Flooding,0.01,Severe,42
+OBS01813,R02055,Congested,Accident,0.56,Low,49
+OBS01814,R00794,Open,Accident,0.51,Low,43
+OBS01815,R04795,Open,Accident,0.57,Medium,39
+OBS01816,R02349,Congested,Accident,0.07,High,45
+OBS01817,R01909,Open,Chemical Hazard,0.4,Low,34
+OBS01818,R03108,Congested,Fire,0.77,High,23
+OBS01819,R01727,Restricted,Traffic,0.47,Medium,16
+OBS01820,R01491,Open,Flooding,0.09,Severe,55
+OBS01821,R04792,Blocked,Traffic,0.72,Low,2
+OBS01822,R03370,Open,None,0.96,High,14
+OBS01823,R00407,Congested,Flooding,0.17,Severe,2
+OBS01824,R04132,Open,Chemical Hazard,0.64,Low,47
+OBS01825,R00615,Open,Chemical Hazard,0.63,Medium,48
+OBS01826,R03638,Open,None,0.2,Medium,58
+OBS01827,R04200,Blocked,None,0.24,Severe,38
+OBS01828,R01170,Open,Accident,0.12,Medium,21
+OBS01829,R01176,Open,Emergency Closure,0.33,Medium,3
+OBS01830,R02705,Congested,Fire,0.82,High,40
+OBS01831,R04211,Open,Fire,0.36,Low,41
+OBS01832,R01212,Open,Traffic,0.97,Severe,16
+OBS01833,R00378,Blocked,Accident,0.58,Medium,55
+OBS01834,R03178,Restricted,None,0.72,Low,10
+OBS01835,R03071,Open,Flooding,0.63,Severe,22
+OBS01836,R02294,Open,None,0.75,Medium,23
+OBS01837,R01864,Open,Flooding,0.16,Severe,4
+OBS01838,R03737,Open,Flooding,0.31,Medium,33
+OBS01839,R03837,Open,Accident,0.37,High,2
+OBS01840,R00160,Open,Traffic,0.39,Severe,29
+OBS01841,R00861,Congested,Chemical Hazard,0.42,Medium,29
+OBS01842,R02139,Congested,None,0.05,Low,21
+OBS01843,R02061,Open,None,0.93,Medium,52
+OBS01844,R00045,Blocked,Emergency Closure,0.2,High,6
+OBS01845,R03591,Open,Accident,0.9,Medium,49
+OBS01846,R02027,Blocked,None,0.78,Low,55
+OBS01847,R02334,Restricted,Traffic,0.27,Low,56
+OBS01848,R03323,Congested,Traffic,0.51,Severe,49
+OBS01849,R03156,Congested,Flooding,0.14,Severe,20
+OBS01850,R00859,Open,Emergency Closure,0.28,Low,35
+OBS01851,R00385,Open,None,0.9,High,15
+OBS01852,R01294,Congested,Emergency Closure,1.0,Medium,19
+OBS01853,R00008,Open,None,0.91,High,52
+OBS01854,R00476,Open,Flooding,0.27,Low,41
+OBS01855,R01188,Open,Chemical Hazard,0.2,Low,13
+OBS01856,R01520,Blocked,Traffic,0.65,Medium,29
+OBS01857,R00898,Open,Flooding,0.24,Medium,21
+OBS01858,R00265,Open,Accident,0.84,High,7
+OBS01859,R03717,Open,Chemical Hazard,0.08,Low,30
+OBS01860,R00637,Open,None,0.87,Low,32
+OBS01861,R02907,Restricted,Fire,0.87,Severe,27
+OBS01862,R02900,Open,Accident,0.34,Medium,12
+OBS01863,R00051,Congested,Accident,0.44,Severe,22
+OBS01864,R00652,Open,Flooding,0.88,High,9
+OBS01865,R00437,Congested,Traffic,0.68,Severe,33
+OBS01866,R04135,Open,Emergency Closure,0.62,High,16
+OBS01867,R04431,Restricted,Accident,0.02,High,58
+OBS01868,R04666,Open,Emergency Closure,0.91,High,20
+OBS01869,R03305,Open,None,0.61,Low,51
+OBS01870,R04384,Open,Accident,0.43,Low,8
+OBS01871,R03787,Open,Fire,0.36,Medium,22
+OBS01872,R00274,Open,Traffic,0.38,Low,5
+OBS01873,R01994,Open,Emergency Closure,0.04,Low,16
+OBS01874,R00151,Open,Flooding,0.99,High,36
+OBS01875,R02819,Restricted,Accident,0.02,Low,12
+OBS01876,R01660,Open,Emergency Closure,0.41,Low,14
+OBS01877,R00919,Open,Chemical Hazard,0.44,Medium,1
+OBS01878,R04094,Open,Traffic,0.6,Low,1
+OBS01879,R01096,Congested,Emergency Closure,0.42,Medium,36
+OBS01880,R02028,Blocked,Flooding,0.69,Low,33
+OBS01881,R00559,Open,Flooding,0.2,Low,7
+OBS01882,R02896,Open,Traffic,0.59,Severe,55
+OBS01883,R01301,Open,Traffic,0.63,Low,42
+OBS01884,R00170,Open,Flooding,0.81,Severe,49
+OBS01885,R00514,Open,Emergency Closure,0.08,High,45
+OBS01886,R02195,Open,Fire,0.67,Low,55
+OBS01887,R04226,Blocked,Chemical Hazard,0.43,Low,57
+OBS01888,R00432,Congested,Flooding,0.86,High,28
+OBS01889,R02017,Open,Traffic,0.64,Low,3
+OBS01890,R02251,Open,None,0.38,Severe,27
+OBS01891,R04543,Blocked,Fire,0.9,High,51
+OBS01892,R04506,Congested,Chemical Hazard,0.82,Medium,47
+OBS01893,R03800,Open,Traffic,0.13,High,33
+OBS01894,R01315,Open,Traffic,0.75,Low,26
+OBS01895,R03943,Open,Traffic,0.35,Medium,55
+OBS01896,R03881,Congested,None,0.17,Medium,54
+OBS01897,R00127,Restricted,Flooding,0.3,High,23
+OBS01898,R03444,Open,Flooding,0.49,Severe,46
+OBS01899,R00042,Blocked,None,0.53,Medium,53
+OBS01900,R00839,Open,Traffic,0.05,Medium,2
+OBS01901,R00925,Open,Traffic,0.34,Medium,28
+OBS01902,R03486,Open,None,0.72,Severe,53
+OBS01903,R03419,Open,Accident,0.89,Low,3
+OBS01904,R01188,Open,Flooding,0.35,High,20
+OBS01905,R02039,Congested,None,0.72,High,23
+OBS01906,R00956,Open,Chemical Hazard,0.7,Medium,48
+OBS01907,R02388,Open,Traffic,0.59,Severe,6
+OBS01908,R00431,Open,Emergency Closure,0.36,High,3
+OBS01909,R02451,Congested,None,0.89,High,52
+OBS01910,R04460,Restricted,Flooding,0.56,High,29
+OBS01911,R04258,Congested,Flooding,0.44,Low,41
+OBS01912,R00565,Open,Chemical Hazard,0.66,Severe,42
+OBS01913,R02746,Restricted,Accident,0.2,Medium,40
+OBS01914,R01586,Open,Traffic,0.48,Low,44
+OBS01915,R00514,Open,Flooding,0.5,Severe,44
+OBS01916,R02535,Blocked,Flooding,0.64,Low,13
+OBS01917,R02328,Congested,Traffic,0.98,Low,23
+OBS01918,R00939,Open,Chemical Hazard,0.24,High,17
+OBS01919,R00021,Congested,Traffic,0.55,Medium,31
+OBS01920,R01332,Congested,Accident,0.28,High,47
+OBS01921,R03052,Open,Emergency Closure,0.01,Low,1
+OBS01922,R03494,Open,Accident,0.96,Low,41
+OBS01923,R04229,Open,Fire,0.55,High,23
+OBS01924,R01956,Open,Chemical Hazard,0.22,Low,3
+OBS01925,R04479,Restricted,Chemical Hazard,1.0,Severe,4
+OBS01926,R04303,Congested,Flooding,0.82,Severe,29
+OBS01927,R04122,Congested,Chemical Hazard,0.28,High,29
+OBS01928,R01473,Open,Flooding,0.02,Low,15
+OBS01929,R00873,Congested,Emergency Closure,0.25,High,29
+OBS01930,R02770,Open,Emergency Closure,0.73,High,48
+OBS01931,R02088,Open,None,0.38,High,25
+OBS01932,R02532,Open,Fire,0.74,Medium,44
+OBS01933,R02633,Open,Flooding,0.66,Low,4
+OBS01934,R01105,Open,None,0.74,High,28
+OBS01935,R01956,Open,Traffic,0.36,High,31
+OBS01936,R02990,Open,Chemical Hazard,0.3,High,30
+OBS01937,R04688,Open,Accident,0.83,Medium,1
+OBS01938,R04059,Restricted,Chemical Hazard,0.73,Low,27
+OBS01939,R00819,Open,Accident,0.21,Severe,29
+OBS01940,R01225,Open,Emergency Closure,0.89,High,28
+OBS01941,R04631,Open,Chemical Hazard,0.08,Medium,25
+OBS01942,R03938,Blocked,Chemical Hazard,0.88,Low,49
+OBS01943,R00330,Open,Traffic,0.66,Low,34
+OBS01944,R02642,Open,Accident,0.96,Medium,32
+OBS01945,R01375,Open,Fire,0.29,Low,26
+OBS01946,R00404,Blocked,Flooding,0.53,High,6
+OBS01947,R02743,Open,Flooding,0.84,Low,56
+OBS01948,R03863,Open,Flooding,0.56,Medium,55
+OBS01949,R04551,Congested,Flooding,0.79,Medium,4
+OBS01950,R03104,Congested,Fire,0.07,Medium,16
+OBS01951,R02608,Open,Flooding,0.66,Medium,37
+OBS01952,R03842,Restricted,Emergency Closure,0.45,Medium,55
+OBS01953,R04736,Open,Emergency Closure,0.34,Low,47
+OBS01954,R00542,Open,None,0.88,Low,4
+OBS01955,R03382,Open,Fire,0.9,Medium,13
+OBS01956,R02292,Open,Fire,0.13,High,37
+OBS01957,R01721,Open,Chemical Hazard,0.82,Severe,9
+OBS01958,R00248,Open,Fire,0.97,High,47
+OBS01959,R04233,Open,Accident,0.67,Severe,27
+OBS01960,R03201,Congested,Traffic,0.05,Severe,33
+OBS01961,R00016,Open,None,0.49,Medium,56
+OBS01962,R00605,Congested,Chemical Hazard,0.0,Severe,33
+OBS01963,R02267,Open,Traffic,0.63,Medium,21
+OBS01964,R01994,Congested,None,0.14,Medium,17
+OBS01965,R04341,Open,Traffic,0.26,Low,11
+OBS01966,R03095,Open,Flooding,0.61,Severe,21
+OBS01967,R02184,Open,Accident,0.06,High,14
+OBS01968,R01509,Open,None,0.45,Low,38
+OBS01969,R00009,Open,Emergency Closure,0.42,High,5
+OBS01970,R00812,Open,None,0.39,Low,59
+OBS01971,R00761,Blocked,None,0.76,High,32
+OBS01972,R02608,Open,Chemical Hazard,0.4,Medium,37
+OBS01973,R02483,Open,Chemical Hazard,0.94,Severe,13
+OBS01974,R03079,Open,Traffic,0.15,Low,30
+OBS01975,R02087,Open,Flooding,0.67,Severe,4
+OBS01976,R00935,Blocked,Traffic,0.98,Low,16
+OBS01977,R00195,Open,Emergency Closure,0.45,Severe,21
+OBS01978,R00782,Open,Chemical Hazard,0.68,High,42
+OBS01979,R03463,Congested,Traffic,0.37,Low,24
+OBS01980,R00827,Congested,Flooding,0.49,Severe,29
+OBS01981,R01948,Open,Emergency Closure,0.43,Severe,38
+OBS01982,R02788,Open,Accident,0.93,Medium,56
+OBS01983,R01731,Open,Fire,0.21,Medium,33
+OBS01984,R02120,Congested,None,0.36,Medium,13
+OBS01985,R01787,Open,None,0.25,Medium,3
+OBS01986,R02857,Open,Fire,0.94,Severe,23
+OBS01987,R03327,Blocked,Emergency Closure,0.06,Severe,59
+OBS01988,R03410,Open,Flooding,0.47,Medium,5
+OBS01989,R03453,Open,Flooding,0.54,High,7
+OBS01990,R02240,Blocked,Accident,0.67,Medium,34
+OBS01991,R02418,Blocked,Accident,0.23,Severe,34
+OBS01992,R04290,Open,Flooding,0.13,Severe,30
+OBS01993,R01107,Open,Traffic,0.48,Severe,20
+OBS01994,R00922,Open,Traffic,0.72,Medium,47
+OBS01995,R02525,Open,Emergency Closure,0.21,High,23
+OBS01996,R02960,Open,Chemical Hazard,0.96,High,8
+OBS01997,R00820,Open,Fire,0.89,Severe,5
+OBS01998,R01891,Open,Fire,0.52,Low,12
+OBS01999,R01529,Blocked,Flooding,0.63,High,29
+OBS02000,R00721,Open,Accident,1.0,Low,57
+OBS02001,R04459,Open,Emergency Closure,0.26,Low,52
+OBS02002,R03716,Blocked,None,0.85,Low,36
+OBS02003,R03065,Open,Chemical Hazard,0.93,Medium,27
+OBS02004,R03944,Open,Accident,0.27,Medium,57
+OBS02005,R03074,Open,None,0.69,Medium,22
+OBS02006,R03527,Open,Flooding,0.77,Low,45
+OBS02007,R01567,Open,Fire,0.6,Severe,25
+OBS02008,R03679,Open,Traffic,0.26,Medium,51
+OBS02009,R01929,Open,Emergency Closure,0.86,Severe,11
+OBS02010,R00620,Open,Fire,0.19,High,31
+OBS02011,R00900,Blocked,Chemical Hazard,0.03,Severe,22
+OBS02012,R01796,Open,Accident,0.7,Medium,46
+OBS02013,R00590,Open,Traffic,0.02,High,3
+OBS02014,R01240,Open,Accident,0.4,Medium,57
+OBS02015,R02742,Open,Accident,0.58,Severe,51
+OBS02016,R00083,Blocked,None,0.89,Low,34
+OBS02017,R04694,Open,Accident,0.62,Severe,37
+OBS02018,R00985,Restricted,Accident,0.66,Severe,46
+OBS02019,R04593,Open,Fire,0.84,Severe,30
+OBS02020,R04675,Open,Chemical Hazard,0.42,Low,54
+OBS02021,R00731,Open,None,0.45,Medium,53
+OBS02022,R00384,Open,Chemical Hazard,0.64,Low,34
+OBS02023,R04242,Open,Fire,0.21,Low,38
+OBS02024,R01234,Congested,Emergency Closure,0.13,Severe,47
+OBS02025,R02838,Open,Accident,0.88,Severe,51
+OBS02026,R01027,Open,Emergency Closure,0.19,Severe,24
+OBS02027,R00969,Open,Flooding,0.43,Low,10
+OBS02028,R02283,Restricted,Chemical Hazard,0.1,Severe,55
+OBS02029,R00120,Open,None,0.47,Low,38
+OBS02030,R00529,Open,Traffic,0.66,Low,8
+OBS02031,R00832,Open,Flooding,0.15,Severe,51
+OBS02032,R01656,Congested,Accident,0.49,Medium,51
+OBS02033,R02746,Open,None,0.78,Severe,16
+OBS02034,R01990,Open,Traffic,0.9,High,2
+OBS02035,R00911,Restricted,Flooding,0.89,Severe,29
+OBS02036,R04029,Open,Traffic,0.2,High,26
+OBS02037,R04085,Open,Flooding,0.36,High,32
+OBS02038,R00964,Open,Fire,0.7,Low,15
+OBS02039,R04363,Congested,Traffic,0.83,High,44
+OBS02040,R00563,Blocked,Fire,0.56,Medium,41
+OBS02041,R00350,Blocked,Accident,0.82,Severe,32
+OBS02042,R04712,Congested,Traffic,0.12,High,1
+OBS02043,R02623,Congested,Emergency Closure,0.24,Low,35
+OBS02044,R02124,Open,None,0.09,Medium,34
+OBS02045,R00002,Blocked,Flooding,0.72,Medium,52
+OBS02046,R01568,Open,None,0.94,Medium,46
+OBS02047,R02108,Open,Emergency Closure,0.56,High,24
+OBS02048,R01203,Open,Emergency Closure,0.19,Low,28
+OBS02049,R03798,Blocked,Fire,0.45,Medium,30
+OBS02050,R03862,Open,Flooding,0.29,Medium,5
+OBS02051,R01727,Restricted,Chemical Hazard,0.57,Low,30
+OBS02052,R00138,Open,Accident,0.85,Severe,48
+OBS02053,R01972,Restricted,None,0.79,Low,56
+OBS02054,R04688,Blocked,Traffic,0.57,Low,10
+OBS02055,R02134,Open,Chemical Hazard,0.27,High,46
+OBS02056,R02993,Blocked,Fire,0.07,Low,53
+OBS02057,R04118,Open,None,0.03,Severe,51
+OBS02058,R02999,Open,Emergency Closure,0.36,Low,34
+OBS02059,R00476,Open,None,0.54,Medium,41
+OBS02060,R01470,Congested,None,0.73,Severe,28
+OBS02061,R01968,Open,Traffic,0.73,Medium,30
+OBS02062,R02904,Restricted,None,0.23,High,46
+OBS02063,R00735,Open,Emergency Closure,0.04,Medium,25
+OBS02064,R01275,Open,Flooding,0.25,Medium,51
+OBS02065,R04289,Open,Emergency Closure,0.73,Severe,38
+OBS02066,R04534,Open,Traffic,0.36,High,48
+OBS02067,R01995,Open,Traffic,0.12,Low,19
+OBS02068,R04751,Blocked,Accident,0.74,Severe,34
+OBS02069,R03559,Congested,None,0.36,High,13
+OBS02070,R01654,Open,Traffic,0.23,Severe,19
+OBS02071,R04406,Blocked,Emergency Closure,0.01,High,19
+OBS02072,R02596,Restricted,None,0.69,Low,54
+OBS02073,R03917,Open,Fire,0.14,Severe,59
+OBS02074,R02523,Restricted,Emergency Closure,0.01,Severe,35
+OBS02075,R04525,Open,Accident,0.37,Severe,47
+OBS02076,R02675,Open,Accident,0.32,Severe,47
+OBS02077,R03461,Open,Traffic,0.55,Low,37
+OBS02078,R04242,Congested,Chemical Hazard,0.65,Severe,3
+OBS02079,R00801,Open,Fire,0.6,Low,2
+OBS02080,R02349,Congested,Chemical Hazard,0.96,High,6
+OBS02081,R00217,Open,Emergency Closure,0.24,Medium,14
+OBS02082,R02725,Open,Traffic,0.13,Low,55
+OBS02083,R03584,Open,Flooding,0.41,Medium,4
+OBS02084,R02887,Blocked,Fire,0.28,Low,26
+OBS02085,R03853,Open,Fire,0.82,Medium,3
+OBS02086,R03370,Open,Chemical Hazard,0.16,Low,44
+OBS02087,R02959,Congested,None,0.92,Severe,53
+OBS02088,R00108,Open,Emergency Closure,0.47,High,25
+OBS02089,R02722,Blocked,Traffic,0.2,High,55
+OBS02090,R01663,Open,None,0.07,High,30
+OBS02091,R01854,Open,Flooding,0.79,Medium,41
+OBS02092,R01556,Open,Emergency Closure,0.3,Severe,34
+OBS02093,R02474,Open,Emergency Closure,0.63,Medium,50
+OBS02094,R02239,Blocked,Traffic,0.43,Medium,43
+OBS02095,R04281,Congested,None,0.16,Low,47
+OBS02096,R02407,Congested,None,0.59,Severe,25
+OBS02097,R01584,Blocked,Emergency Closure,0.14,Medium,26
+OBS02098,R02207,Open,Accident,0.81,High,9
+OBS02099,R01140,Congested,None,0.74,Severe,42
+OBS02100,R03634,Open,Emergency Closure,0.22,Severe,59
+OBS02101,R00884,Open,Emergency Closure,0.85,High,59
+OBS02102,R01484,Open,Fire,0.66,Medium,19
+OBS02103,R01327,Open,None,0.07,Low,44
+OBS02104,R04158,Congested,Emergency Closure,0.98,Severe,31
+OBS02105,R00734,Open,Flooding,0.58,Severe,58
+OBS02106,R00460,Open,Flooding,0.4,Medium,33
+OBS02107,R04063,Open,Chemical Hazard,0.49,Medium,12
+OBS02108,R03304,Congested,Chemical Hazard,0.73,High,54
+OBS02109,R01670,Open,None,0.14,Medium,34
+OBS02110,R04262,Open,Accident,0.73,Medium,55
+OBS02111,R01075,Open,Traffic,0.46,Severe,26
+OBS02112,R01834,Blocked,Fire,0.23,Low,19
+OBS02113,R00412,Congested,Emergency Closure,0.91,Severe,15
+OBS02114,R03327,Open,Flooding,0.02,Low,9
+OBS02115,R00626,Blocked,Emergency Closure,0.37,High,39
+OBS02116,R04189,Open,Flooding,0.12,High,38
+OBS02117,R00263,Open,Accident,0.08,Severe,4
+OBS02118,R04478,Open,Traffic,0.29,Low,21
+OBS02119,R02140,Open,None,0.75,Low,21
+OBS02120,R04726,Open,Emergency Closure,0.68,Medium,21
+OBS02121,R03814,Congested,Traffic,0.25,Severe,49
+OBS02122,R00631,Congested,None,0.7,Medium,34
+OBS02123,R02234,Open,Flooding,0.62,Medium,51
+OBS02124,R03352,Open,Accident,0.52,High,59
+OBS02125,R02745,Open,Flooding,0.28,Medium,54
+OBS02126,R04760,Open,None,0.1,High,10
+OBS02127,R02562,Open,Flooding,0.48,Severe,49
+OBS02128,R00933,Open,Fire,0.09,Low,26
+OBS02129,R03713,Open,Traffic,0.08,Medium,4
+OBS02130,R02162,Open,Accident,0.03,Medium,27
+OBS02131,R02967,Open,Traffic,0.96,Low,30
+OBS02132,R03697,Open,Traffic,0.99,Medium,35
+OBS02133,R01062,Open,Accident,0.34,High,16
+OBS02134,R02787,Open,Flooding,1.0,Severe,28
+OBS02135,R00405,Open,Accident,0.63,High,18
+OBS02136,R03718,Congested,Emergency Closure,0.95,Low,46
+OBS02137,R03492,Open,Fire,0.92,Medium,13
+OBS02138,R00834,Open,Fire,0.69,Severe,11
+OBS02139,R01266,Open,Emergency Closure,0.9,Severe,37
+OBS02140,R01849,Open,Chemical Hazard,0.36,High,20
+OBS02141,R03120,Congested,Flooding,0.32,Severe,30
+OBS02142,R04756,Open,Chemical Hazard,0.19,High,31
+OBS02143,R01715,Blocked,None,0.27,Low,55
+OBS02144,R03088,Congested,Flooding,0.2,High,38
+OBS02145,R03422,Open,Chemical Hazard,0.74,Low,4
+OBS02146,R01749,Open,Emergency Closure,0.92,Low,27
+OBS02147,R02704,Open,Accident,0.53,Severe,48
+OBS02148,R01175,Open,Accident,0.62,Severe,16
+OBS02149,R00591,Open,Fire,0.66,Medium,10
+OBS02150,R02912,Congested,Chemical Hazard,0.69,Low,33
+OBS02151,R03056,Congested,Accident,0.95,High,33
+OBS02152,R00893,Open,Chemical Hazard,0.92,Severe,27
+OBS02153,R00034,Open,None,0.13,Medium,19
+OBS02154,R00659,Congested,Chemical Hazard,0.22,Low,51
+OBS02155,R02780,Congested,None,0.35,Severe,53
+OBS02156,R01834,Open,Emergency Closure,0.01,Low,57
+OBS02157,R03448,Congested,Traffic,0.95,Severe,39
+OBS02158,R01886,Open,None,0.05,Severe,57
+OBS02159,R04255,Open,Chemical Hazard,0.05,Low,14
+OBS02160,R01172,Open,Emergency Closure,0.54,High,5
+OBS02161,R03622,Open,Emergency Closure,0.81,Severe,35
+OBS02162,R03157,Open,Emergency Closure,0.69,Medium,3
+OBS02163,R03149,Blocked,Emergency Closure,0.45,Low,10
+OBS02164,R02117,Open,Flooding,0.77,Medium,24
+OBS02165,R02019,Blocked,Fire,0.28,Medium,35
+OBS02166,R00288,Open,None,0.25,Severe,43
+OBS02167,R04445,Open,Traffic,0.78,High,48
+OBS02168,R00573,Open,None,0.47,High,41
+OBS02169,R01763,Open,Traffic,0.41,Medium,36
+OBS02170,R01111,Congested,Fire,0.72,Medium,34
+OBS02171,R03123,Open,Flooding,0.52,Severe,49
+OBS02172,R00181,Congested,None,0.02,High,57
+OBS02173,R03320,Open,Chemical Hazard,0.96,Low,26
+OBS02174,R04762,Open,Flooding,0.43,Medium,38
+OBS02175,R02452,Open,Flooding,0.37,Low,45
+OBS02176,R03507,Open,Emergency Closure,0.72,Severe,9
+OBS02177,R02464,Open,None,0.38,High,49
+OBS02178,R00731,Open,Chemical Hazard,0.63,Medium,40
+OBS02179,R03480,Open,Fire,0.56,Low,43
+OBS02180,R00276,Congested,None,0.06,Low,4
+OBS02181,R02752,Open,None,0.19,Severe,28
+OBS02182,R00162,Open,Traffic,0.93,Medium,26
+OBS02183,R02251,Open,Flooding,0.14,High,33
+OBS02184,R01644,Congested,None,0.47,High,41
+OBS02185,R01401,Open,Accident,0.74,Low,45
+OBS02186,R02942,Blocked,Fire,0.3,Low,2
+OBS02187,R02505,Open,None,0.1,Medium,26
+OBS02188,R01165,Congested,Emergency Closure,0.64,Medium,50
+OBS02189,R00337,Open,Flooding,0.22,High,48
+OBS02190,R02511,Open,Traffic,0.49,High,46
+OBS02191,R02131,Blocked,Traffic,0.85,Medium,32
+OBS02192,R01186,Congested,None,0.38,Low,3
+OBS02193,R04745,Open,Fire,0.94,Medium,20
+OBS02194,R01398,Open,Emergency Closure,0.75,Severe,41
+OBS02195,R01197,Open,Emergency Closure,0.45,High,27
+OBS02196,R00331,Open,Chemical Hazard,0.18,Severe,21
+OBS02197,R03982,Open,None,0.06,Medium,2
+OBS02198,R03920,Blocked,Chemical Hazard,0.65,High,22
+OBS02199,R00842,Open,Accident,0.4,Severe,13
+OBS02200,R02169,Open,Emergency Closure,0.35,Medium,9
+OBS02201,R04006,Open,Flooding,0.44,Medium,18
+OBS02202,R02041,Open,Flooding,0.74,Severe,8
+OBS02203,R01117,Open,Traffic,0.59,Severe,47
+OBS02204,R01976,Open,Fire,0.88,Medium,38
+OBS02205,R04773,Open,Accident,0.05,High,59
+OBS02206,R03455,Open,Emergency Closure,0.47,High,11
+OBS02207,R02817,Open,None,0.16,Medium,51
+OBS02208,R02847,Open,Accident,0.64,Medium,59
+OBS02209,R00189,Open,None,0.01,Low,16
+OBS02210,R03750,Congested,None,0.08,Medium,28
+OBS02211,R00941,Open,Flooding,0.27,Low,8
+OBS02212,R01111,Open,Chemical Hazard,0.04,Medium,39
+OBS02213,R00903,Congested,Emergency Closure,0.12,Severe,59
+OBS02214,R01665,Open,Accident,1.0,Severe,56
+OBS02215,R02577,Open,None,0.69,Low,40
+OBS02216,R01527,Restricted,Chemical Hazard,0.63,Low,19
+OBS02217,R03238,Open,Accident,0.31,High,9
+OBS02218,R00232,Restricted,Flooding,0.53,Severe,30
+OBS02219,R01519,Open,Emergency Closure,0.19,Severe,28
+OBS02220,R01890,Open,Accident,0.99,Severe,38
+OBS02221,R02795,Congested,Fire,0.45,Medium,17
+OBS02222,R01676,Open,Traffic,0.96,Severe,17
+OBS02223,R00693,Open,Accident,0.75,High,52
+OBS02224,R00091,Restricted,Fire,0.78,Severe,36
+OBS02225,R02769,Blocked,None,0.96,Low,33
+OBS02226,R00848,Blocked,Emergency Closure,0.41,Severe,3
+OBS02227,R04247,Open,None,0.56,Medium,31
+OBS02228,R01683,Congested,Emergency Closure,0.64,Severe,51
+OBS02229,R01168,Open,Flooding,0.39,Low,3
+OBS02230,R00140,Congested,None,0.63,High,28
+OBS02231,R01466,Open,Flooding,0.07,Severe,52
+OBS02232,R01305,Open,Traffic,0.59,Medium,43
+OBS02233,R00068,Congested,Accident,0.89,Medium,20
+OBS02234,R04571,Open,None,0.14,High,18
+OBS02235,R01287,Open,Flooding,0.99,Medium,55
+OBS02236,R04426,Open,Traffic,0.86,Severe,9
+OBS02237,R01291,Open,Fire,0.32,Low,40
+OBS02238,R03885,Open,Emergency Closure,0.79,Medium,39
+OBS02239,R04513,Restricted,Flooding,0.76,High,45
+OBS02240,R00763,Congested,Traffic,0.85,High,8
+OBS02241,R03878,Blocked,Emergency Closure,0.25,Severe,36
+OBS02242,R00293,Open,Emergency Closure,0.45,Severe,24
+OBS02243,R02432,Congested,Traffic,0.12,Medium,56
+OBS02244,R02686,Blocked,Emergency Closure,0.38,Medium,35
+OBS02245,R03017,Open,Chemical Hazard,0.1,Severe,1
+OBS02246,R00477,Open,Accident,0.95,High,12
+OBS02247,R04631,Blocked,Flooding,0.04,Low,45
+OBS02248,R02550,Open,Chemical Hazard,0.06,Medium,5
+OBS02249,R03446,Open,Emergency Closure,1.0,Low,49
+OBS02250,R04237,Open,None,0.79,Severe,41
+OBS02251,R03735,Open,Chemical Hazard,0.49,Severe,38
+OBS02252,R04165,Open,Fire,0.9,Medium,29
+OBS02253,R03387,Congested,Chemical Hazard,0.17,Medium,34
+OBS02254,R04651,Open,Emergency Closure,0.92,Severe,8
+OBS02255,R04180,Congested,Traffic,0.9,Low,23
+OBS02256,R03416,Open,Accident,0.47,Severe,32
+OBS02257,R01731,Open,None,0.73,High,38
+OBS02258,R02684,Open,Accident,0.39,Medium,30
+OBS02259,R01847,Open,Traffic,0.8,Medium,25
+OBS02260,R03114,Congested,Chemical Hazard,0.92,High,27
+OBS02261,R02223,Blocked,Accident,0.68,Medium,3
+OBS02262,R00779,Congested,Accident,0.95,Severe,38
+OBS02263,R04104,Blocked,Accident,0.82,Medium,45
+OBS02264,R01184,Open,None,0.32,High,28
+OBS02265,R04046,Restricted,Traffic,0.78,Severe,13
+OBS02266,R00278,Open,Accident,0.51,Medium,8
+OBS02267,R03736,Open,Emergency Closure,0.12,Severe,3
+OBS02268,R01674,Open,Accident,0.71,Severe,6
+OBS02269,R03448,Open,Chemical Hazard,0.04,Low,40
+OBS02270,R02524,Congested,Flooding,0.13,Low,21
+OBS02271,R00793,Congested,None,0.88,High,46
+OBS02272,R04199,Restricted,Emergency Closure,0.49,Low,28
+OBS02273,R01473,Blocked,None,0.89,Low,39
+OBS02274,R04560,Congested,Traffic,0.84,Low,56
+OBS02275,R02184,Congested,Emergency Closure,0.59,Medium,20
+OBS02276,R04162,Open,Flooding,0.61,Medium,58
+OBS02277,R00562,Open,Emergency Closure,0.61,Medium,43
+OBS02278,R01954,Open,Accident,0.02,High,8
+OBS02279,R01934,Open,Accident,0.6,High,52
+OBS02280,R00456,Blocked,Chemical Hazard,0.73,Severe,52
+OBS02281,R03264,Congested,Chemical Hazard,0.54,Low,15
+OBS02282,R00217,Open,Accident,0.93,Medium,34
+OBS02283,R00859,Blocked,Accident,0.15,Severe,11
+OBS02284,R02414,Blocked,Accident,0.01,High,52
+OBS02285,R02322,Blocked,Chemical Hazard,0.28,Low,33
+OBS02286,R01122,Open,Fire,0.33,Low,56
+OBS02287,R02345,Congested,Emergency Closure,0.87,Severe,53
+OBS02288,R01359,Congested,Chemical Hazard,0.06,Low,52
+OBS02289,R02769,Open,Flooding,0.76,Medium,15
+OBS02290,R03539,Restricted,Accident,0.8,High,32
+OBS02291,R03792,Congested,Flooding,0.34,Low,45
+OBS02292,R01788,Open,Traffic,0.1,Severe,14
+OBS02293,R02896,Blocked,Accident,0.86,Medium,59
+OBS02294,R01491,Congested,Fire,0.77,Low,28
+OBS02295,R00460,Open,Fire,0.81,Medium,40
+OBS02296,R04268,Congested,None,0.53,Medium,33
+OBS02297,R01786,Open,Flooding,0.86,High,11
+OBS02298,R01504,Open,Traffic,0.93,Medium,2
+OBS02299,R04730,Blocked,Chemical Hazard,0.4,Low,16
+OBS02300,R01523,Restricted,None,0.1,Low,46
+OBS02301,R00531,Open,Emergency Closure,0.95,Medium,5
+OBS02302,R02528,Blocked,Fire,0.51,Severe,43
+OBS02303,R00155,Open,Chemical Hazard,0.38,Medium,41
+OBS02304,R02894,Congested,Traffic,0.99,Severe,5
+OBS02305,R04065,Open,Fire,0.6,Severe,14
+OBS02306,R04303,Open,Accident,0.58,Medium,28
+OBS02307,R02548,Open,None,0.91,Severe,6
+OBS02308,R02937,Open,Flooding,0.57,High,56
+OBS02309,R00795,Blocked,Traffic,0.58,Severe,15
+OBS02310,R02716,Blocked,Emergency Closure,0.88,High,18
+OBS02311,R03259,Open,Emergency Closure,0.26,Medium,2
+OBS02312,R00182,Open,Emergency Closure,0.01,Severe,40
+OBS02313,R00346,Open,Fire,0.64,High,28
+OBS02314,R02851,Open,Chemical Hazard,0.97,Severe,47
+OBS02315,R03033,Open,None,0.75,High,51
+OBS02316,R01108,Restricted,None,0.82,Severe,19
+OBS02317,R01969,Restricted,Traffic,0.55,High,30
+OBS02318,R02145,Open,Accident,0.06,Low,11
+OBS02319,R00888,Blocked,Fire,0.27,High,1
+OBS02320,R03656,Congested,None,0.93,Low,13
+OBS02321,R03031,Open,Accident,0.31,Medium,12
+OBS02322,R00361,Open,Emergency Closure,0.92,Low,3
+OBS02323,R03764,Open,Emergency Closure,0.95,Severe,28
+OBS02324,R00349,Open,Emergency Closure,0.17,Severe,7
+OBS02325,R04379,Open,Accident,0.72,Severe,22
+OBS02326,R01249,Congested,Chemical Hazard,0.21,High,18
+OBS02327,R04695,Blocked,Chemical Hazard,0.13,Medium,45
+OBS02328,R03540,Restricted,Flooding,0.33,High,34
+OBS02329,R03264,Open,None,0.84,Low,1
+OBS02330,R00706,Open,Emergency Closure,0.59,Low,44
+OBS02331,R00399,Open,Flooding,0.28,High,47
+OBS02332,R00670,Open,Chemical Hazard,0.04,High,35
+OBS02333,R00553,Restricted,Flooding,0.94,Medium,4
+OBS02334,R00312,Blocked,Fire,0.59,Medium,47
+OBS02335,R04680,Open,Chemical Hazard,0.99,Severe,18
+OBS02336,R00058,Blocked,Accident,0.75,Medium,40
+OBS02337,R02125,Congested,Emergency Closure,0.4,High,5
+OBS02338,R00521,Open,Traffic,0.31,High,14
+OBS02339,R04800,Open,None,0.25,Severe,10
+OBS02340,R02988,Open,Emergency Closure,0.57,Medium,45
+OBS02341,R03747,Open,Chemical Hazard,0.35,Medium,32
+OBS02342,R01553,Open,Chemical Hazard,0.44,Low,23
+OBS02343,R00464,Restricted,Chemical Hazard,0.8,Medium,12
+OBS02344,R00586,Open,None,0.12,Severe,17
+OBS02345,R02169,Blocked,None,0.21,Severe,1
+OBS02346,R04041,Open,Emergency Closure,0.5,Severe,12
+OBS02347,R04079,Open,Emergency Closure,0.03,Severe,28
+OBS02348,R02105,Open,Chemical Hazard,0.18,Medium,20
+OBS02349,R02496,Open,Flooding,0.18,Medium,7
+OBS02350,R01786,Open,Chemical Hazard,0.59,High,33
+OBS02351,R03391,Open,None,0.88,Severe,15
+OBS02352,R00888,Blocked,Traffic,0.15,High,25
+OBS02353,R01484,Congested,Fire,0.86,Severe,25
+OBS02354,R04708,Open,Chemical Hazard,0.87,High,49
+OBS02355,R01796,Open,Chemical Hazard,0.84,Low,14
+OBS02356,R02654,Open,Accident,0.5,Severe,41
+OBS02357,R03539,Open,Chemical Hazard,0.97,Low,25
+OBS02358,R03492,Open,Flooding,0.15,Medium,42
+OBS02359,R02568,Open,Traffic,0.67,Severe,36
+OBS02360,R04160,Open,Fire,0.37,Low,20
+OBS02361,R00115,Open,Accident,0.76,Severe,13
+OBS02362,R01144,Congested,Traffic,0.22,Low,25
+OBS02363,R03794,Blocked,None,0.8,Low,19
+OBS02364,R04438,Blocked,None,0.37,Medium,10
+OBS02365,R03376,Restricted,Accident,0.76,High,14
+OBS02366,R01800,Open,Emergency Closure,0.39,Low,23
+OBS02367,R02769,Open,Chemical Hazard,0.22,High,34
+OBS02368,R00171,Restricted,Accident,0.56,High,13
+OBS02369,R00849,Open,None,0.75,Severe,37
+OBS02370,R04669,Blocked,Flooding,0.68,Severe,58
+OBS02371,R03050,Open,Chemical Hazard,0.03,High,29
+OBS02372,R01257,Open,Flooding,0.89,Low,14
+OBS02373,R01990,Open,Traffic,0.78,High,42
+OBS02374,R03408,Blocked,Fire,0.66,High,35
+OBS02375,R02142,Open,None,0.87,Low,49
+OBS02376,R02753,Blocked,Accident,0.76,Medium,53
+OBS02377,R00618,Blocked,Flooding,0.92,Low,22
+OBS02378,R00748,Open,Accident,0.33,High,10
+OBS02379,R02745,Open,Fire,0.31,High,39
+OBS02380,R04005,Open,Flooding,0.27,Medium,17
+OBS02381,R01487,Open,None,0.25,Low,41
+OBS02382,R04525,Open,None,0.66,Medium,54
+OBS02383,R03799,Blocked,Flooding,0.04,Severe,9
+OBS02384,R01003,Open,Fire,0.84,Low,10
+OBS02385,R03278,Open,Flooding,0.5,Medium,27
+OBS02386,R04196,Blocked,Fire,0.9,Low,19
+OBS02387,R03582,Congested,None,0.67,High,40
+OBS02388,R04785,Congested,Emergency Closure,0.97,Low,29
+OBS02389,R03764,Open,Traffic,0.08,Medium,49
+OBS02390,R03936,Open,Chemical Hazard,0.46,Low,53
+OBS02391,R01389,Open,Accident,0.58,Low,31
+OBS02392,R03815,Open,Flooding,0.69,Low,29
+OBS02393,R04785,Open,Traffic,0.97,Low,40
+OBS02394,R02396,Blocked,Emergency Closure,0.43,Severe,56
+OBS02395,R01015,Blocked,Emergency Closure,0.44,Medium,20
+OBS02396,R04409,Congested,Accident,0.49,Medium,48
+OBS02397,R04041,Open,Accident,0.01,Medium,14
+OBS02398,R01227,Blocked,Emergency Closure,0.18,High,58
+OBS02399,R02998,Restricted,Traffic,0.12,Severe,5
+OBS02400,R04302,Open,Emergency Closure,0.75,Severe,52
+OBS02401,R04546,Open,Emergency Closure,0.25,Severe,22
+OBS02402,R00475,Open,Chemical Hazard,0.71,Medium,50
+OBS02403,R01626,Open,Chemical Hazard,0.43,Medium,56
+OBS02404,R00074,Open,Chemical Hazard,0.8,Low,47
+OBS02405,R03170,Congested,Traffic,0.23,Low,59
+OBS02406,R02991,Blocked,Emergency Closure,0.19,Medium,12
+OBS02407,R00451,Open,Emergency Closure,0.45,Severe,50
+OBS02408,R04175,Open,None,0.07,Severe,56
+OBS02409,R02155,Congested,None,0.31,Low,52
+OBS02410,R00522,Open,Accident,0.63,Low,39
+OBS02411,R00109,Open,Emergency Closure,0.99,High,47
+OBS02412,R02125,Blocked,Accident,0.36,Medium,53
+OBS02413,R02199,Open,Emergency Closure,0.75,Low,57
+OBS02414,R02527,Open,Flooding,0.13,Severe,31
+OBS02415,R03530,Congested,Emergency Closure,0.96,Low,51
+OBS02416,R01104,Open,None,0.72,Medium,23
+OBS02417,R03956,Congested,None,0.47,Medium,27
+OBS02418,R03963,Congested,None,0.22,Severe,25
+OBS02419,R04767,Open,None,0.13,Severe,33
+OBS02420,R03108,Restricted,Flooding,0.43,Low,25
+OBS02421,R03473,Open,Chemical Hazard,0.24,Severe,59
+OBS02422,R00252,Open,Traffic,0.56,Medium,54
+OBS02423,R02703,Open,Fire,0.66,Medium,7
+OBS02424,R04790,Open,Fire,0.19,Low,40
+OBS02425,R02587,Open,None,0.88,High,49
+OBS02426,R01942,Open,Chemical Hazard,0.83,High,49
+OBS02427,R01296,Open,Traffic,0.58,Low,54
+OBS02428,R01954,Open,Fire,0.12,Medium,43
+OBS02429,R04696,Open,Accident,0.06,Severe,42
+OBS02430,R01227,Blocked,Flooding,0.12,Medium,7
+OBS02431,R03990,Open,Chemical Hazard,0.87,Low,31
+OBS02432,R02158,Congested,Fire,0.25,High,43
+OBS02433,R02766,Open,Fire,0.37,Medium,48
+OBS02434,R02475,Open,None,0.32,Low,59
+OBS02435,R00094,Blocked,Chemical Hazard,0.24,Medium,20
+OBS02436,R03690,Open,Traffic,0.29,Severe,13
+OBS02437,R02945,Open,Emergency Closure,0.78,High,22
+OBS02438,R03187,Open,Traffic,0.38,Low,49
+OBS02439,R01370,Open,Traffic,0.66,Low,34
+OBS02440,R04534,Congested,Chemical Hazard,0.93,Medium,17
+OBS02441,R02834,Blocked,Chemical Hazard,0.23,High,22
+OBS02442,R00922,Open,Traffic,0.12,Medium,36
+OBS02443,R02835,Open,Emergency Closure,0.75,Medium,14
+OBS02444,R00399,Blocked,Traffic,0.44,High,40
+OBS02445,R04037,Congested,Emergency Closure,0.57,Severe,31
+OBS02446,R02112,Open,None,0.49,Medium,54
+OBS02447,R00708,Open,None,0.88,Severe,1
+OBS02448,R03209,Open,Traffic,0.54,Low,49
+OBS02449,R03713,Open,None,0.64,High,31
+OBS02450,R02396,Congested,Fire,0.83,Severe,4
+OBS02451,R00084,Open,Flooding,0.82,Low,47
+OBS02452,R04241,Open,Chemical Hazard,0.53,Low,11
+OBS02453,R00990,Congested,Flooding,0.87,High,42
+OBS02454,R00649,Open,Flooding,0.12,High,31
+OBS02455,R04258,Blocked,Flooding,0.93,Severe,4
+OBS02456,R00342,Open,Fire,0.81,High,32
+OBS02457,R02007,Blocked,Emergency Closure,0.26,Severe,1
+OBS02458,R04187,Blocked,Emergency Closure,0.34,Low,59
+OBS02459,R04443,Congested,Accident,0.72,High,27
+OBS02460,R01243,Open,None,0.27,Medium,28
+OBS02461,R00289,Open,Flooding,0.77,Medium,33
+OBS02462,R03529,Open,Emergency Closure,0.01,Severe,13
+OBS02463,R02177,Open,Traffic,0.96,Severe,51
+OBS02464,R01138,Open,Fire,0.3,Severe,33
+OBS02465,R03206,Congested,Chemical Hazard,0.13,Low,41
+OBS02466,R02800,Open,Fire,0.12,Severe,42
+OBS02467,R00498,Open,None,0.39,Medium,19
+OBS02468,R04295,Open,Accident,0.35,High,9
+OBS02469,R03644,Open,Accident,0.96,High,52
+OBS02470,R03919,Open,Fire,0.34,Medium,28
+OBS02471,R03477,Open,Emergency Closure,0.83,Medium,30
+OBS02472,R00686,Open,Fire,0.48,High,48
+OBS02473,R03441,Open,Chemical Hazard,0.78,Low,8
+OBS02474,R03799,Open,Accident,0.87,High,18
+OBS02475,R03483,Congested,Emergency Closure,0.14,Low,17
+OBS02476,R04087,Blocked,None,0.36,Medium,57
+OBS02477,R03961,Open,Accident,0.18,Medium,45
+OBS02478,R02271,Open,Fire,0.96,Medium,37
+OBS02479,R02994,Open,Fire,0.79,Severe,36
+OBS02480,R00556,Open,Flooding,0.96,High,33
+OBS02481,R04010,Open,Flooding,0.69,Low,35
+OBS02482,R01355,Congested,Fire,0.02,Severe,4
+OBS02483,R01422,Open,Fire,0.52,Low,29
+OBS02484,R00426,Open,Flooding,0.42,Medium,27
+OBS02485,R04121,Open,Accident,0.12,Medium,28
+OBS02486,R04224,Blocked,Accident,0.05,Low,9
+OBS02487,R01172,Congested,Emergency Closure,0.78,Severe,58
+OBS02488,R01076,Congested,Flooding,0.02,Medium,44
+OBS02489,R03425,Open,Traffic,0.27,High,57
+OBS02490,R00129,Blocked,Traffic,0.15,Low,19
+OBS02491,R04420,Congested,Emergency Closure,0.2,Low,33
+OBS02492,R00023,Open,Traffic,0.48,Severe,17
+OBS02493,R02635,Open,Emergency Closure,0.33,High,54
+OBS02494,R02651,Open,Emergency Closure,0.73,High,45
+OBS02495,R02656,Open,Flooding,0.54,High,38
+OBS02496,R00668,Open,Flooding,0.12,Medium,40
+OBS02497,R02710,Restricted,Emergency Closure,0.01,Medium,59
+OBS02498,R00604,Open,None,0.18,Medium,40
+OBS02499,R03141,Open,Chemical Hazard,0.61,Medium,4
+OBS02500,R01591,Open,Traffic,0.34,Low,29
+OBS02501,R02710,Open,Flooding,0.54,High,52
+OBS02502,R01008,Blocked,Traffic,0.86,Severe,58
+OBS02503,R00477,Open,Traffic,0.83,Medium,43
+OBS02504,R01004,Congested,Fire,0.36,Medium,17
+OBS02505,R03578,Open,Traffic,0.91,Low,39
+OBS02506,R00583,Open,Emergency Closure,0.07,High,2
+OBS02507,R02009,Open,Accident,0.63,High,16
+OBS02508,R00203,Congested,Chemical Hazard,0.85,Severe,16
+OBS02509,R02283,Open,Emergency Closure,0.54,Low,10
+OBS02510,R00307,Open,Flooding,0.23,Severe,7
+OBS02511,R02642,Open,Chemical Hazard,0.63,Low,25
+OBS02512,R02287,Open,None,0.86,Medium,58
+OBS02513,R00049,Open,Traffic,0.13,Low,22
+OBS02514,R03943,Blocked,Traffic,0.23,Severe,41
+OBS02515,R01323,Open,None,0.61,Low,5
+OBS02516,R02583,Open,Fire,0.8,High,37
+OBS02517,R01578,Open,Emergency Closure,0.27,Medium,48
+OBS02518,R01389,Open,Traffic,0.28,High,36
+OBS02519,R00429,Restricted,Flooding,0.43,Low,20
+OBS02520,R01822,Open,Flooding,0.67,Severe,13
+OBS02521,R04808,Congested,Emergency Closure,0.05,Medium,38
+OBS02522,R00445,Blocked,Accident,0.78,Low,28
+OBS02523,R01373,Restricted,Chemical Hazard,0.79,Medium,6
+OBS02524,R02920,Open,None,0.4,Low,29
+OBS02525,R03566,Open,Fire,0.23,Low,12
+OBS02526,R00626,Open,Accident,0.28,Severe,22
+OBS02527,R02160,Open,Traffic,0.79,Low,54
+OBS02528,R00032,Blocked,Fire,0.27,Low,43
+OBS02529,R00839,Open,None,0.62,Severe,20
+OBS02530,R00752,Open,Accident,0.74,Severe,9
+OBS02531,R00422,Open,Chemical Hazard,0.09,High,32
+OBS02532,R00549,Open,Accident,0.01,Medium,25
+OBS02533,R03148,Open,Chemical Hazard,0.59,Medium,31
+OBS02534,R03691,Open,Flooding,0.09,Severe,19
+OBS02535,R00894,Open,Emergency Closure,0.67,Low,48
+OBS02536,R02237,Congested,Flooding,0.29,Low,7
+OBS02537,R03176,Open,Fire,0.24,Severe,52
+OBS02538,R00658,Open,Emergency Closure,0.76,Medium,24
+OBS02539,R00300,Congested,Flooding,0.12,Severe,26
+OBS02540,R02050,Open,Chemical Hazard,0.96,Medium,44
+OBS02541,R00935,Open,Flooding,0.11,High,37
+OBS02542,R00013,Open,None,0.62,Severe,31
+OBS02543,R02278,Congested,Chemical Hazard,0.99,Medium,18
+OBS02544,R01436,Blocked,Flooding,0.62,Low,4
+OBS02545,R01017,Open,Emergency Closure,0.75,Low,18
+OBS02546,R00587,Blocked,Flooding,0.39,High,35
+OBS02547,R00475,Congested,Emergency Closure,0.55,Severe,26
+OBS02548,R04643,Open,Traffic,0.04,High,24
+OBS02549,R02353,Restricted,Emergency Closure,0.15,High,44
+OBS02550,R03107,Open,Flooding,0.47,High,46
+OBS02551,R00237,Blocked,None,0.48,Severe,18
+OBS02552,R01045,Blocked,None,0.68,Severe,39
+OBS02553,R02331,Blocked,Fire,0.15,Low,13
+OBS02554,R04557,Open,Accident,0.96,Medium,26
+OBS02555,R03553,Open,None,0.19,Severe,53
+OBS02556,R04810,Open,Accident,0.24,Medium,18
+OBS02557,R03341,Open,Flooding,0.91,Low,17
+OBS02558,R03686,Open,None,0.49,High,17
+OBS02559,R00096,Open,Fire,0.16,Severe,40
+OBS02560,R04365,Open,Chemical Hazard,0.77,Low,55
+OBS02561,R03789,Restricted,None,0.45,Low,1
+OBS02562,R00974,Open,Fire,0.06,Medium,9
+OBS02563,R03249,Restricted,Fire,0.66,High,44
+OBS02564,R03889,Blocked,Chemical Hazard,0.48,Severe,48
+OBS02565,R00594,Congested,Flooding,0.62,Medium,26
+OBS02566,R01925,Open,Accident,0.3,Medium,41
+OBS02567,R00809,Open,Flooding,0.27,Low,58
+OBS02568,R04323,Open,None,0.83,Low,28
+OBS02569,R00529,Open,Traffic,0.81,Severe,28
+OBS02570,R03837,Blocked,Fire,0.53,High,45
+OBS02571,R02393,Open,Fire,0.01,Low,41
+OBS02572,R01663,Open,Chemical Hazard,0.59,High,44
+OBS02573,R02709,Open,Fire,0.08,High,17
+OBS02574,R01095,Open,Emergency Closure,0.68,Low,7
+OBS02575,R00227,Congested,Traffic,0.25,Severe,8
+OBS02576,R03607,Open,None,0.12,Medium,26
+OBS02577,R03578,Congested,Accident,0.86,Low,34
+OBS02578,R03376,Open,None,0.36,Medium,54
+OBS02579,R04179,Open,Accident,0.01,Severe,30
+OBS02580,R04468,Open,Emergency Closure,0.73,Low,49
+OBS02581,R04413,Open,Accident,0.18,Severe,2
+OBS02582,R01392,Congested,Chemical Hazard,0.05,High,20
+OBS02583,R04493,Open,Chemical Hazard,0.86,Medium,45
+OBS02584,R02540,Open,Flooding,0.59,High,18
+OBS02585,R03849,Blocked,Accident,0.43,Severe,56
+OBS02586,R04108,Open,Emergency Closure,0.83,Low,8
+OBS02587,R03455,Open,Emergency Closure,0.81,Severe,4
+OBS02588,R00405,Open,Traffic,0.19,Medium,53
+OBS02589,R04702,Congested,Accident,0.23,Medium,54
+OBS02590,R00088,Open,Accident,0.14,High,25
+OBS02591,R01917,Open,None,0.88,Low,49
+OBS02592,R01820,Congested,Fire,0.69,Medium,42
+OBS02593,R00444,Open,None,0.19,High,37
+OBS02594,R03697,Open,None,0.02,Low,21
+OBS02595,R03645,Open,Accident,0.88,Medium,4
+OBS02596,R04215,Open,Emergency Closure,0.72,High,21
+OBS02597,R02706,Open,Traffic,0.01,Severe,4
+OBS02598,R02716,Blocked,None,0.99,Medium,56
+OBS02599,R02065,Open,Flooding,0.31,Medium,1
+OBS02600,R04182,Open,None,0.35,Medium,19
+OBS02601,R02900,Open,Accident,0.48,Medium,55
+OBS02602,R02579,Open,Emergency Closure,0.2,Severe,58
+OBS02603,R01306,Open,Traffic,0.27,Low,33
+OBS02604,R02832,Open,Emergency Closure,0.47,High,46
+OBS02605,R03987,Open,Fire,0.46,High,5
+OBS02606,R02650,Restricted,Emergency Closure,0.59,Medium,47
+OBS02607,R02766,Open,Traffic,0.73,Severe,59
+OBS02608,R01128,Open,Accident,0.11,Severe,19
+OBS02609,R03700,Congested,None,0.86,Medium,20
+OBS02610,R01258,Blocked,Emergency Closure,0.59,Low,2
+OBS02611,R01393,Restricted,Emergency Closure,0.77,Severe,50
+OBS02612,R03697,Open,Fire,0.06,Severe,56
+OBS02613,R04636,Open,Fire,0.82,Low,45
+OBS02614,R00640,Open,Chemical Hazard,0.41,Low,56
+OBS02615,R01791,Restricted,Fire,0.92,Medium,25
+OBS02616,R03218,Open,Chemical Hazard,0.87,Severe,35
+OBS02617,R00259,Congested,None,0.09,Low,24
+OBS02618,R04302,Blocked,Emergency Closure,0.41,High,48
+OBS02619,R01145,Open,Traffic,0.06,Severe,2
+OBS02620,R04447,Open,Emergency Closure,0.53,Severe,14
+OBS02621,R03763,Restricted,Traffic,0.43,Medium,22
+OBS02622,R02569,Open,None,0.36,Medium,39
+OBS02623,R01482,Open,Accident,0.69,Medium,10
+OBS02624,R02979,Open,None,0.52,High,40
+OBS02625,R00441,Open,Fire,0.83,Severe,29
+OBS02626,R02222,Open,Flooding,0.99,Low,28
+OBS02627,R00698,Open,None,0.8,Medium,30
+OBS02628,R02324,Open,None,0.92,Severe,23
+OBS02629,R01529,Open,Emergency Closure,0.17,Severe,44
+OBS02630,R02787,Open,Accident,0.86,Severe,6
+OBS02631,R00382,Blocked,Traffic,0.72,High,55
+OBS02632,R01107,Open,Accident,0.58,Medium,35
+OBS02633,R04540,Congested,Fire,0.5,High,11
+OBS02634,R00206,Open,Flooding,0.83,Severe,28
+OBS02635,R02125,Blocked,Traffic,0.13,Low,26
+OBS02636,R00777,Open,None,0.26,Low,21
+OBS02637,R00918,Open,None,0.15,Low,7
+OBS02638,R00927,Congested,Traffic,0.82,Low,31
+OBS02639,R00726,Open,Traffic,0.04,Severe,39
+OBS02640,R00719,Open,None,0.94,High,24
+OBS02641,R03098,Open,Fire,0.86,Low,57
+OBS02642,R03936,Blocked,Flooding,0.45,Medium,55
+OBS02643,R00684,Open,Emergency Closure,0.56,Medium,11
+OBS02644,R01451,Open,None,0.14,Low,59
+OBS02645,R00034,Blocked,None,0.06,Low,27
+OBS02646,R02755,Restricted,Flooding,0.43,Severe,45
+OBS02647,R00556,Open,Emergency Closure,0.46,Severe,2
+OBS02648,R00171,Open,Emergency Closure,0.13,Severe,12
+OBS02649,R00312,Restricted,Chemical Hazard,0.91,Medium,28
+OBS02650,R01923,Congested,Flooding,0.76,Medium,39
+OBS02651,R00821,Congested,Accident,0.7,Medium,14
+OBS02652,R01619,Congested,Chemical Hazard,0.09,Severe,24
+OBS02653,R00891,Congested,Flooding,0.58,Severe,30
+OBS02654,R02420,Restricted,Chemical Hazard,0.27,Low,35
+OBS02655,R04447,Open,Fire,0.84,High,9
+OBS02656,R03060,Congested,Emergency Closure,0.72,High,42
+OBS02657,R00278,Open,Emergency Closure,0.23,Severe,25
+OBS02658,R02813,Open,Fire,0.41,Severe,57
+OBS02659,R01329,Open,None,0.69,Low,14
+OBS02660,R02250,Open,None,0.52,Medium,19
+OBS02661,R02158,Congested,Accident,0.38,Severe,37
+OBS02662,R03582,Open,None,0.81,Severe,40
+OBS02663,R01710,Congested,Emergency Closure,0.39,Severe,32
+OBS02664,R00833,Open,Chemical Hazard,0.44,Low,34
+OBS02665,R04807,Open,Chemical Hazard,0.87,Medium,59
+OBS02666,R03608,Open,None,0.34,High,38
+OBS02667,R03735,Blocked,Emergency Closure,0.83,Severe,38
+OBS02668,R03823,Blocked,Traffic,0.59,Medium,55
+OBS02669,R02191,Open,Flooding,0.7,Medium,10
+OBS02670,R04257,Blocked,Chemical Hazard,0.8,Medium,25
+OBS02671,R04617,Congested,Emergency Closure,0.53,Low,27
+OBS02672,R00764,Open,Accident,0.66,Severe,20
+OBS02673,R00613,Congested,Traffic,0.72,High,9
+OBS02674,R03987,Open,Chemical Hazard,0.89,High,41
+OBS02675,R03851,Open,Flooding,0.16,Severe,17
+OBS02676,R03097,Open,Chemical Hazard,0.28,Severe,3
+OBS02677,R03842,Congested,Emergency Closure,0.04,Medium,26
+OBS02678,R04686,Open,None,0.97,Low,21
+OBS02679,R02906,Blocked,Emergency Closure,0.82,Severe,46
+OBS02680,R00808,Blocked,Fire,0.02,Medium,18
+OBS02681,R04388,Open,Fire,0.47,Low,19
+OBS02682,R02666,Congested,Fire,0.31,High,17
+OBS02683,R04486,Open,Accident,0.4,High,24
+OBS02684,R03091,Open,Chemical Hazard,0.91,Low,45
+OBS02685,R00706,Congested,Fire,0.61,Medium,33
+OBS02686,R03315,Open,Accident,0.75,Medium,40
+OBS02687,R02758,Blocked,Flooding,0.03,Medium,19
+OBS02688,R03668,Open,Emergency Closure,0.82,Low,43
+OBS02689,R00855,Open,Flooding,0.23,High,24
+OBS02690,R01839,Blocked,Chemical Hazard,0.31,Low,9
+OBS02691,R04708,Open,Traffic,0.1,Medium,36
+OBS02692,R04078,Open,None,0.93,Severe,11
+OBS02693,R02731,Open,Emergency Closure,0.53,Severe,21
+OBS02694,R04468,Congested,Emergency Closure,0.82,Severe,20
+OBS02695,R02090,Open,Fire,0.94,High,34
+OBS02696,R03369,Blocked,Accident,0.72,Severe,13
+OBS02697,R00512,Restricted,Chemical Hazard,0.18,Low,45
+OBS02698,R02592,Open,Emergency Closure,0.18,High,6
+OBS02699,R03815,Restricted,Emergency Closure,0.13,Severe,12
+OBS02700,R03975,Open,Accident,0.08,High,44
+OBS02701,R02743,Open,Emergency Closure,0.32,Severe,42
+OBS02702,R03009,Open,Accident,0.79,High,47
+OBS02703,R01940,Open,Flooding,0.33,Severe,27
+OBS02704,R00947,Restricted,None,0.51,Low,3
+OBS02705,R00667,Open,Emergency Closure,0.05,Severe,56
+OBS02706,R03682,Blocked,Fire,0.82,High,49
+OBS02707,R03797,Open,Traffic,0.71,Low,1
+OBS02708,R00674,Open,Chemical Hazard,0.04,Low,3
+OBS02709,R04768,Open,Emergency Closure,0.22,High,50
+OBS02710,R02830,Open,Fire,0.81,Severe,17
+OBS02711,R04232,Open,Emergency Closure,0.15,Severe,1
+OBS02712,R03960,Open,Traffic,0.85,Severe,47
+OBS02713,R02500,Congested,Fire,0.72,Severe,16
+OBS02714,R04186,Open,Flooding,0.99,Low,54
+OBS02715,R01299,Congested,Accident,0.55,Severe,48
+OBS02716,R02069,Open,Flooding,0.54,Medium,16
+OBS02717,R04448,Open,Emergency Closure,0.2,Medium,10
+OBS02718,R02434,Open,Traffic,0.7,High,38
+OBS02719,R00799,Open,Emergency Closure,0.32,High,58
+OBS02720,R02433,Open,None,0.69,High,16
+OBS02721,R01606,Open,Fire,0.61,High,7
+OBS02722,R01590,Congested,Traffic,0.81,Low,1
+OBS02723,R02548,Open,Chemical Hazard,0.35,Low,37
+OBS02724,R03676,Open,None,0.06,Severe,43
+OBS02725,R02221,Open,Traffic,0.9,Medium,26
+OBS02726,R00336,Blocked,None,0.79,Low,46
+OBS02727,R04243,Open,Traffic,0.85,High,32
+OBS02728,R00859,Blocked,Accident,0.68,Low,36
+OBS02729,R00369,Restricted,Traffic,0.86,Severe,8
+OBS02730,R00884,Open,None,0.01,Severe,13
+OBS02731,R00992,Open,Fire,0.06,Medium,13
+OBS02732,R03538,Open,Fire,0.49,Severe,50
+OBS02733,R02845,Open,Fire,0.52,Low,59
+OBS02734,R04558,Open,Traffic,0.99,Medium,52
+OBS02735,R02041,Open,None,0.51,Low,33
+OBS02736,R00044,Open,Traffic,0.66,Low,38
+OBS02737,R00985,Open,Fire,0.01,Low,56
+OBS02738,R00811,Open,Traffic,0.17,Low,18
+OBS02739,R04444,Restricted,Accident,0.28,Low,43
+OBS02740,R03681,Open,Flooding,0.9,High,15
+OBS02741,R02547,Blocked,None,0.76,High,56
+OBS02742,R04490,Congested,Fire,0.16,Low,30
+OBS02743,R01691,Open,Traffic,0.45,Medium,35
+OBS02744,R00688,Congested,None,0.26,Severe,7
+OBS02745,R03596,Restricted,Chemical Hazard,0.69,High,15
+OBS02746,R02705,Blocked,Emergency Closure,0.65,Severe,47
+OBS02747,R00653,Congested,Emergency Closure,0.26,Severe,41
+OBS02748,R02747,Open,Traffic,0.81,High,35
+OBS02749,R02768,Open,Accident,0.45,Low,15
+OBS02750,R03755,Open,Emergency Closure,0.17,Low,45
+OBS02751,R04316,Open,Chemical Hazard,0.96,Severe,4
+OBS02752,R03043,Open,Accident,0.79,High,6
+OBS02753,R02514,Open,Accident,0.87,High,48
+OBS02754,R02210,Open,Traffic,0.38,Medium,43
+OBS02755,R02674,Open,Fire,0.8,High,45
+OBS02756,R01865,Restricted,Fire,0.49,Low,47
+OBS02757,R00148,Open,Accident,0.81,Low,3
+OBS02758,R01037,Open,Traffic,0.86,Medium,29
+OBS02759,R02222,Open,Chemical Hazard,0.75,Medium,47
+OBS02760,R03077,Open,Traffic,0.32,Severe,59
+OBS02761,R00737,Open,None,0.0,High,2
+OBS02762,R03192,Congested,Flooding,0.01,Low,49
+OBS02763,R04115,Open,Flooding,0.5,Low,36
+OBS02764,R00236,Open,None,0.38,Low,59
+OBS02765,R00630,Open,Emergency Closure,0.68,Severe,27
+OBS02766,R00458,Open,Emergency Closure,0.97,High,38
+OBS02767,R02777,Congested,Emergency Closure,0.03,Medium,22
+OBS02768,R02480,Blocked,Traffic,0.03,High,14
+OBS02769,R03292,Open,Traffic,0.84,Severe,37
+OBS02770,R02944,Open,Traffic,0.75,High,8
+OBS02771,R01993,Congested,Fire,0.26,High,40
+OBS02772,R03229,Blocked,Fire,0.31,High,49
+OBS02773,R02079,Blocked,Accident,0.36,Low,58
+OBS02774,R00123,Congested,Chemical Hazard,0.21,High,36
+OBS02775,R00017,Congested,Traffic,0.58,Medium,50
+OBS02776,R02698,Restricted,Chemical Hazard,0.95,Medium,35
+OBS02777,R01658,Blocked,Emergency Closure,0.55,Low,45
+OBS02778,R04046,Restricted,Traffic,0.24,Medium,34
+OBS02779,R03159,Blocked,Emergency Closure,0.5,Medium,7
+OBS02780,R03281,Open,Fire,0.88,Low,37
+OBS02781,R01190,Open,Traffic,0.15,Low,51
+OBS02782,R04591,Blocked,Accident,0.59,Low,37
+OBS02783,R04269,Congested,Traffic,0.55,Medium,4
+OBS02784,R02803,Congested,Fire,0.57,Low,40
+OBS02785,R01408,Blocked,Flooding,0.22,Severe,51
+OBS02786,R02428,Open,Accident,0.39,High,55
+OBS02787,R03432,Open,Fire,0.76,High,2
+OBS02788,R03925,Open,Traffic,0.03,Low,43
+OBS02789,R01305,Blocked,Fire,0.33,High,49
+OBS02790,R02070,Open,Chemical Hazard,0.71,Medium,55
+OBS02791,R01990,Restricted,Traffic,0.7,Medium,34
+OBS02792,R01199,Open,Accident,0.65,High,27
+OBS02793,R00729,Open,Fire,0.85,Severe,13
+OBS02794,R03941,Open,Fire,0.15,Severe,7
+OBS02795,R03441,Blocked,Emergency Closure,0.69,Low,10
+OBS02796,R00256,Open,Accident,0.64,Low,19
+OBS02797,R04209,Open,None,0.53,Medium,40
+OBS02798,R01149,Blocked,Flooding,0.1,Medium,10
+OBS02799,R01752,Open,Traffic,0.36,High,26
+OBS02800,R04158,Congested,Accident,0.02,Severe,9
+OBS02801,R03974,Open,Accident,0.62,High,50
+OBS02802,R02873,Open,Emergency Closure,0.39,Severe,49
+OBS02803,R02505,Open,Chemical Hazard,0.05,High,47
+OBS02804,R01823,Open,Chemical Hazard,0.78,High,54
+OBS02805,R02409,Open,Emergency Closure,0.78,Severe,16
+OBS02806,R01505,Congested,Accident,0.91,Severe,55
+OBS02807,R00296,Blocked,Accident,0.45,Severe,13
+OBS02808,R01362,Open,Fire,0.68,Medium,45
+OBS02809,R00373,Open,Chemical Hazard,0.49,Severe,30
+OBS02810,R02339,Open,None,0.31,Low,24
+OBS02811,R00741,Congested,Chemical Hazard,0.48,Low,26
+OBS02812,R01117,Open,Chemical Hazard,0.09,Medium,20
+OBS02813,R01497,Open,Emergency Closure,0.04,Low,28
+OBS02814,R00563,Open,Accident,0.44,High,19
+OBS02815,R00125,Open,Emergency Closure,0.41,Medium,24
+OBS02816,R02663,Open,Fire,0.0,Severe,56
+OBS02817,R00023,Congested,None,0.25,Severe,56
+OBS02818,R00033,Open,Traffic,0.74,Low,13
+OBS02819,R00054,Open,Emergency Closure,0.55,Severe,12
+OBS02820,R04115,Open,Fire,0.08,Low,25
+OBS02821,R02155,Blocked,Chemical Hazard,0.4,Low,27
+OBS02822,R00730,Open,Accident,0.3,High,35
+OBS02823,R03481,Open,Emergency Closure,0.14,Low,53
+OBS02824,R00296,Open,Accident,0.22,Low,17
+OBS02825,R03096,Restricted,Traffic,0.0,Low,7
+OBS02826,R04621,Open,Chemical Hazard,0.23,High,23
+OBS02827,R02894,Open,Chemical Hazard,0.08,Severe,48
+OBS02828,R04259,Congested,None,0.5,High,41
+OBS02829,R04548,Restricted,Emergency Closure,0.57,Severe,31
+OBS02830,R02089,Open,Emergency Closure,0.33,High,46
+OBS02831,R01889,Congested,Chemical Hazard,0.28,Medium,14
+OBS02832,R00104,Open,None,0.54,Medium,15
+OBS02833,R04300,Open,Fire,0.65,Medium,26
+OBS02834,R03879,Open,Chemical Hazard,0.98,Medium,30
+OBS02835,R02169,Open,Fire,0.91,Medium,15
+OBS02836,R04510,Congested,Accident,0.83,Low,54
+OBS02837,R02265,Congested,None,0.21,Medium,10
+OBS02838,R02876,Congested,Emergency Closure,0.58,Low,12
+OBS02839,R04113,Open,Fire,0.39,Low,22
+OBS02840,R01167,Open,Flooding,0.67,Medium,9
+OBS02841,R00646,Congested,Accident,0.18,Low,48
+OBS02842,R03414,Open,Flooding,0.56,Medium,25
+OBS02843,R03071,Open,None,0.28,Low,43
+OBS02844,R00854,Open,Accident,0.12,Low,54
+OBS02845,R00685,Congested,Flooding,0.82,High,29
+OBS02846,R01473,Open,Accident,0.46,Severe,19
+OBS02847,R02377,Open,Chemical Hazard,0.15,Low,51
+OBS02848,R04397,Congested,Flooding,0.95,Medium,22
+OBS02849,R00583,Open,Flooding,0.14,Medium,31
+OBS02850,R02709,Restricted,Accident,0.77,Medium,41
+OBS02851,R03243,Open,Accident,0.84,Severe,24
+OBS02852,R03757,Blocked,Accident,0.43,Medium,59
+OBS02853,R00268,Blocked,Fire,0.43,Medium,35
+OBS02854,R03797,Open,Emergency Closure,0.48,Medium,34
+OBS02855,R04435,Open,None,0.19,Medium,54
+OBS02856,R01685,Open,None,0.24,Low,50
+OBS02857,R01477,Open,Traffic,0.34,Low,35
+OBS02858,R00838,Open,Fire,0.63,Severe,38
+OBS02859,R02173,Open,Accident,0.21,Low,54
+OBS02860,R01258,Open,Emergency Closure,0.86,High,16
+OBS02861,R01445,Open,Flooding,0.88,High,8
+OBS02862,R04010,Congested,None,0.6,Severe,50
+OBS02863,R03229,Open,Accident,0.15,Medium,36
+OBS02864,R04095,Open,Chemical Hazard,0.99,Severe,12
+OBS02865,R02887,Open,Chemical Hazard,0.35,Low,6
+OBS02866,R03943,Congested,Chemical Hazard,0.97,Medium,44
+OBS02867,R02518,Open,Chemical Hazard,0.34,Medium,34
+OBS02868,R01929,Open,Flooding,0.59,Low,1
+OBS02869,R00227,Blocked,None,0.13,Low,51
+OBS02870,R03453,Open,Chemical Hazard,0.24,Medium,56
+OBS02871,R04759,Open,Chemical Hazard,0.29,Severe,18
+OBS02872,R02052,Congested,Traffic,0.26,Severe,11
+OBS02873,R04529,Restricted,Fire,0.64,High,31
+OBS02874,R04743,Blocked,Accident,0.9,High,47
+OBS02875,R04540,Open,Traffic,0.76,Low,58
+OBS02876,R03418,Open,Flooding,0.84,Severe,50
+OBS02877,R02015,Open,Flooding,0.04,Severe,28
+OBS02878,R03668,Open,None,0.92,Medium,4
+OBS02879,R01642,Open,None,0.59,High,19
+OBS02880,R03255,Open,Emergency Closure,0.38,Low,51
+OBS02881,R00541,Open,None,0.84,Severe,52
+OBS02882,R03888,Open,Flooding,0.06,Severe,10
+OBS02883,R00506,Open,Fire,0.9,Low,17
+OBS02884,R01223,Open,Emergency Closure,0.63,Medium,13
+OBS02885,R00038,Congested,Fire,0.21,Severe,22
+OBS02886,R04301,Open,Accident,0.04,Low,5
+OBS02887,R04425,Congested,Fire,0.04,Medium,57
+OBS02888,R04405,Open,Fire,0.98,Severe,42
+OBS02889,R01746,Congested,Flooding,0.94,Medium,23
+OBS02890,R04501,Open,Emergency Closure,0.2,Low,10
+OBS02891,R04035,Open,Chemical Hazard,0.29,High,42
+OBS02892,R02512,Blocked,Fire,0.39,Severe,11
+OBS02893,R02720,Blocked,Fire,0.44,Low,9
+OBS02894,R03705,Open,None,0.95,Medium,46
+OBS02895,R03272,Open,Chemical Hazard,0.74,Severe,36
+OBS02896,R01563,Open,Flooding,0.02,High,35
+OBS02897,R03845,Blocked,Traffic,0.52,Low,14
+OBS02898,R00902,Open,Chemical Hazard,0.87,High,18
+OBS02899,R01726,Blocked,Traffic,0.39,Severe,42
+OBS02900,R00114,Open,Chemical Hazard,0.77,Medium,7
+OBS02901,R02263,Open,Traffic,0.63,Medium,59
+OBS02902,R04308,Open,None,0.1,Low,45
+OBS02903,R02205,Open,Fire,0.88,High,27
+OBS02904,R01947,Open,Flooding,0.57,High,44
+OBS02905,R02713,Congested,None,0.07,Medium,23
+OBS02906,R01346,Open,Flooding,0.69,Severe,32
+OBS02907,R00395,Open,Flooding,0.83,Severe,13
+OBS02908,R03711,Congested,Chemical Hazard,0.45,Low,16
+OBS02909,R03978,Open,Traffic,0.94,Medium,29
+OBS02910,R04078,Congested,Accident,0.79,High,17
+OBS02911,R02716,Blocked,None,0.68,Medium,30
+OBS02912,R02536,Open,Emergency Closure,0.01,Medium,22
+OBS02913,R03206,Open,Flooding,0.06,High,42
+OBS02914,R02148,Congested,None,0.31,High,58
+OBS02915,R02758,Open,Accident,0.51,Low,46
+OBS02916,R01149,Open,Fire,0.35,Low,38
+OBS02917,R01630,Open,Chemical Hazard,0.79,High,34
+OBS02918,R00005,Open,Accident,0.05,Medium,49
+OBS02919,R03516,Blocked,Fire,0.18,High,20
+OBS02920,R04034,Open,Fire,0.55,Severe,57
+OBS02921,R00620,Open,None,0.68,Medium,45
+OBS02922,R03415,Open,Fire,0.34,Medium,4
+OBS02923,R01281,Restricted,Fire,0.11,Low,7
+OBS02924,R03335,Congested,Chemical Hazard,0.34,High,19
+OBS02925,R01759,Open,Emergency Closure,0.52,Severe,28
+OBS02926,R04467,Open,Chemical Hazard,0.63,Severe,58
+OBS02927,R02719,Open,Flooding,0.97,High,15
+OBS02928,R02444,Open,Traffic,0.85,Medium,45
+OBS02929,R03790,Blocked,Accident,0.85,Medium,43
+OBS02930,R03421,Congested,None,0.33,High,26
+OBS02931,R01750,Open,Fire,0.17,High,29
+OBS02932,R00524,Open,Flooding,0.38,Severe,12
+OBS02933,R02056,Open,Chemical Hazard,0.94,High,15
+OBS02934,R01233,Open,Accident,0.35,Low,17
+OBS02935,R02568,Open,Flooding,0.51,High,4
+OBS02936,R04249,Blocked,Emergency Closure,0.74,Low,15
+OBS02937,R01578,Congested,Fire,0.08,High,22
+OBS02938,R00351,Open,Flooding,0.34,Severe,44
+OBS02939,R02349,Open,Emergency Closure,0.38,Medium,37
+OBS02940,R01023,Open,Chemical Hazard,0.99,Medium,52
+OBS02941,R00131,Open,Accident,0.68,High,3
+OBS02942,R04733,Open,Flooding,0.11,Severe,35
+OBS02943,R01966,Congested,Flooding,0.76,Severe,5
+OBS02944,R02132,Blocked,Flooding,0.95,High,4
+OBS02945,R04276,Congested,Flooding,0.48,High,51
+OBS02946,R04276,Blocked,Traffic,0.45,Severe,38
+OBS02947,R01239,Open,Traffic,0.06,High,45
+OBS02948,R04354,Open,Traffic,0.21,High,24
+OBS02949,R01614,Open,Traffic,0.32,Medium,40
+OBS02950,R03085,Open,Emergency Closure,0.91,Severe,10
+OBS02951,R04175,Restricted,Flooding,0.93,Medium,38
+OBS02952,R01933,Blocked,None,0.64,Low,57
+OBS02953,R02201,Blocked,Chemical Hazard,0.8,Low,30
+OBS02954,R02247,Open,Fire,0.44,Low,9
+OBS02955,R02702,Restricted,Flooding,0.6,Low,31
+OBS02956,R04369,Congested,Traffic,0.58,High,37
+OBS02957,R01373,Open,Traffic,0.46,High,23
+OBS02958,R03685,Blocked,Fire,0.59,Low,55
+OBS02959,R02441,Open,Accident,0.77,Low,52
+OBS02960,R00317,Open,Accident,0.01,Low,36
+OBS02961,R01490,Open,None,0.1,High,58
+OBS02962,R01516,Open,Chemical Hazard,0.01,Severe,53
+OBS02963,R01787,Blocked,Traffic,0.9,High,14
+OBS02964,R02124,Open,Chemical Hazard,0.41,High,34
+OBS02965,R03974,Blocked,None,0.67,Medium,25
+OBS02966,R00529,Open,Fire,0.54,Medium,1
+OBS02967,R00506,Open,Accident,0.2,Low,59
+OBS02968,R00460,Open,Traffic,0.9,Medium,3
+OBS02969,R03873,Open,Chemical Hazard,0.92,High,9
+OBS02970,R04404,Open,Emergency Closure,0.9,Medium,58
+OBS02971,R03432,Open,Traffic,0.83,Low,22
+OBS02972,R04180,Open,Flooding,0.94,Low,2
+OBS02973,R00008,Open,Emergency Closure,0.84,Low,9
+OBS02974,R02441,Open,Chemical Hazard,0.96,Severe,44
+OBS02975,R03853,Open,Flooding,0.51,Severe,6
+OBS02976,R04027,Congested,Emergency Closure,0.26,Low,48
+OBS02977,R03248,Blocked,Traffic,0.73,High,1
+OBS02978,R02010,Open,Chemical Hazard,0.35,High,2
+OBS02979,R02106,Congested,Chemical Hazard,0.1,High,23
+OBS02980,R02524,Open,Chemical Hazard,0.34,Medium,29
+OBS02981,R01192,Open,Emergency Closure,0.4,Severe,25
+OBS02982,R01287,Open,Chemical Hazard,0.04,Low,13
+OBS02983,R02001,Open,Chemical Hazard,0.47,Medium,41
+OBS02984,R01871,Congested,Traffic,0.44,Medium,59
+OBS02985,R00784,Open,Flooding,0.44,Low,25
+OBS02986,R00584,Open,Emergency Closure,0.87,High,11
+OBS02987,R03793,Open,None,0.6,Severe,26
+OBS02988,R02312,Open,Chemical Hazard,0.92,Medium,23
+OBS02989,R04438,Blocked,Traffic,0.89,Medium,10
+OBS02990,R00589,Congested,Emergency Closure,0.53,High,41
+OBS02991,R03331,Open,Flooding,0.39,Severe,4
+OBS02992,R03846,Open,Flooding,0.08,Low,35
+OBS02993,R02592,Open,Traffic,0.01,Medium,41
+OBS02994,R01104,Blocked,None,0.64,High,34
+OBS02995,R00284,Open,Chemical Hazard,0.29,High,19
+OBS02996,R04760,Blocked,Emergency Closure,0.57,High,51
+OBS02997,R04189,Open,Flooding,0.92,Medium,40
+OBS02998,R01639,Open,Fire,0.79,High,3
+OBS02999,R02002,Open,Flooding,0.04,Low,48
+OBS03000,R01998,Open,Accident,0.79,Medium,16
