@@ -2,8 +2,16 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import OperationalMap from './OperationalMap';
 import './styles.css';
 
-const API_BASE = import.meta.env.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:8000' : `${window.location.protocol}//${window.location.host}`);
-const WS_BASE = import.meta.env.VITE_WS_BASE || (window.location.hostname === 'localhost' ? 'ws://localhost:8000' : `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}`);
+const API_BASE = import.meta.env.VITE_API_BASE || (
+  window.location.hostname.includes('loca.lt')
+    ? 'https://eleven-melons-send.loca.lt'
+    : (window.location.hostname === 'localhost' ? 'http://localhost:8000' : `${window.location.protocol}//${window.location.host}`)
+);
+const WS_BASE = import.meta.env.VITE_WS_BASE || (
+  window.location.hostname.includes('loca.lt')
+    ? 'wss://eleven-melons-send.loca.lt'
+    : (window.location.hostname === 'localhost' ? 'ws://localhost:8000' : `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}`)
+);
 
 export default function App() {
   // Navigation: 'command' | 'incidents' | 'operations' | 'responders' | 'medical' | 'evacuation' | 'alerts' | 'ai_activity' | 'audit' | 'responder' | 'public'
